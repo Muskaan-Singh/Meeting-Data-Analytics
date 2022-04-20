@@ -1,0 +1,21 @@
+10. 3. 2020 11:00
+
+
+
+
+- technické věci
+- Undefined References [PERSON16]
+- Glossaries [PERSON17]
+- [PERSON13]: jak budem formátovat příklady?
+- The word ``can’’ -> makro priklad
+- The word \emph{can} -> makro priklad
+- makro pojem
+ [PERSON13]: jakej casing názvů sekcí a subsekcí? Všechno Title Case? Jo
+ [PERSON3]: jak jsou na tom příběhy?
+ 
+[PERSON13]: já jsem svůj příběh nastřelil, prosím feedback
+ 
+[PERSON13]: bude story jak se od NN LM došlo k word embeddings?
+
+cesta od hidden states ke contextual embeddings je tomu dost podobná
+

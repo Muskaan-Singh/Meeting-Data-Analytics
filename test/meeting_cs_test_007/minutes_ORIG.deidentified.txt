@@ -1,0 +1,40 @@
+Meeting 18. 5., 2020:
+- Meeting ID: [NUMBER]
+- Meeting Password: 1234
+- Join URL:
+- [URL1]
+Attendance:
+- [PERSON25], [PERSON18], [PERSON23], [PERSON4], [PERSON1], [PERSON2]
+Project Call - 22 May at 10 am GMT / 11 am CET / 12 noon EET
+- [URL]
+- ucast povinna pro koho? (minimalne [PERSON25], [PERSON1], [PERSON23]….)
+- pexip nebo zoom:
+- zoom - dotaz na [PERSON7] ([PERSON4] zalozi)
+- problemy s [ORGANIZATION5]:
+- neplaceni dobrovolnici?
+- mechanical turk? proc ne?
+- kdo bude vyhodnocovat [OTHER3] experimenty? [ORGANIZATION5]?
+- čekat na QE?
+Deliverable:
+- vysledky:
+- [PERSON1] - nezdarene initial experimenty
+- [PERSON] - publikovane source complexity vysledky
+- [PERSON19]: experimenty s parafrazovanim (kapitola source variation)
+- [PERSON4]: paraphrase translation
+- [PERSON25]: multi-lingual translation
+- prispevek od 
+[OTHER3]:
+- [ORGANIZATION3] nemá hotovo.
+- Z QE pouze binarni vystup bez confidence
+- zmena langpairu (z: en2cs ; do: cs2es) neni mozna, protoze nejsou data
+- data pro MT training
+- natrenovat alignmenty
+- QE pro cestinu stale trenujem
+- stale dva systemy: strong vs weak
+- [ORGANIZATION5] nespolehlivy - sami shanime lidi na anotaci:
+- chybi QE na cestinu i estonstinu
+- pokud dropnem QE, nemusi byt ani alignment
+- idealne 20 participantu na jazyk
+- cs: mame (potencialne) 7 nasmlouvanych (non-Czech speaking)
+- es: 
+

@@ -1,0 +1,38 @@
+PERSON1 = Tomáš Musil, Tomáš
+PERSON2 = Rudolf Rosa, Rudolf, Ruda
+PERSON3 = David Mareček, David
+PERSON4 = Jindřich Libovický, Jindřich
+PERSON5 = Tomasz Limisievicz, Tomasz
+PERSON6 = Yonatan Belinkov, Belinkov
+PERSON7 = Seran
+PERSON8 = Jan Hajič, Hajič
+PERSON9 = Sakura
+PERSON10 = Gerry
+PERSON11 = X
+PERSON12 = Kateřina Veselovská, Veselovská
+PERSON13 = Markéta Lopatková, Lopatková
+PERSON14 = Barbora Hladká, Bára Hladká
+PERSON15 = BVH
+PERSON16 = Hanička
+PERSON17 = Dominik
+PERSON18 = Patricie
+PERSON19 = Jan Fariad, Fariad, Fariad Jan, Jan
+PERSON20 = Mišo
+PERSON21 = Milan Straka, Straka
+PERSON22 = Markéta
+
+
+ORGANIZATION1 = THEAITRE
+ORGANIZATION2 = Blackbox
+ORGANIZATION3 = GAČR
+ORGANIZATION4 = ÚFAL
+ORGANIZATION5 = Karolinum
+
+
+PROJECT1 = LSD, LSD Book
+PROJECT2 = Pbml Book
+PROJECT3 = Universal Dependencies
+PROJECT4 = Wiki
+
+
+ANNOTATOR5 = Sabina Smékalová

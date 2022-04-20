@@ -1,0 +1,20 @@
+Přítomni
+[PERSON16], [PERSON14], [PERSON22], [PERSON2]
+
+Zmínilo se
+• co je a co není na [OTHER1]
+• WP3
+• WP4, RNN
+• mzdy
+• články do TSD
+• kniha
+• ukončení spolupráce s [PERSON21]
+
+
+Úkoly
+• [PERSON2] přidá modely na [OTHER1]
+• [PERSON2] restartuje DEMO
+• [PERSON22] zruší WP5
+• [PERSON22] sepíše, co od koho potřebuje na WP6
+• každý přidá články do Zotera na připravovanou publikaci
+

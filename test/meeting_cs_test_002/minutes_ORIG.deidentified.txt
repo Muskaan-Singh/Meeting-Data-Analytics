@@ -1,0 +1,31 @@
+Agenda k záznamu:
+21. 1. 2020 15:00
+
+- co jsem udělal a co chystám
+- MICA, PICA, JICA
+- EMNLP článek co jsme nesubmitli
+- Kniha
+ -- Co píšeme? populární přehled
+ -- anglicky
+ -- O čem píšeme? Interpretace neuronek v NLP? Nebo se to dá nějak zúžit?
+-- Pro koho (kromě grantu [ORGANIZATION1], haha) to píšeme?
+--- Pro [PERSON7], pro [PERSON6], pro lidi z ACL, pro Plzeňáky
+-- Ty články v Zoteru mají být nějak organizované?
+-- Složky podle toho, jaká část neuronky se analyzuje (embeddings, attentions, contextual embeddings, sentence embeddings, ...)
+-- Tagy podle toho, co se v tom hledá (morfo, syntax, semantika, ...)
+-- STANOVIT MILNÍKY A DEADLINY
+-- Překlopit věci z disertace // udělat surveje
+
+- Do 14. 2. 2020 (Valentýn) : Plán knihy
+
+- Do 14. 3. 2020 (den π ) : První verze textu
+
+- Do 22. 4. 2020 (Den Země)  : Celá knížka hotová
+
+- Do 1. 6. 2020 (Den dětí)
+
+-- [PERSON2]: úvod do neuronek
+-- ???: úvod do lingvistiky
+-- [PERSON13]: embedingy
+-- [PERSON4]: Attentiony
+-- [PERSON12]: kontextový embeddingy

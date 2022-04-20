@@ -1,0 +1,22 @@
+Person 1 = Tomáš Musil
+Person 2 = David
+Person 3 = Rudolf Rosa
+Person 4 = Jindřich
+Person 5 = Magda
+Person 6 = Anča
+Person 7 = Hajič
+Person 8 = Pavel Straňák
+Person 9 = Zdeněk
+Person 10 = Michal Novák
+Person 11 = Pavel Novák
+Person 12 = Dan Zeman
+Person 13 = Veronika
+Person 14 = Péťa
+Person 15= Jindra Helcl
+Person 16= Ondřej
+Person 17 = Martin
+Person 18 = Martin Popel
+
+
+ORGANIZATION 1 = UFAL
+

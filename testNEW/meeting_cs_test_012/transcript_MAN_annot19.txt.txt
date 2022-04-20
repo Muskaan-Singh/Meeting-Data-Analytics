@@ -1,0 +1,1989 @@
+(Tomáš) No s tebou je vysloveně radost spolupracovat, člověče.
+
+Nejdřív píšeš, že máš statechlive a že ho nechceš to-
+
+přeinstalovávat.
+
+A já kvůli tomu vymejšlím způsoby, jak to pouštět na UFALu.
+
+Píšu návody na slag a ty mi pak napíšeš, že máš novej techslive a stejně ti to nejde a UFAL tě ani nenapadlo zkoušet.
+
+No, co mám s tím dělat potom?
+
+(Jindřich) No, a to ani nevím, že si psal, že to funguje na UFALu.
+
+Já jsem myslel, že to funguje jenom u tebe doma.
+
+(Tomáš) Vždyť to tady píšu.
+
+No tak já už nevím, co mám jinýho dělat než to tady napsat.
+
+A taky teda nevím, jak ti to může nefungovat, jestli máš aktuální techlive a aktuální knihovny v něm.
+
+(Jindřich) Hmmm.
+
+(Tomáš) Tak by to mělo dělat to samý přece.
+
+Všude.
+
+(Jindřich) No tak jak zjistím, jaký mám techlive?
+
+Já píšu tech minus, minus version, ne, třeba.
+
+(Tomáš) To nevím, je to možný.
+
+Spíš bych napsal witch.
+
+Třeba witch salatech.
+
+(Jindřich) Hele, tech minus, minus version říká, že mám techlive 2019.
+
+(Tomáš) No, to máš blbý.
+
+Já mám techlive 2020.
+
+(Jindřich) A.
+
+No každopádně ten scriptur proběhne a nic neřekne.
+
+Teda řekne zeleně success ten -
+
+(Tomáš) Hm.
+
+To je blbý, no.
+
+Ale on to prostě.
+
+Víš co.
+
+Tam vypisuje všelijaký divný věci, který je pak potřeba promazat, tak když to vypisuje jiný divný věci, tak to pak nefunguje, no.
+
+(Jindřich) Hm.
+
+(Tomáš) Jo, ostatně.
+
+Si zas nepamatuju, jak se zjišťujou verze těch knihoven.
+
+(Jindřich) Mimochodem slyším vod tebe zvuk s praskáním.
+
+Nevím, jestli je chyba u tebe nebo u mě a taky nevím, jak to zjistit.
+
+(Tomáš) Hm.
+
+To taky nevím.
+
+Můžu si připojit sluchátka s mikrofonem.
+
+(Jindřich) Mimochodem, ty pouštíš slag na Uguntu?
+
+(Tomáš) Ne.
+
+Já pouštím slag na Windowsu.
+
+(Jindřich) Oukey.
+
+Mně se občas slag rozhodne sníst všechnu paměť světa.
+
+Takže když vidím, že se mi začne zasekávat kurzor, tak musím rychle vlízt do terminálu a napsat kill all slag nebo už nic dalšího neudělám.
+
+<smích>
+
+A nevím moc co s tím.
+
+(Tomáš) Napiš do terminálu make čtyři h t dohromady mezera mínus, mínus version.
+
+(Jindřich) Nula tři dé.
+
+(Tomáš) No, já má nula tři ef.
+
+To sis polepšil vod minula jedna cé, ale nevím jestli dostatečně.
+
+(Jindřich) No, já jsem si polepšil tím, že jsem nainstaloval nový Uguntu.
+
+(Tomáš) Hm.
+
+(Jindřich) A to jsem nainstaloval proto, abych moh, abych moh vysílat vobraz do televize.
+
+(Tomáš) Hm.
+
+Taky bych měl nainstalovat nový Uguntu.
+
+(Jindřich) No a tam najednou se tady ty skripty začaly projevovat tím, že místo toho aby sypaly hromady chyb, tak napsaly success.
+
+(Tomáš) No, jenomže já se obávám, že je potřeba mít prostě přesně stejnou verzi, aby všechny ty moje ohejbáky tam fungovaly.
+
+(Jindřich) No, jednak si trochu myslím, že všechny ty tvý ohejbáky jsou zbytečná práce, že vygenerovat si to html a nakopírovat to.
+
+(Tomáš) To je zbytečná práce.
+
+(Jindřich) Je obdobně rychlý a nemusíš se, nemusíš se procházet to, mazat z xml.
+
+(Tomáš) No, ale nemůžeš-
+
+Víš co, prostě to už mám napsaný ten skript a teď už se to prochází a maže samo.
+
+Tímhle postupem prostě nemůžeš dát makovat všechny defily najednou.
+
+Musíš potom každej ručně kopírovat.
+
+To je hrozná votrava.
+
+(Jindřich) No a kolik, kolik jich kopíruješ do grammar line?
+
+Jenom tu svoji kapitolu, ne?
+
+(Tomáš) No a já nic nekopíruju do grammar line.
+
+Já prostě řeknu, já nevím, dobře, když to nepotřebuju testovat, tak nevejguju všechny, tak řeknu prostě make ambeding srt a když je to hotový, tak kliknu na ambeding zdt a tam kliknu import tu grammar line a nemusím nikde nic kopírovat.
+
+(Jindřich) No, tak, že jo.
+
+Tak já bych udělal make ambeding ztml.
+
+Otevřel bych to v prohlížeči, zmáčknul control a, otevřel bych grammar line, tam bych kliknul new document a zmáčknul control v a-
+
+(Tomáš) I když mnoho práce.
+
+Navíc kopírování je častým zdrojem chyb.
+
+Ve chvíli kdy-
+
+(Jindřich) No.
+
+(Tomáš) Kdy nefunguje to, že by mi to grammary přenášelo ty změny zpátky, tak mi příjde, že každý zrychlení a zjednodušení toho procesu, je pro mě dobrý v tom, že pak nemám bariéru v tomto, to často ukládat a znova zmakovat a znova importovat a mám jistotu, že kontroluju to, co tam vopravdu mám napsaný v tý knize a nepřehlídnu nějaký překlepy.
+
+Což bych nedělal, kdybych to musel pokaždý kopírovat.
+
+(Jindřich) Oukey.
+
+Tak to už mi příjde, že tam není žádnej rozdíl.
+
+(Tomáš) No anyway prostě.
+
+(Jindřich) No to nemění nic na tom, že jsem debil, že komituju věci, který nemám komitovat, jo, ale-
+
+(Tomáš) Hm.
+
+No právě.
+
+Nekomituj věci, který nemáš komitovat a jinak si dělej, co chceš.
+
+(Jindřich) Tak.
+
+(Tomáš) Pro mě za mě si klidně kopíruj html, když tě to baví.
+
+I když ono zase, jestli nemáš techlive, kterej bys moh updatovat, tak je to asi stejně pracný jako makovat si to na UFALu a kopírovat to přes SCP, no.
+
+(Jindřich) No.
+
+(Tomáš) No.
+
+Patnáct minut tu, nikde nikdo.
+
+Tak mezitím ti ještě můžu povědět, že jsem zjistil, k čemu je pátá struna na benžo.
+
+(Jindřich) No povídej.
+
+(Tomáš) A je to super.
+
+(Jindřich) Ježišmarja.
+
+<smích>
+
+(Tomáš) Je to všechno logický a je to všechno krásný.
+
+(Jindřich) Hele, Rudla.
+
+(Rudolf) Čau, čau.
+
+(Tomáš) Čau Rudo.
+
+(Jindřich) Tomáš se zrovna chystal vzít si benžo.
+
+Ať jsou hezký věci v přepisech z Elitru.
+
+<smích>
+
+(Rudolf) Jindřich má nějaký absurdní pozadí.
+
+(Jindřich) Jo to je tady, to je tady samo vod sebe na zdi v tom bytě, kam jsme se teď přestěhovali a vona je zatím nějaká hnusná skříň s pojistkama, tak jsem to tam nechal.
+
+<smích>
+
+(Rudolf) To je cool.
+
+Hrozně moc prostě vypadá, že to tam máš nějak doklíčovaný.
+
+(Jindřich) Jo už mi to.
+
+Nejsi první, kdo to říká.
+
+(Rudolf) No to je dobrej nápad, že jo.
+
+Mně na tom Linuxu většinou nefungujou ty doklíčování, tak bych si za sebe mohl prostě dát nějakou tapetu.
+
+(Tomáš) Achjo.
+
+(Jindřich) Nebo to můžeš dotáhnout do toho, jak se dřiv točilo ve filmech, kde jedeš autem a proletí tam za sebe nějakou ubíhající krajinu.
+
+(Rudolf) To už by nikdo ale nedával pozor, co se děje na meetingu.
+
+(Tomáš) Já bych moh odstrkat nábytek tady vod tý zelený stěny a měl bych instantní green screen.
+
+<smích>
+
+(Rudolf) Cool.
+
+(Jindřich) Můžeš ukazovat třeba předpověď počasí.
+
+<smích>
+
+(Tomáš) No jako na prezentace by to mohlo bejt zajímavý.
+
+(Rudolf) Ehm.
+
+(Jindřich) Jojojo.
+
+<smích>
+
+(Tomáš) Tady máme neuron, tady máme druhej neuron.
+
+Todle je neuronová síť.
+
+(Rudolf) Jak to ti lidi dělaj, aby ukazovali tam, co to je, když to tam není?
+
+(Tomáš) No koukají-
+
+(Jindřich) Viděj se, viděj se v nějaký televizi, kterou jim tam ukazujou.
+
+(Rudolf) Hm.
+
+Takže to musíš reutem klíčovat.
+
+(Tomáš) Ty co dělaj to počasí, ty už to mají nacvičený určitě všechno.
+
+Za ty roky.
+
+(Rudolf) Hm.
+
+(Jindřich) A čas od času jim to změněj, tu grafiku, ale jasně, že vědí, kde je Norsko, no.
+
+<smích>
+
+(Rudolf) Tak já jdu ještě číst knihu než se David vobjeví.
+
+Začal jsem číst Tomášovu sekci a dávám do toho nějaký komentáře a tak se o tom asi pobavíme, až příjde David.
+
+(Tomáš) Zrovna koukám, že tady někdo něco pushnul.
+
+(Rudolf) Taky bych si mohl vzít něco k jídlu.
+
+<jiný_zvuk>
+
+(Jindřich) No tak povídej.
+
+<smích>
+
+(Tomáš) Pátá struna.
+
+To je geniální.
+
+Ona je v podstatě stejně naladěna jako ta první.
+
+No akorát prostě začíná tady, takže teď je tohle déčko a tohle je géčko.
+
+Ale když člověk dojde sem, kde začíná ta pátá struna, tak už je to stejný.
+
+<jiný_zvuk>
+
+(Jindřich) No jasně.
+
+(Tomáš) A tím pádem se dají hrát-
+
+A ještě tady je-
+
+<jiný_zvuk>
+
+celkem malej interval, takže se na tom dají hrát hrozně chromatický věci, který by na kytaru šly blbě, takže ale neustále střídáš struny a nepotřebuješ nikdy hrát na jedný struně dvakrát po sobě.
+
+(Jindřich) No a tak víš, proč to začíná až v půlce toho hmatníku.
+
+(Tomáš) No ještě by to mohlo být géčko no.
+
+To je ještě druhá funkce.
+
+Jenomže prostě se ti hodí géčko.
+
+Když chceš hrát v gé-dur.
+
+(Jindřich) No jasně no.
+
+(Tomáš) Protože kdyby to mělo bejt géčko od začátku hmatníku, tak by ta struna musela bejt hrozně tenká.
+
+(Jindřich) Čau.
+
+(Rudolf) Čau, čau.
+
+(David) Já se omlouvám.
+
+Já jsem dneska nějak od rána pořád někam jezdil autem po Praze a strašně mě to štve.
+
+(Jindřich) Tak doufám, že sis zanadával a zatroubil alespoň.
+
+(David) No já jsem si najezdil do centra a tam prostě, to je jak kuželky, tam prostě furt někdo vyjíždí, parkuje, bliká.
+
+Padali mi tam lidi pod auto.
+
+No to je jedno.
+
+Zanadával jsem si, no.
+
+Tak jo, tak jak se to má s knihou?
+
+Co komu chybí, se zeptám.
+
+Nic vám nechybí.
+
+Já jsem ještě po ránu dodělal ty obrázky, ale tak jsem je snad opravil.
+
+Alespoň.
+
+(Rudolf) Mně chybí pár nějakých to dos a ještě jsem do summary nedal vodstavec vo tom, vo čem je moje kapitola.
+
+A když tam někdo navrhnete citace a obrázky, tak tam budou citace a obrázky.
+
+(David) Citace a obrázky do té kapitoly nebo do summary?
+
+(Rudolf) Hm.
+
+Do summary bych asi citace a obrázky nedával.
+
+(David) No já asi taky ne.
+
+Máš tam, pushnu to a měknu to?
+
+Funguje ten odkaz?
+
+(Rudolf) Ehm.
+
+Jojo.
+
+Teda pusnul jsem ho maknul a nezkoušel jsem, jestli funguje.
+
+A vod Jindry bych potřeboval, aby kouknul na moje komentáře k jeho komentářům v mojí kapitole.
+
+(Jindřich) Oukey.
+
+(Rudolf) Myslím, že jich není moc, ale někde jsem si nebyl jistej co s tím.
+
+No a začal jsem číst Tomášovu kapitolu a jsem ji nepřečetl, tak jsem k ní naházel jenom pár komentářů.
+
+(David) Jakou kapitolu jsi začal číst?
+
+(Rudolf) Tomášovu.
+
+(David) Jo, Tomášovu.
+
+Jo, takže budou ještě další kometáře.
+
+Hele, co se týče, co se týče, eh, recenzentů.
+
+Já jsem psal Hajčovi mejl s recenzetama a Hajč mi neodpověděl.
+
+Chvilku jsem čekal, protože byli, protože to vypadalo, že toho má Hajc spousta, pak byl UFALí seminář, pak byly svátky a furt nic.
+
+Takže já mu napíšu znovu a uvidíme jestli tentokrát odpoví.
+
+<paralelní_rozhovor>
+
+Co?
+
+(Rudolf) Koho mu píšeš recenzenty?
+
+(David) Hajčovi, no.
+
+(Rudolf) A koho?
+
+(David) No ty dva co máme.
+
+Krále a tu Peťu, Peťu.
+
+No uvidíme.
+
+Jako už jsem čekal, že odpoví, že mi řekne, že to jsou falešní recenzenti nebo, že mi řekne oukey, v pohodě a tak jsem se nějak nedočkal, takže mu to pošlu znova.
+
+(Rudolf) Ehm.
+
+Hm.
+
+(David) No.
+
+Von říkal, že když to dáme k recenzi v říjnu,  že bysme to měli stihnout do července.
+
+<smích>
+
+Nebo do června, tak snad, tak snad to stihnem.
+
+Další věc je Magda Ševčíková po mně chce vystoupení na UFALím seminíři, tak už jsem to nemoh víc odkládat a řek jsem, že budem teda nějak prezentovat nějaký LSD a je to třicátýho, třicátýho listopadu.
+
+Asi to můžu prezentovat sám a nebo to můžem prezentovat každej svou část nebo ještě jsem se nerozhod, co tam vlastně bude.
+
+Asi by tam měly být spíš naše věci, co jsme udělali za ten projekt.
+
+A takže to se asi potom -
+
+Vy byste měli nějakej nápad, jak to -
+
+Je to až za dva měsíce, takže času je na to dost a kdybyste měli nápad, jak to uchopit, tak -
+
+(Rudolf) No já bych to uchopil Tomášovým způsobem.
+
+Spoustu obrázků, samý vnundy a píčoviny.
+
+(David) To jo, ale tak už Tomáš někde ukazoval, že jo.
+
+Několikrát.
+
+Ale ne na UFALím semináři, takže.
+
+(Jindřich) Já jsem myslel Tomášovým způsobem v pět padesát jedna komitnout, že to bude zejtra hotový.
+
+<smích>
+
+(Tomáš) No, ale je to hotový.
+
+(Rudolf) V jednom semináři jsme ukazovali-
+
+<nesrozumitelný>
+
+(David) No tam jsme to ukazovali.
+
+Minulej rok jsme to ukazovali.
+
+Tam byli vnady, ne?
+
+(Tomáš) Jo, ale tak opakování je matka moudrosti.
+
+(David) Pak byli vnady ještě na doktorským, na tom, na UHB tezí, ale tam skoro nikdo nebyl.
+
+Tak bez návnady.
+
+Asi to máme na tři čtvrtě hodiny takže -
+
+Já doufám, že už budem mít napsanou knížku a že už nějak budem mít, že už to budem mít všechno hotový.
+
+(Jindřich) Mimochodem jak to vypadá teď, ten seminář.
+
+Ten bude, ten bude zase virtuální?
+
+(David) Bude virtuální, no.
+
+To znamená, že, že těžko říct -
+
+Já nikdy nevím, jak týjo, kdo, kolik lidí tam vlastně poslouchá.
+
+Já jako nevím, měl jsem takový pocit, že u těch, na tom UFALím semináři, že tam poslouchají tak tři, čtyři lidi.
+
+Teda tři, čtyři lidi reagovali, tak možná vostatní poslouchali a možná taky moc ne.
+
+Těžko říct.
+
+Vono to není vidět.
+
+(Rudolf) Zase máš větší účast než by jsi měl fyzicky, že jo, protože se připojí padesát lidí a jestli poslouchaj nebo si vařej kafe, to se nepozná, no.
+
+(David) To se nepozná, no, když maj vyplej zvuk a kameru.
+
+(David) No každopádně jsem to omezil, na to kejvnul, takže, takže se to bude konat a -
+
+(Rudolf) No myslím, že tam něco zvládnem říct.
+
+(David) Eh, máme něco, co se má, máme tady něco navrhnuto?
+
+Tentokrát Bruno nic nedělá a Tomáš dopsal knihu.
+
+Jo, Tomáš dopsal knihu, tak se na to -
+
+Já jsem teda nestihnul, se na to podívat.
+
+(Rudolf) Já jsem na to začal koukat a tak nějak mi přišlo, ale to si myslím, že asi mi řeknete, že je správně, že mi příjde, že tam Tomáš spíš jako popisuje, co teda se jako ukazuje a nemá tam žádný jako silnější prostě interpretace, jako jestli to teda něco znamená.
+
+Jakože, když prostě něco nějaký, tak jestli z toho můžeme vyvozovat nějaký závěry a nebo ne.
+
+(David) A jaký by sis představoval?
+
+Jako to -
+
+(Rudolf) Tak třeba, že jo, Tomáš napsal celej článek vo tom, jak jako je podobný embedingy s významem.
+
+A příjde mi, že tady prostě se vo tom jako řekne vlastně hrozně málo, že teda tam jsou jako ty analogie.
+
+Pak se řekne, že teda, eh, význam se dá organizovat geometricky a není úplně jasný, jak to souvisí a už se teda neřekne, jestli teda vůbec ty embedingy jako zachycujou význam nebo nějakou část významu a jestli jako si vo tom něco myslíme.
+
+A jako já mám vždycky ten opačnej problém, že jo.
+
+Já bych tam napsal samý jako silný claimy a tady vidíme prostě part of speech a tady vidíme syntaktický vztahy a to zase vy mi pak hodíte na hlavu, že to tam tak úplně jako nevidíme, ale -
+
+(David) A ty to tam vidíš.
+
+(Tomáš) Ale pár tam vidíme.
+
+S význama je to komplikovaný.
+
+Ale, ale piš tam tyhle votázky.
+
+Na jednu co jsem zatím koukal, tak mi příjde, že vlastně si nejsem úplně jistej, jestli budu na všechny schopnej vodpovědět, ale třeba mě na některý napadne nějaká vodpověď a napíšu jí tam.
+
+Myslím si, že to jsou dobrý votázky, že by mě to mohlo ještě postrčit správným směrem, jak ten text doplnit.
+
+(Rudolf) Jo, já tam tady ty votázky píšu, jenom mi to přišlo jako takový obecnější.
+
+Ehm.
+
+A jakože, jakože mi příjde, že by to tomu mohlo dát, dodat jako nějakou hloubku, nějakou sílu, kdybysme jako zvládli, jako tam zapojit nějakej svůj postoj k tomu, co se v těch článkách našlo, což si myslím, že tam v podstatě moc jako Tomáš nepíše.
+
+Já to tam třeba jako mívám prostě, že prostě dělám nějakou syntézu a navíc vono těma článkama a z toho vyvodím nějaký vobecnější závěry.
+
+Ale jako nevím, jak moc je to důležitý nebo jak moc to chceme a jak moc si to troufneme.
+
+(Tomáš) To asi chceme, kdybysme si troufli.
+
+Já si moc netroufám, no.
+
+(Rudolf) Hm.
+
+To já zas klidně, ale.
+
+(David) Nedokážeme to pořádně podložit.
+
+Ten komental.
+
+Jakože to tam vopravdu je.
+
+To můžeme dost často říct, že to tam asi je nebo to tam asi vidíme, ale -
+
+Hele, tady je spousta nových obrázků.
+
+No spousta novejch, jeden, aha.
+
+(Tomáš) Dva.
+
+(David) Kde je ten druhej?
+
+(Tomáš) Ještě pozdějš jeden, druhej.
+
+(David) No, ty banány přes sebe jsou na konci.
+
+(Tomáš) No, tak ještě předtím je jeden, ale ten už jsi viděl taky jinde.
+
+(David) Jo.
+
+No tam jsou ty, ty oranžovo-modro-zeleno-červený, ne?
+
+Ty tam nebyly.
+
+(Tomáš) Jo.
+
+(Jindřich) Jo tyhle banány.
+
+(Rudolf) Já nevím jaký banány.
+
+(David) Ty překrytý přes sebe nebo ty.
+
+(Tomáš) Hlavně co ten <nesrozumitelný>  momentálně nějak rozhod, že všechny vobrázky nebo teda všechny ne, ale půlku obrázků nasází až za tu kapitolu, což.
+
+(Rudolf) Jo tady jsou až za tou kapitolou.
+
+Já už jsem tam nekoukal, pač mi přišlo, že -
+
+(David) Hele, to mně taky dělalo a tam byl nějakej problém u toho, u toho, u toho prvního obrázku, co tam je nasázenej za těma kapitolama, většinou nějakej problem.
+
+(Jindřich) Když je jeden blbě, tak ten se dá za tu kapitolu a všechny co jsou za ním, tak se dají za něj.
+
+(David) Takže blbě může bejt ten, ten, tady s tím trojúhelníkem modrým.
+
+Ty píčoviny jsou blbě.
+
+Asi se mu to nelíbí, že to je moc sprostý.
+
+<smích>
+
+Já jsem taky nevěděl co s tím a nakonec tam byla nějaká blbost jako nějaká.
+
+(Jindřich) Když budeš mít blbě nějaký ty písmenka, který určujou polohu a von si řekne, tak to tam dám až za tu kapitolu a všechny vobrázky jdou až za něj.
+
+(Tomáš) Já tam snad žádný písmenka doufám nemám a možná jo.
+
+Hele.
+
+No jo.
+
+Tady je h.
+
+Aha.
+
+(David) Já mám pocit, že jsem měl nějakej problém s tím h nebo jsem měl dokonce h s vykřičníkem něco takovýho.
+
+To nějak mi si řekli, mě nebude poslouchat a hodil to nakonec.
+
+(Tomáš) To jsem asi vomylem zkopíroval z toho -
+
+Z něčeho z čeho jsem kopíroval ten figure.
+
+Teď mi to kompiluje, konspiluje, kompiluje.
+
+(David) Jinak teda.
+
+Nevím, jak -
+
+(Tomáš) Hele, už je to lepší.
+
+Tak já to komitnu a pushnu.
+
+(David) Tak to komitni a pushni.
+
+Jinak teda, eh, nevím jak, jak to udělat dál s našima meetingama.
+
+Možná bych se přesunul radši na chat, protože stejně ty meetingy se dlouho svoláváme a pak tam toho moc, nevím, mi příjde, že toho moc nevyřešíme stejně.
+
+Tak bych se možná přesunul, že bych už nedělal meetingy každej tejden.
+
+Jenom když budeme potřebovat něco probrat a přesunul bych se prostě, komunikoval bych prostě asi na slagu.
+
+(Jindřich) Škoda.
+
+Já moc živých lidí nevídám.
+
+(David) Chceš vídat živý lidi, jo.
+
+(Jindřich) Je mi to asi jedno.
+
+(Rudolf) No mně ten meeting jako víc nutí, víc jako alespoň něco udělat, i když ani to se poslední dobou úplně nedaří.
+
+(David) No vono se to ani poslední dobou nedaří, jako mě to, jako mě to taky nutí poslední dobou něco udělat a já jsem si myslel, že už to teďka bude hotový a že už to prostě dáme těm recenzentům a budem chvilku dělat něco jinýho, ale vono to tak nevypadá.
+
+Tak jestli nemáte problém s meetingama, tak můžem pokračovat s meetingama každej tejden, alespoň se, alespoň se, alespoň se dokopem k tomu něco dělat.
+
+(Rudolf) Můžem cvičně domluvit meeting na příští tejden, tam je teďka naklikaný ve středu a to já asi nemůžu takhle brzo ve středu.
+
+(David) Hele, já vůbec nevím, jak budu moc další dny, teda až.
+
+Ještě jsme pořád neporodili, ale, ale -
+
+Ale někdy asi budu moct, no.
+
+Ale vůbec nemůžu teď nic slibovat, kdy můžu a kdy nemůžu, protože to je, to je.
+
+Takže můžem to dát zase v úterý, jako ty máš v úterý, ty učíš v úterý -
+
+(Rudolf) Do dvanácti.
+
+Do dvanácti deseti.
+
+(David) Takže můžem to nechat na tu středu.
+
+No ve středu to je blbý
+
+(Rudolf) Jako za mě v úterý odpoledne je dobrý.
+
+A to někdo jinej nemoh, ne?
+
+(Jindřich) Já mám, my máme ve dvě team meeting.
+
+(Rudolf) Jo.
+
+(David) Můžem to dát na středu a ve středu dopoledne nemůžeš?
+
+(Rudolf) Eh, to taky učím tu svou technologii a příští středu je takový to natáčení v tom divadle, jestli to bude.
+
+(Tomáš) To nám zakážou dneska, ne?
+
+(Rudolf) To já nevím, jestli dneska.
+
+To se uvidí.
+
+(Jindřich) No to vám nezakáže, to je práce, ne?
+
+(David) A je to do deseti lidí, ne?
+
+(Rudolf) Asi může bejt.
+
+(David) A je to práce, to je pravda.
+
+To by klesla ekonomika, kdybys tam nešel.
+
+(Rudolf) Já si myslím, že práce se nezakazuje, že třeba v těch hospodách klidně můžou ti lidé pracovat, jenom tam nesměj mít ty hosty.
+
+<smích>
+
+(Jindřich) Asi to tak bude, no.
+
+Že já jsem, já jsem třeba když byl ten první lockdown, tak prostě ukazovali, jak filharmonie dál cvičí a nahrává.
+
+Protože přitom jsou v práci, ale nemohli mít ty koncerty.
+
+(Rudolf) Hm.
+
+Vždyť že jo, ty sportovní utkání se říká, že budou, ale nebudou u toho smět diváci.
+
+To je vlastně podobný.
+
+(Jindřich) To je pravda.
+
+Ty jsou taky v práci.
+
+(David) Počkej a ty jsou.
+
+Vono to platí i venku?
+
+(Rudolf) No já myslím, že to ještě není jako formulovaný jak ty opatření.
+
+(David) No já vím, já jsem akorát včera večer něco čet, teda v noci, když jsem.
+
+(Rudolf) Zatím jsou to takový jako vágní náznaky všecko.
+
+Takže si myslím, že zatím se neví, jak to bude.
+
+(Tomáš) A ví se alespoň v kolik to vyhlásej?
+
+(David) Tam myslím je to, jo, v kolik to vyhlásej ne, ale bude to platit podle mě vod půlnoci myslím, že jsem někde čet.
+
+(Rudolf) Poslední, co já jsem čet, bylo, že by měly bejt až vod pondělí ty věci.
+
+(David) No, vod pondělí od půnoci.
+
+(Jindřich) Na to je zatím čas.
+
+Ví se v kolik nebo řekli v kolik to vyhlásej, ale podle mě nic v těch vyhlášení nebylo v ten čas.
+
+Vždycky řeknou bude jednat vláda a, a ve čtyři hodiny bude tisková konference a když se tohleto řekne, tak ta tiskovka je tak v osm.
+
+<smích>
+
+(Tomáš) No tak uvidíme.
+
+(Rudolf) Ehm.
+
+(Tomáš) Anyway.
+
+To jsme nějak odbočili vod toho meetingu.
+
+(Rudolf) No, ale ono to souvisí.
+
+<smích>
+
+Když nám zrušej divadlo, tak klidně můžu na meeting.
+
+Ale když bude divadlo, tak tam bych nerad sliboval, že někdy z toho divadla odejdu, protože tam úplně nevím.
+
+(Tomáš) A tady je nějaká schůzka tyjátru tady v kalendáři na tu středu příští.
+
+(Rudolf) Je tam na tu středu schůzka tyjátru.
+
+(David) Jo tam je schůzka tyjátru, no.
+
+(Rudolf) Asi nějak bude no někdy a -
+
+Hm.
+
+Já se musím vůbec podívat, co psali o tom divadle a říkal jsem si, že stejně se v tom divadle nás nějaký množství sejde, tak se můžem rovnou pobavit vo věcech, ale jednak nevím, jestli to bude a jednak nevím, na jak dlouho to bude.
+
+(David) Hele, co se týče mě, já si myslím, že příštěj tejden už budu mít dovolenou nebo otcovskou nebo já nevím co nebo -
+
+A pak budu mít ještě další dovolenou a chtěl jsem omezit práci na učení, konzultaci se studentama a, a asi stejně budu muset dopsat tu knihu.
+
+Ale budu spíš jako většinou pracovat, asi na to budu mít čas hlavně dopoledne, jenže dopoledne já v pondělí učím, v úterý asi taky učím, takže bysme třeba středa dopoledne?
+
+(Rudolf) To učím já.
+
+(David) To učí Ruda.
+
+(Rudolf) Co čtvrtek?
+
+(David) Dopoledne.
+
+A nebo pak by to bylo večer?
+
+Já nevím.
+
+Hele, tak to domluvíme prozatím příští -
+
+(Rudolf) Příští čtvrtek dopoledne můžem udělat jak LSD, tak tyjátr schůzky online.
+
+(David) Příští čtvrtek dopoledne?
+
+Vždyť příští středu máme tyjátr.
+
+To nemusí bejt, jo?
+
+(Rudolf) No jako ne nutně, no.
+
+Já jsem to tam jako naklikal, ale záleží, že jo, kdo má jaký rozvrh a tak.
+
+To se asi teď teprve objevuje.
+
+To já samozřejmě nevím, že jo, kdy může Dominik, kdy může Patrície, kdy kdo učí.
+
+(David) Hele, tak to dáme příští čtvrtek v jedenáct?
+
+Zatím jenom, aby to někde bylo.
+
+(Rudolf) Jojo, to je dobrý za mě.
+
+(David) Já to dám, kam to dám.
+
+Eh, teď jsem to asi.
+
+Dal jsem to jen do svýho kalendáře.
+
+(Rudolf) Já jsem si to do svýho dal taky.
+
+(David) Tak si to dejte do svých kalendářů a -
+
+Stejně pravděpodobně já nebudu moct nebo něco se stane, ale třeba někdo jinej nebude moct, ale -
+
+(Jindřich) Je to čtvrtek osmýho?
+
+(David) Čtvrtek osmýho v jedenáct.
+
+(Jindřich) Jo.
+
+To je dvě hodiny před deadlinem na ECL.
+
+(Rudolf) Tady vůbec v kalendáři to, jo je tady ECL.
+
+A píšeš tam něco?
+
+(Jindřich) Já tam.
+
+No.
+
+Píšu něco.
+
+(Rudolf) Tak to se asi úplně nehodí.
+
+<smích>
+
+(Jindřich) Já třeba to budu mít tou dobou hotový.
+
+Těžko říct, no.
+
+Je to, to co mi, je to neuronová editační vzdálenost, kterou mi spektakulárně zamítli na EMNLP, protože tvrděj, že jsem vopsal nějakou věc z Nixu, který vůbec nerozumím, takže ani nedokážu říct, jestli je to, to samý nebo ne.
+
+<smích>
+
+(David) No vidíš to.
+
+Přišel jsi na něco úžasnýho z Nixu akorát nevíš, že je to vono.
+
+(Rudolf) To je cool.
+
+(Jindřich) Tak tam chci k tomu dodělat nějaký další experimenty, který nevím, jestli výjdou.
+
+Takže buď to budu jenom přeposílat a napíšu tam, že to je podobný tomu z toho Nixu.
+
+Akorát je to mnohem jednodušší.
+
+(David) Všichni to pochopí.
+
+(Jindřich) A nebo tam budu psát ještě další věci, no.
+
+(Rudolf) Já nevím, tak to zatím necháme na ten čtvrtek a Jindřich nám dá vědět, jak je na tom a David nám dá vědět, jak je na tom.
+
+(David) A uvidíme, no.
+
+(Rudolf) Já si myslím, že na ECL nic nepíšu, to bych asi věděl, kdybych tam něco psal.
+
+(David) No já jsem chtěl po Tomášovi, aby tam napsal, to co má, ale von teď musí dělat pořád nějakou administrativu.
+
+Pořád nějaký -
+
+(Rudolf) Byl vůbec na tom ITATu nebo jak to bylo?
+
+(David) Byl na tom ITATu.
+
+Já jsem mu říkal.
+
+Včera jsme -
+
+Včera to bylo?
+
+Jo.
+
+Včera jsme vyplňovali cesťák a von říkal, že musí jít na ten, na tu vaší úvodní přednášku, tak jsem si říkal super, tak tam se vo cesťáku alespoň dozvíš, jak ho vyplnit.
+
+Pak přišel a řekl, že jste cesťák neřešili, že stejně nikdo nikam necestuje.
+
+<smích>
+
+Takže jsem to musel stejně všechno vysvětlit já.
+
+(Rudolf) To má pravdu, no.
+
+To my taky máme pravdu.
+
+(David) No, ale Tomáš cestoval, že jo.
+
+Asi jedinej.
+
+(Rudolf) On tam stejně tenkrát nesměl nebo tak něco.
+
+(David) Cože, co?
+
+(Radolf) Že tam stejně dost možná nesměl v době, kdy tam jel, ne?
+
+(David) Von tam moh, no.
+
+(Rudolf) Slovensko v nějakou chvíli zakázalo cesty z Prahy.
+
+(David) Von tam moh.
+
+S testem tam moh a jako Polák tam možná moh taky, když von byl v Praze jen chvilku předtím.
+
+Von byl v Praze jenom pár dní.
+
+On byl předtím v Chorvatsku.
+
+(Tomáš) Což je mnohem lepší.
+
+(David) Chorvatsko už je lepší než Česko, teďka.
+
+<smích>
+
+(Jindřich) Teď zrovna jo, no.
+
+(Rudolf) Tak meeting máme.
+
+Kniha vzniká.
+
+(David) Hele, no, ale to mi právě příjde, že vždycky na tom meetingu akorát domluvíme další meeting.
+
+(Rudolf) No měli bysme se domluvit na ty EMNLP články.
+
+Jindřich něco má a asi je teď v pondělí deadline na camera ready.
+
+(Jindřich) Jo.
+
+Já už jsem preventivně, preventivně submitnul camera ready, to co jsme poslal na ten, na ten black box, protože tam chtěli, tam chtěli jak preview, camera ready, aby se, aby řekli, jestli se to tam bude prezentovat nebo ne.
+
+(Rudolf) Preview camera ready, to je novej termín.
+
+Takovýho něco mezi draftem a camera ready.
+
+(David) To je camera ready, no.
+
+(Jindřich) No.
+
+Prostě to co máš zrovna teď, že jo.
+
+Tak jsem jim to.
+
+(Rudolf) Tohle je teda to, co je do toho findings nebo jak se to jmenuje.
+
+A black box teda něco vyhlásil jakože, když to máš ve findigs a jim se to líbí, tak to můžeš prezentovat na black boxu, jo.
+
+(Jindřich) Jo.
+
+(David) A to vůbec nevím, že něco takovýho bylo.
+
+A Tomáš nic neříkal nebo nevím, jestli tam taky něco dával nějaký pre camera ready -
+
+(Rudolf) Já jsem to taky nevěděl.
+
+Jindřich mi najednou psal hele, do zejtra je potřeba na to kouknout a já jsem mu na to napsal nekouknu a taky jsem předtím vo ničem nevěděl.
+
+(David) To já jsem četl, ale nepochopil jsem na co a jako proč.
+
+(Rudolf) Mně to bylo ze začátku taky.
+
+(Jindřich) Mně to přišlo takový.
+
+Já nevím.
+
+Mně to přišlo za prvý korporalistem.
+
+(David) Ten nečtu.
+
+(Jindřich) A za druhý mi to přišlo nějakým, nějakou interpretabority google group.
+
+(Rudolf) Hm, tam asi taky nejsem.
+
+(David) Aha, tak to Tomášovi asi nějak nepřišlo nic.
+
+No mně taky ne.
+
+No to je jedno, tak tam třeba budeš prezentovat.
+
+(Tomáš) Jindřichu pošli prosím odkaz na google group na slag.
+
+(Jindřich) Pošlu.
+
+A jak to zjistím.
+
+Já si vlezu do group tečka google tečka com a tam to někde najdu, co?
+
+(David) Týjo, tam už jsem dlouho nebyl na group google com.
+
+(Jindřich) Hele, hele filty.
+
+<smích>
+
+(Rudolf) To jsme měli google groupu, jo?
+
+My jsme taky měli všecko, co šlo.
+
+(Tomáš) No jo, to ještě nebyly slagy.
+
+(Jindřich) Týjo, to jsou zajímavý věci.
+
+<smích>
+
+(David) Česko let.
+
+(Rudolf) Taky tam mám česko let.
+
+(David) A je tam Mikulášského gymnázia v Plzni.
+
+(Rudolf) Já tady nemám font, za to tady mám něco arabsky, arabsky dva tisíce čtyřicet arabsky, arabsky.
+
+(Jindřich) Divize nulou, divize jedničkou, divize nulou česko let.
+
+(David) UFAL students to mám.
+
+(Rudolf) Co to je?
+
+(David) Připojeno dvacátýho šestýho desátý dva tisíce sedm.
+
+To je nejstarší groupa, co tu mám.
+
+(Rudolf) Já mám nějaký groupy pod jiným účtem nebo co.
+
+(David) Napiš si tam hlavně Jana Kravalová.
+
+(Rudolf) Hm.
+
+<smích>
+
+(Jindřich) Kdo to je?
+
+(David) Ty nevíš, kdo je Jana Kravalová?
+
+(Jindřich) Ne.
+
+(David) To je Jana Straková.
+
+(Jindřich) Aha.
+
+(David) Hm.
+
+Dobře.
+
+Tak ta groupa, kde psali manželé Straky, když ještě nebyli manželé.
+
+<smích>
+
+(Tomáš) Jsme zase nějak odbočili, ne?
+
+(David) Zase jsme odbočili.
+
+Hele, takže, eh, co s tou knihou?
+
+<paralelní_ rozhovor>
+
+(Tomáš) Ruda četl tu moji kapitolu a zkritizoval ji.
+
+(Rudolf) Jo, já jsem s tím začal, tak v tom budu pokračovat.
+
+(David) Ruda by mohl přečíst všechny kapitoly a zkritizovat je.
+
+Budem muset vymyslet nějaký lepší model než prostě psát kometáře a pořád na ně a reagovat na ně nebo vylepšovat tu knihu tímto způsobem.
+
+(Rudolf) Pro mě je to dobrý, mně tam Jindřich někdy před dvěma měsícema napsal komentáře, já jsem je v poslední době vyřešil.
+
+(David) Já zkusím vobjednat tisk, máme do sto sedmdesáti stránek.
+
+Ono to bude asi potom míň, protože z tama potom vypadnou ty kometáře a něco se vymaže.
+
+Tak můžu zkusit udělat objednávku na sto šedesáti stránkovou knihu nebo něco takovýho a -
+
+(Tomáš) Ale zase ty rejstříky a tak dále, který tam zatím nejsou, to možná o něco prodloužej.
+
+Těžko říct co se stane s citacema, až je učešeme, jestli se to taky neprodlouží, když místo archivů různejch, tam dáme ty poctivý citace.
+
+(Rudolf) Hm, hm.
+
+(David) Dobře, tak můžu zkusit na sto sedmdesát.
+
+Podívám se kolik to stojí.
+
+To stejně potřebuju vědět, protože musíme udělat něco s penězma.
+
+(Jindřich) A co ta případná korektura?
+
+(David) Jo.
+
+To nevím koho, můžu napsat na UFALe se zeptat, co dělaj nebo můžu se zeptat ostatních autorů knih, jestli to nějak řešili.
+
+(Jindřich) Ta třeba autor knihy Michal Novák to podle mě neřešil.
+
+(David) Ten to neřešil, tak autoři knih, kteří vydali svoji dizertaci, ti to neřešili, že jo.
+
+(Jindřich) Takže jako vždycky prostě je žádný deadliny nejsou a furt si jenom jako musíme myslet, že teď už to, už to musí bejt, jako si to myslíme posledních půl roku?
+
+(David) Deadline byl teďka, že jo, třicátýho září.
+
+Dneska je deadline.
+
+(Jindřich) No, ale co to teda jako dovopravdy znamená to, že je dneska deadline.
+
+(David) To že dneska -
+
+(Tomáš) Máme hotovo.
+
+(David) Dneska se měla poslat kniha recenzentům, jenže Hajč nereaguje, takže ti recenzenti ještě nejsou.
+
+Až budou recenzenti, tak bych jim to poslal.
+
+To znamená, že budem to muset, musíme to rychle teďka dát do nějakýho čitelnýho stavu.
+
+(Jindřich) To docela je teď v čitelným stavu, ne?
+
+Teď když se -
+
+(Tomáš) Já si nemyslím, že je to v čitelným stavu.
+
+Musí se vodstranit.
+
+<paralelní_rozhovor>
+
+(Jindřich) Bez těch všech kometářů zadefinujeme relax.
+
+(David) To se zadefinuje, no.
+
+(Rudolf) Hm.
+
+(Jindřich) Tak se to dá poslat, ne?
+
+(Rudolf) Já si myslím, že víceméně, že to tak je.
+
+(David) No a potom, že jo, jim to bude nějak trvat několik tejdnů než to přečtou a pak nějak budou reagovat a pak budem ještě to znova, jako asi předělávat, že jo, a uvidíme jak moc a -
+
+(Rudolf) No, to se rovnou až budeš pinkat Hajiče, tak se ho můžeš zeptat, jestli to můžem poslat recenzentům jako tady draft, který budeme ještě mezitím vylepšovat, aby nám to -
+
+(David) Jo to určitě.
+
+To určitě můžem poslat jako draft.
+
+To si tak voni, voni, že jo, čím dřív to budou mít tím líp, že jo.
+
+(Rudolf) Já bych si to tak doufal, no.
+
+(David) Pokud je to, pokud je to čitelný a má to nějak jako, má to nějakou hlavu a patu, tak je nejlepší jim to poslat co nejdřív.
+
+Takže.
+
+Ale já chci mít alespoň potvrzeno od Hajče, že alespoň o tom ví.
+
+(Rudolf) Ehm.
+
+(David) Von se tváří, že, no.
+
+Takže já mu ještě pošlu jeden email a pak to rovnou můžem poslat, jakmile to potvrdí.
+
+Snad to potvrdí, když to nepotvrdí, tak budeme muset hledat ještě někoho jinýho.
+
+Jak to potvrdí, tak už jim to poslal těm recenzentům, tak jako bych tomu dal třeba den, dva na to, abysme, abysmě kdyžtak dodělali nej, takový nej, ty největší díry co tam jsou a už bych jim to poslal.
+
+(Tomáš) Tak tam už snad žádný velký díry nejsou, ne?
+
+(Rudolf) Já nevím o žádnejch úplně velkej dírách.
+
+Jako tam je spousta těch to do, ale myslím, že žádný ty to do nejsou nic jako, tady je to úplnej nesmysl nebo tak.
+
+(David) Jako není, já myslím, že minimálně všechny texty se minimálně jednou je někdo přečet, okomentoval, ale ty komenty si nějak reagovalo.
+
+Takže to jako asi nějak jako vypadá.
+
+Rozumně.
+
+Takže jako jó, no.
+
+Deadliny se pořád posunujou, ale deadline měl být ten dnešní, že jo, měl bejt deadline a mělo se to dneska posílat těm recenzentům, jenže.
+
+(Rudolf) Já bych to klidně jako poslal recenzentům.
+
+Klidně dneska kdyby to jsme měli už recenzenty a tak.
+
+(David) No a pak že jo.
+
+Dva měsíce se tiskne kniha, tak vono to ještě asi bude.
+
+Tam ještě možná jsou dvě kolečka, jakože se to pošle recenzentům, voni ti něco pošlou zpátky, pak to nějak opravíš, pošleš jim to znova a voni potom už třeba řeknou, že jo, že jo.
+
+Ale tohleto bude třeba trvat.
+
+(Rudolf) No, to já nevím, jestli se to jako posílá znovu recenzentům.
+
+(David) No prej jo.
+
+Prej může.
+
+Někdy né, když to, když se jim to líbí, že jo, tak napíšou prostě pěknou recenzi a upravte si pár věcí, no.
+
+Ale že tohleto může trvat ještě jako x měsíců, že jo, takže.
+
+Proto jsem to chtěl, takže jako deadliny jsou jako ještě ty skutečný, kdy se to bude dávat k tisku, to je ještě daleko, že jo, ale chtěl jsem mít ten deadline prostě dneska, kdy ta kniha bude už nějak napsaná.
+
+Pošlem to recenzentům  a pak se nám budou už jenom vychytávat nějaký mouchy, ale už to nebude nějak jako kritický.
+
+Kritický to bude až to pošlou recenzenti, že jo, to uvidíme, ale -
+
+No a musí se vobjednat ten tisk, kterej se musí zaplatit tehleten rok, aby to mohlo jít z toho grantu.
+
+<smích>
+
+Dopředu.
+
+To snad dělat MATFYZ press, takže to budeme posílat MATFYZ pressu a -
+
+No a Hajc se tvářil, že jako když to bude pošlem recenzentům teďka, že to bude v červnu.
+
+Ta kniha vydaná.
+
+Takže jako.
+
+Takže to jako, si myslím, že ještě do února, do března jako ještě se to bude moct furt měnit.
+
+<smích>
+
+Ale jako nechci, nechci nad tím trávit čas prostě, opravíme to, co máme a už to, já nevím, to prostě bude trvat ještě asi dlouho.
+
+(Rudolf) Jako můžeme někdy si prostě dát nějaký knižní prázdniny jako ve chvíli, kdy třeba budeme vědět, že to mají recenzenti a čekáme až vodpovědí, tak si můžem třeba měsíc říct, že na to nešáhnem.
+
+(David) Ano, to jsem, to jsem chtěl teďka právě.
+
+(Rudolf) No klidně teďka.
+
+(David) Takže až budeme mít po přečtení recenzentech, až jim to pošlem, tak si dáme knižní prázdniny.
+
+To určitě.
+
+(Rudolf) Super.
+
+Taky číst nějakou jinou knihu než tuhle.
+
+(Tomáš) Zrovna ty bys četl nějaký knihy.
+
+To se mi moc nechce věřit.
+
+(Rudolf) Tak já čtu hlavně beletrie.
+
+(Tomáš) Říkat si, že na to nešáhnem, je celkem snadný.
+
+(Rudolf) No, alespoň něco by se nám mohlo povést.
+
+<smích>
+
+(Tomáš) Spíš by to možná chtělo eště někdy udělat nějakej jako koncentrovanej effort k dotažení těch drobností.
+
+(David) Koncentrovanej effort myslíš, že se někde sejdem a budem dotahovat všichni to prostě najednou?
+
+(Tomáš) Třeba tak no, kdyby to někdy vyšlo.
+
+(Rudolf) No, já jako tenhle tejden zkusím teda přečíst tu Tomášovu kapitolu a ideálně i Davidovu kapitolu a případně i zbytek knihy a nějak to okomentovat.
+
+Každej bysme měli do summary napsat vodstavec vo tom, o čem jsme tam psali.
+
+No, ale v principu mi to připadá poslatelný.
+
+(David) Jo, já jsem teda ještě zjistil, že jsem do conclusion k etenšnům napsal conlcuion jenom poslední kapitole.
+
+(Rudolf) Hm.
+
+<smích>
+
+(David) Takže musím to rozconclusionovat přes celý, ale, ale -
+
+Já můžu ještě přečíst jednou Rudovu kapitolu potom, protože tu jsem čet z rychlíku.
+
+<jiný_zvuk>
+
+(David) Co to bylo?
+
+(Rudolf) To byla Anička.
+
+<smích>
+
+(Jindřich) Vodsad jsem si myslel jsem, že to budou nějaké Davidovo děti.
+
+(David) Né, já jsem tady teďka, jsem doma sám.
+
+Vodvez jsem ženu a jedno dítě do školky a voni se tam teď někde hrajou venku.
+
+Takže teďka mám konečně klid.
+
+No, já musím ještě dodělat, já musím předělat ty vobrázky, aby byly hezký, protože tam jsou furt ty ošklivý obrázky všude.
+
+<nesrozumitelný> že recenzenti můžou dostat i ty hnusný, ale možná by bylo lepší, aby dostali rovnou ty hezký.
+
+(Jindřich) Jo pět dvanáct ten je mimořádně ošklivej.
+
+(David) To je tabulka.
+
+Jó, jasně to se ti nelíbí, to já vím, že je vošklivej.
+
+Já to předělám.
+
+(Jindřich) Ale recenzentům je to asi jedno ještě, ne.
+
+(Rudolf) Jo, no mimořádně ošklivej obrázek.
+
+Už jsem viděl horší.
+
+<smích>
+
+(David) To je obrázek, kterej je myslím vygenerovaný z toho, z google, z google sheetu nějak.
+
+(Jindřich) Tomášovi zase příjde mimořádně ošklivej obrázek jedna jedna.
+
+(Tomáš) Ano.
+
+<smích>
+
+(Tomáš) Doufám, že ho předěláš ještě.
+
+(Jindřich) Tak, co s tím mám předělat?
+
+Co je na něm vošklivýho?
+
+(Rudolf) Ten sputnik.
+
+(Tomáš) Ty jsou hrozně tenký, tady ti to škrtá n.
+
+Celý to má takový vobludný proporce, proč to nevypadá tak hezky jako třeba vobrázek jedna tři?
+
+(Jindřich) Nevím.
+
+(Tomáš) Nebo vobrázek jedna sedm?
+
+(Jindřich) Jedna šest, jedna sedm, to mi příjde skoro stejný, že jo, ty šipky jsou stejný.
+
+To je prostě deafaultní šipka v Top tixu.
+
+(David) Mně to příjde taky relativně stejný.
+
+(Tomáš) Ty tam máš vobludně, vobludně obrovskej kruh v tom jednom vobrázku, tak musíš prostě změnit proporce těch šipek, aby to nějak vypadalo.
+
+(David) Jako ty šipky větší nebo menší nebo?
+
+(Tomáš) No podle mě by měli mít rozhodně větší ty hlavy.
+
+(Rudolf) No to by asi mohli mít.
+
+(Jindřich) Tak já zvětším hlavy, no.
+
+(Tomáš) A ta šipka, aby nemusela škrtat to n.
+
+Přinejmenším.
+
+A pak taky ty nápisy tady impot x <jiný_jazyk>.
+
+Já chápu, že to maj bejt sloupečky, ale kdybych neveděl, co má na tom obrázku bejt, tak bych nad tím asi dlouho přemejšlel, když to jde takhle šikmo nahoru.
+
+(Rudolf) Možná kdyby to bylo nahoře, jako kdyby nadpisy a bylo to v jednom řádku tady ty texty.
+
+(Jindřich) Oukey, to asi můžou bejt, no.
+
+(David) Nebo je votočit o devadesát stupňů.
+
+Nevím.
+
+To mi příjde jako hrozný detaily.
+
+Když vezmu problémy jiný, který v tý knize jsou.
+
+(Rudolf) To řekneš nakonec.
+
+<smích>
+
+(David) To se vyřeší až, až dostanem recenze.
+
+(Tomáš) No mimochodem vobrázek jedna pět teda taky není žádnej zázrak, to, uzavřenosti, když tady ten <jiný_jazyk> u and alt dva tisice sedmnáct vylejzá z toho rámečku.
+
+(David) A jaktože někde to není popsaný?
+
+(Jindřich) No protože -
+
+(David) Třetí sloupeček třeba?
+
+(Jindřich) Protože k tomu prostě není paper.
+
+(David) Jakože to se neví, co to je.
+
+(Jindřich) Ne.
+
+To tam prostě poslal někdo, ví kdo se, ví se asi kdo to poslal, co to bylo za instituci, ale nenapsali k tomu žádnej paper.
+
+Voni totiž v tom visionu vůbec nemaj ty systémy description papery.
+
+A voni prostě pošlou -
+
+(Rudolf) A když nějakou kravinu, tak o tom nemáš, co napsat.
+
+(Jindřich) No prostě pošlou, pošlou submition, napíšou k tomu jeden odstavec textu, kterej se vobjeví v těch findings a když k tomu nemáš, co napsat, tak k tomu nemáš, co napsat.
+
+(Rudolf) Divný.
+
+(Jindřich) No tak je to správně podle mě jako.
+
+(Rudolf) No asi jo.
+
+Ale blbě -
+
+(Jindřich) A pak můžeš citovat ty findingsí soutěže, no.
+
+(Rudolf) Já bych prostě citoval.
+
+Nějak jako defaultně prostě tady submition bla bla bla autory, autory in tinty findings a hotovo.
+
+(Tomáš) Ještě jsem si tady náhodně všimnul, když už jsem na straně jedenáct.
+
+Tady na druhým řádku vodspoda je rozlomenejch stopadesát milionů, to si myslím, že by nemělo bejt.
+
+(Jindřich) Oukey.
+
+Tak já je dám dohromady.
+
+(Rudolf) To bychom mohli nějak systematicky, ne.
+
+Já jsem na to míval někde nějakej příkaz, kterej jsem to prohnal a vono to tam dorvalo nějaký nedělitelný mezery.
+
+(David) Stopadesát milionů.
+
+Stopadesát tisíc.
+
+(Jindřich) Tak už je tam nedělitelná mezera.
+
+(Tomáš) A vysázelo se to nějak slušně?
+
+(Jindřich) Nevím, já jsem.
+
+Vždyť se to makuje hrozně dlouho, že jo.
+
+<smích>
+
+Musíš si počkat.
+
+No a jaký je to pravidlo teda, myslíš si, že číslo, číslo psaný číslovkou, by se číslicemi, by se nemělo vobjevit na konci řádky?
+
+(Tomáš) No, ne myslím si, že když je prostě stopadesát milionů, tak by se to nemělo rozdělit na stopadesát a milion.
+
+(Jindřich) A thousand classes nad tím může bejt tisíc a, a classes na další řádce, jo to už.
+
+Udělalo se to nějak normal.
+
+(Tomáš) Nějakou jinou stránku, eh.
+
+(David) To je jedno.
+
+(Tomáš) Nevidím thousand classes, kde je thousand classes?
+
+(David) Je to hned nad tím.
+
+Čvrtá řádka odspoda.
+
+(Tomáš) Jo.
+
+Tady se to neláme, ale.
+
+Ale to je jedno, to bych nechal.
+
+(Jindřich) Já vím, že se to tam neláme, ale ptám se, jestli tohle myslíš, že tam má bejt.
+
+(Tomáš) Kdyby se to lámalo, tak ať se to láme klidně.
+
+(Jindřich) Oukey.
+
+(Tomáš) Si myslím.
+
+Já nevím, kdyžtak si to, to někde najdi v nějakým, no.
+
+Style guidu.
+
+(Jindřich) No jenomže, že jo, budou hromady style guidů tvrdit hromadu protichůdných věcí.
+
+(Tomáš) No, tak bysme měli zvolit jeden, jo.
+
+Nejlíp nějakej americkej, když to píšem teda americky.
+
+Takže buno třeba Chicago manual of style.
+
+A řídit se tím manuálem.
+
+(Jindřich) Jo, jenomže za prvý je hrozně dlouhej a za druhý se musí upirátit.
+
+(Tomáš) No, já vím, no.
+
+No vidíš a taky bysme asi měli sjednotit, což netvrdím, že to není jednotný, ale spíš si myslím, že není.
+
+Jak píšeme číslovky, který vobsahujou víc než tři řády.
+
+Tady koukám, že máš čárku.
+
+(Jindřich) Jo.
+
+(Tomáš) Máme to tak všude?
+
+(Jindřich) Tak se to anglicky má psát.
+
+(David) Anglicky je to s čárkou, ne?
+
+Ale -
+
+No nevím.
+
+(Tomáš) Já se bojím, že to tak nepíšu, ale nevím, jestli jsem psal nějaké čísla v tomto textu, tak vysoký.
+
+Možná že ne.
+
+(David) Třeba tady, když vyhledám tisíc, tak na stránce devadesát sedm, což je moje, je tisíc sentences a je tam tisíc, napsáno bez ničeho ani s mezerou ani s čárkou.
+
+Tedy ani anglicky ani česky.
+
+(Rudolf) Správně jsou asi ty čárky, no.
+
+(David) Jo, jinak tisícovky jsou, tisícovka je tu jenom jedna.
+
+Ale to je blbý takovýhle vyhledávání.
+
+(Jindřich) Když vygrepuju čtyřmístní čísla, tak to jsou samý citace.
+
+(David) Jo.
+
+Právě no.
+
+(Tomáš) To je blbý.
+
+(Jindřich) A nebo čísla v tabulkách.
+
+Většina z toho jsou buď letopočty v citacích nebo -
+
+(David) Vodkazy.
+
+(Jindřich) V mým textu.
+
+(David) Ještě různý vodkazy tam můžou bejt.
+
+(Rudolf) Já koukám, že já v cvíčku používám nějakej nástroj zona, ale nevím, kde jsem ho vzal a kde je.
+
+(Tomáš) Ale vlna neřeší tady, vlna vůbec neřeší anglickou typografii.
+
+To používáš blbě, jestli ho používáš v anglickým cvíčku.
+
+(Rudolf) A já tam skoro stejně nic nemám, ale.
+
+(Tomáš) A hlavně neřeší určitě takovýhle věci jako sto milionů.
+
+To řeší český předložky.
+
+(Jindřich) Pěti místní čísla tam nejsou žádný.
+
+Pěti a víc.
+
+(David) Jsou v citacích jenom.
+
+(Jindřich) No, já se koukám do zdrojáků.
+
+(David) Jo jasně.
+
+(Jindřich) Jediný dlouhý číslo je číslo grantu.
+
+<smích>
+
+(Tomáš) Tak to je dobrý.
+
+(David) Já tady taky nic nemůžu najít.
+
+(David) Akorát ta jedna, ta je moje, jinak jsem tam nic jinýho nenašel.
+
+A jak je to?
+
+Čísla do desíti se mají psát slovy.
+
+(Tomáš) Asi jo.
+
+(David) A pak už ne?
+
+Od dvanácti?
+
+(Rudolf) Takže když budeš třeba tady někde five best, tak bys to psal slovy?
+
+(David) No, to je otázka.
+
+(Rudolf) To je divný, ne?
+
+(David) No to je divný, no.
+
+(Rudolf) Figure jedna tečka pět, doufám, že se nebude psát číslo.
+
+(David) To ne.
+
+To ne, ale.
+
+(Rudolf) Nebo dva dé konvol cé.
+
+<smích>
+
+(Tomáš) To bych nepsal slovy.
+
+(David) Tři procenta asi taky ne.
+
+(Rudolf) Tady je nějaká gata, která je z intervalu nula jedna.
+
+(David) Jo, to jsem taky našel.
+
+(Rudolf) Bych to možná radši vůbec neřešil.
+
+(David) Asi né.
+
+(Tomáš) No taky bych to neřešil.
+
+Jako jsme zjistili, že tam žádný velký čísla nejsou kromě těch tisíců, který popisuje Jindřich, tak to není potřeba řešit.
+
+(David) Já tam ještě vlastně číslo někde, já jsem, kolik je tam těch etenšnů vejc, někde jsem to tam psal.
+
+(Tomáš) I když Jindřichu, jestli jsi grepoval ve zdrojáku, grepoval jsi to i s mezerama?
+
+(Jindřich) Samozřejmě, že ne.
+
+(Tomáš) No a s tenkejma mezerama, který bych tam psal já, kdybych to psal?
+
+(Jindřich) No tak s těma už tuplem ne.
+
+(Rudolf) A možná tečka otazník.
+
+(David) Hele, tady jsem našel dvacet tisíc sedmsettřicetšest.
+
+Mám to s čárkou, mám to správně.
+
+(Jindřich) Jo, ale když tam jsou čísla bez mezery alespoň čtyři, tak to najde i ty menší čísla.
+
+Třistaosmdesátčtyři hlav totálně.
+
+A jak se dělá ta tenká mezera?
+
+(Tomáš) Lomeno čárka.
+
+(Jindřich) Ta tam taky není.
+
+Pro případ, že bych to napsal blbě, tak vygrepuju ještě všechny úzký mezery.
+
+Jo tak ne, tak ty jsou šablona tečka tech.
+
+Úzká mezera tam není žádná v celý knize.
+
+(Tomáš) Cool.
+
+Cool, cool.
+
+(Tomáš) No ve skutečnosti vím, vidím.
+
+Před procentama a to taky není dobře, a to jsem tam možná zanechal já omylem, protože jsem zvyklej to dělat takhle, a to není správně.
+
+(Jindřich) Occasion air to only tři a půl procenta, tak to jsem si jenom nevšim toho výpisu v tom grepu.
+
+(Tomáš) A smažeš jí nebo ji mám smazat já?
+
+(Jindřich) Smažu jí, já to mám tady otevřený.
+
+(Tomáš) Jo.
+
+(Jindřich) Jen si říkám, jestli tu knihu někdo bude, někdo bude číst a citovat, když výjde ještě k tomu vo rok pozdějc než, než jsou starý ty informace v ní.
+
+(Rudofl) To dáme online dřív.
+
+(Tomáš) Číst ne a citovat už tuplem ne.
+
+(Rudolf) Zmizel David.
+
+Kde máme Davida?
+
+(Tomáš) Zmizel.
+
+(Rudolf) David asi začal rodit.
+
+(Tomáš) Už se vrátil.
+
+(David) Už jsem se vrátil.
+
+Jsem myslel, že -
+
+(Tomáš) Ale Jindřichu, když čteš otázky citací, tak i kdyby ta kniha vyšla zejtra, tak proč bys vlastně citoval takovouhle knihu?
+
+(Jindřich) To je pravda.
+
+Asi bych ji necitoval, no.
+
+Leda v nějakým jako vzdáleným, vzdáleným oboru.
+
+(David) Tak jo, tak nikdo nic neříká, tak asi to můžem.
+
+Jak vy teďka plánujete chodit do práce?
+
+(Rudolf) Já spíš asi míň než víc.
+
+(Tomáš) Tak já jsem měl dodneška dovolenou a vod zejtřka budu chodit do práce normálně.
+
+(David) Jo já bych zejtra ještě měl, zejtra ještě plánuju přijít, pokud se něco nestane.
+
+(David) Já budu chodit, tak dlouho dokud se něco nestane a až se něco stane, tak, tak tři mě-, tejdny nebudu, ne tři měsíce, ne tři tejdny, tam chodit nebudu chodit a pak bysem měl, chtěl chodit.
+
+Normálně.
+
+(Rudolf) Oukey.
+
+(Tomáš) <nesrozumitelný>
+
+(David) Cože?
+
+(Tomáš) <nesrozumitelný>
+
+(Jindřich) Musíte chodit do práce nebo máte tam nějaký pravidla složitý?
+
+(Rudolf) Nesmíš mít příznaky respiračního onemocnění.
+
+(David) Jo.
+
+Tak nemáme chodit.
+
+(Tomáš) Jo.
+
+Lidi, který čtou tady ty divný věci, který nikdo nečte, nesmí mít příznaky respiračního onemocnění.
+
+Ostatní se můžou chovat normálně.
+
+A když viděj, že nemaj covid, tak tam můžou jít.
+
+(David) To neví někdy nikdo, že jo.
+
+(Jindřich) No.
+
+Roušky na chobách třeba nebo -
+
+(David) To už jsem -
+
+(Rudolf) Roušky všude v podstatě.
+
+V kanclu, když si ve svým kanclu s lidma, který tam patřej, tak nemusíte mít roušky.
+
+(David) Jo, jenže v praxi to chodí tak, že nikdo teda roušku nemá nikde teďka už.
+
+Minimálně ty lidi, co tam poslední dobou byli, jako Zdeněk Kasner, Surabrata, Veronika a tak to vůbec neřeší.
+
+Ondra Dušek chodí v roušce venku akorát po chodbě a do cizích kanclů, jinak to nikdo neřeší už.
+
+(Jindřich) Protože Ondra Dušek je z Nebelvíru, ne.
+
+Já bych ji taky nosil.
+
+<smích>
+
+Že nejsem z Nebelvíru.
+
+(Rudolf) Hm.
+
+Vidím Tomáše zespoda.
+
+(Tomáš) Tam leze po okně nějaký zvláštní hmyz.
+
+(David) Jak má sestříhlý vousy pěkně.
+
+Což nevím, jestli u Rudy platí.
+
+Ukaž Rudo?
+
+<smích>
+
+(Tomáš) To určitě neplatí.
+
+<smích>
+
+(Rudolf) Hele, Tomáši, ty teda zejtra budeš v práci někdy odpoledne třeba?
+
+(Tomáš) Ano, pravděpodobně, jak to tak bejvá do slova odpoledne.
+
+(David) My máme zítra meeting v jednu, ne?
+
+(Tomáš) Jo.
+
+(David) No, já bych měl bejt zítra v práci normálně vod nějakejch devíti do nějakejch čtyř.
+
+(Tomáš) Uvidíme jak vstanu.
+
+(Rudolf) Když máte meeting v jednu, tak to tam Tomáš asi v jednu bude.
+
+(Tomáš) Jo, v jednu tam budu.
+
+Na oběd pudu.
+
+(Rudolf) Já jdu na oběd se studentíkama, ale pak bych moh přijít do práce a mohli bychom se potkat.
+
+(David) Takže tam budem fyzicky, jo?
+
+(Tomáš) No, to by bylo fajn.
+
+Já tam taky budu nejmíň do těch čtyř nebo vlastně zejtra tam nechci vlastně bejt do čtyř.
+
+To chci bejt ve čytři na koncertě v Rudolfínu.
+
+Tak jo, tak tím pádem tam nepojedu na kole asi.
+
+<smích>
+
+I když -
+
+(Jindřich) Rudolfínu máš po cestě.
+
+(Tomáš) No právě.
+
+A to je nějakej to, takovej casual, oni to stejně možná zrušej a zakážou, že jo.
+
+Tak to nemusím řešit.
+
+(David) To nezakážou.
+
+(Tomáš) Jasně -
+
+(Jindřich) Pan Prymula se tváří, že to co je divadlo a koncerty vážný hudby, to by mělo probíhat a to co je fotbal, by se mělo zakázat.
+
+(David) Jo.
+
+Balet je dobrej, ale fotbal už né.
+
+(Tomáš) Správně.
+
+(David) Mně to příjde divný, tam kde jsou sedačky, že jo, jestli je to v pořádku, tak proč ne fotbal no.
+
+(Tomáš) Ale čet jsem, že Prymula zakáže sbory a tím pádem zruší českou operu už navždy.
+
+(Rudolf) Budou bez sboru, no.
+
+<smích>
+
+(Tomáš) No, zrušej představení a zkrachujou, no.
+
+(David) <nesrozumitelný>
+
+(Jindřich) Představení nic nevydělaj.
+
+To jsou stejně všechno státní peníze.
+
+(Tomáš) No jo no.
+
+(Rudolf) No dobře, tak já si zkusím zejtra stavit v práci stejně to budu -
+
+(David) Zkus se stavit, já bych chodil do práce než zakážou i nás a -
+
+(Rudolf) Fungujou nám ty počítače nějak alespoň trochu?
+
+(David) Počítače fungujou, akorát nemůžeš jít na LUSTR.
+
+(Rudolf) Kde máme všecko, ne?
+
+(David) Je všechno, takže musí se stejně s hezáčkem se tam to, ale už funguje dokonce i mejl, ten chvílema nefungoval na fff.
+
+Ten už teda funguje.
+
+Von je nějakej problém s těma IP verze šest, prostě, že máme IP verze šest a někdo to nějak, nějaký problémy divný, podivný.
+
+(Rudolf) Ale když si tam votevřu třeba browser, tak se dostanu na internet, jo?
+
+(David) Jo to, jako já jsem.
+
+Já myslím, že včera dokonce ani nezapínal noťas, že jsem byl celou dobu.
+
+Akorát jsem si tam nepustil ten, nepustil jsem tam slag, protože to nějak nešlo.
+
+Jo jinak, funguje to dobře už jako až na to, že ten LUSTR tam chybí teda, no.
+
+(Rudolf) A co je na LUSTRu všechno kromě houmu?
+
+(David) Jo.
+
+No, já tam mám, no nevím, kdo tam má, kde všude se může něco nacházet, ale já tam mám v podstatě všechno kromě houmu no.
+
+(Rudolf) To ale znamená, že já asi třeba i takovou jako cash k prohlížeči mám někde jinde, protože ta si myslím, že začala bejt moc velká.
+
+(David) No, tak to alespoň vyzkoušíš.
+
+(Rudolf) No.
+
+<smích>
+
+Jo.
+
+Nevím, jestli se na to úplně těším.
+
+(David) Protože von jak to nikdo nezkouší, tak voni s tím nic neudělaj, že jo.
+
+Když to zkouším já.
+
+Čau.
+
+(Rudolf) LUSTR rozsel troje cash.
+
+Bude vtipný.
+
+My už stejně končíme nebo ty máš už něco pak zase?
+
+My už stejně asi končíme, ne?
+
+(David) My už stejně končíme.
+
+Stejně už se bavíme o blbostech.
+
+Příští meeting je -
+
+(Rudolf) Tak čau.
+
+(David) Čau.
+
+(David) Ve čtvrtek pokud bude, pokud to někdo nezmění, což je velká šance, že to někdo změní.
+
+Tak co, Ruda odešel.
+
+No tak to asi můžem.
+
+Můžem to -
+
+Mně příjde divný dělat tyhlety schůzky, když stejně, stejně toho moc nevyřešíme takhle, protože vždycky to skončí na tom, že si stejně někdo musí něco přečíst nebo to musí někdo něco napsat.
+
+(Tomáš) No zase kdyby byla, kdyby ta schůzka nebyla, tak nikdo.
+
+(David) Tak nikdo nic nenapíše.
+
+(Tomáš) Menší motivaci to dopsat.
+
+(David) Já jsem myslel, že to zruším, protože už to bude teď napsaný a že budeme mít teďka ty prázdniny, ale.
+
+(Tomáš) Už je to napsaný.
+
+(Jindřich) Já teď stejně budu mít prázdniny na, na článek na ECL.
+
+(David) No vidíš, já budu mít taky prázdniny a -
+
+Tak jo, tak se zejtra bysme se mohli vidět třeba i fyzicky.
+
+(Tomáš) Jo, já příjdu.
+
+(Jindřich) Tak jo.
+
+Tak se mějte.
+
+Čau.
+
+(David) Měj se.
+
+Čau.
+
+(Tomáš) Čau.

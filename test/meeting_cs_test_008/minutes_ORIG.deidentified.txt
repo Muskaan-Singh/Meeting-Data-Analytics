@@ -1,0 +1,56 @@
+Meeting 11. 5., 2020:
+- Meeting ID: [NUMBER]
+- Meeting Password: 1234
+- Join URL:
+- [URL1]
+Attendance:
+- [PERSON11], [PERSON6], [PERSON4], [PERSON10], [PERSON5], [PERSON13], [PERSON8].
+
+- Presentation in Luxembourg (23.7.):
+- [PERSON4] a [PERSON11]
+
+- [OTHER2]:
+- malo sa startovat 8.5. (odklad zatial o tyzden, snad nie viac)
+- idealne EMNLP (8.6.), pripadne WMT (15.7.)
+- s [PERSON13] sme doladovali viacere detaily:
+- pisali sme instrukcie pre uzivatelov [OTHER2]
+- uzrejmovali sme s [ORGANIZATION3] a [ORGANIZATION2] interface backendov
+- [PERSON4] programoval novy generator pre baked queues
+- [PERSON4] dozbieral anotacie QE na cestine od 10 anotatorov a dnes ich nazdielal partnerom
+- MGizu intergrovat nejdeme, FastAlign snad bude stacit
+- caka sa teraz na:
+- [ORGANIZATION3]: zajtra call s [ORGANIZATION3], ci stihnu a budu chciet sprevadzkovat QE vcas
+- [ORGANIZATION2]: hladaju uzivatelov na experiment
+- nam ostava:
+- spustit vylepseny [PROJECT1] server s en-et modelmi, ktory by mal vracat aj skore (utorok-streda)
+- vygenerovat finalny baked queue (ked budeme vediet kolko uzivatelov zohnali v [ORGANIZATION2] a ci bude QE sucastou experimentu) - pripadne mozme zmensit dataset na polovicu, aby na ostali stimuly aj pre dalsi experiment
+- Multi-source MT with paraphrases:
+- plan na WMT (15.7.)
+- [PERSON8]?
+Deliverable:
+- rozdelena TODO
+- nikto nicim neprispel!!!!!
+- ked popiseme [OTHER2] teraz, co budeme popisovat do D1.4 “Initial interface for outbound translation” v 27. mesiaci
+- [PERSON3] je teď hyper busy na několik týdnů. Pracuje však na zrychlení překladu. Slíbil mi však, že napíše report o parafrázovači. Ten se mu povedlo zrychlit.
+Lost in BT:
+- zatím nedostatek výsledků na samostatný paper, ale i přesto máme initial výsledky, které stojí za zmínku
+- problémy vyhodnocování jevů, které se ztrácí:
+- rysy, které v jednom z jazyků nejsou explicitně vyjádřené - you (ty/vy)
+- Urcite zahrnout do deliverablu, jako zpravu o tom, ze problem neni casty, 
+- Udelat na to testsuite, do 30.5. [PERSON5] poslat zdrojove vety
+- [PERSON6]+[PERSON13] by umele vygenerovali testsuite
+- Struktura pokusu:
+- vzdy dvojice vet:
+- prvni anglicka veta je jednoznacna v danem rysu:
+- jasne tykani/vykani, jasny rod zensky/muzsky
+- druha anglicka veta je naschval viceznacna, podle prvni vety se ma prelozit jednim nebo druhym zpusobem
+- Ty druhe vety se naschval budou opakovat, at je videt, jestli prislusny MT system reaguje nebo nereaguje na tu prvni vetu
+- [PERSON6]:
+- prinuti [PERSON5], at domyslime vyrobu testsuitu
+- radsi koukne na lonske a predlonske testsuites, nejaka konzistence se zajmeny se tam uz delala (nikdo od nas to nebyl)
+- ty dvojice vet bud budeme generovat uplne strojove, nebo prave muzeme poprosit, at nam je napisou anotatori
+- Anotace by asi mela byt dvoukrokova:
+- 1) zmerit mezianot. shodu pro tu prvni anglickou vetu, abychom si byli jisti, ze opravdu je ta veta jednoznacne vykaci/tykaci
+- 2) zmerit na druhe vete, jestli (po prekladu) vyjadruje dany rys spravne
+- 2b) zmerit na dvojici vystupnich vet, jestli jsou nebo nejsou konzistentni
+

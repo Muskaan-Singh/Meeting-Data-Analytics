@@ -1,0 +1,56 @@
+PERSON1 = David Mareček, David
+PERSON2 = Tomáš Musil, Tomáš, Domáš
+PERSON3 = Rudolf Rosa, Rudolf, Ruda
+PERSON4 = Pavel Straňák, Straňák
+PERSON5 = Daniel Zeman, Dan Zeman, Dan, Zeman
+PERSON6 = Hausmann
+PERSON7 = Radek Čech
+PERSON8 = Jan Hajič, Hajič
+PERSON9 = Gejza Wimmer
+PERSON10 = Jindřich Libovický, Jindřich
+PERSON11 = Nikoleta Calcoáry, Nikoleta, Nikola
+PERSON12 = Miriam Fried, Miriam
+PERSON13 = Aravind Joshi, Aravind
+PERSON14 = Anička
+PERSON15 = Eino Leino
+PERSON16 = Guillaume Lample, Lample
+PERSON17 = Alexis Conneau, Conneau
+PERSON18 = Péťa
+PERSON19 = Kateřina Veselovská, Veselovská
+PERSON20 = Kateřina Rysová, Rysová
+PERSON21 = Martin Popel
+PERSON22 = Kostka Neumann
+PERSON23 = Ondřej Bojar, Bojar
+PERSON24 = Markéta
+PERSON25 = Ondřej Dušek, O. Dušek
+PERSON26 = Anja Nedoluzhko, Anja
+
+
+ORGANIZATION1 = SVV
+ORGANIZATION2 = GAČR
+ORGANIZATION3 = ÚFAL
+ORGANIZATION4 = MFF
+ORGANIZATION5 = Charles University
+ORGANIZATION6 = Wolfgarská akademie
+ORGANIZATION7 = Naukité
+ORGANIZATION8 = UMNLP
+ORGANIZATION9 = Google
+ORGANIZATION10 = KLC
+ORGANIZATION11 = ACL
+ORGANIZATION12 = ELREC
+ORGANIZATION13 = Editorial board
+ORGANIZATION14 = Filozofická fakulta UK (Filda)
+ORGANIZATION15 = THEaiTRE
+ORGANIZATION16 = ITAT
+ORGANIZATION17 = EMNLP
+ORGANIZATION18 = AKL
+ORGANIZATION19 = EAKL
+ORGANIZATION20 = AAKL
+ORGANIZATION21 = Amazon
+
+
+PROJECT1 = LSD
+
+
+
+ANNOTATOR5 = Sabina Smékalová

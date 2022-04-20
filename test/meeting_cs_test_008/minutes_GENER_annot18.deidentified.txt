@@ -1,0 +1,18 @@
+Schůzka [OTHER1], 2020-05-11
+
+Přítomni: [PERSON5], [PERSON8], [PERSON6], [PERSON11], [PERSON4], [PERSON10], [PERSON13]
+
+Na schůzce bylo řešeno:
+
+- pokračovat v práci na deliverable
+- [PERSON4] rozděli jednotlivé úkoly ostatním, každý má své zadání
+- přidat analýzu problému, který může backtranslace zakrýt
+- problém chybného překládání vykání a tykání
+- udělat test suite zaměřený na lost in back translation, do 30. 5. poslat zdrojové věty
+- na deliverable by bylo dobré, kdyby bylo do příštího pondělí 20 stran, každý něčím přispěje
+- u [OTHER2] se čeká, jak se rozhodne [ORGANIZATION3], jestli se stihne zapojit
+- do Lucemburku pojede odprezentovat deliverable [PERSON4] a [PERSON11]
+
+
+
+Zápis sepsala: [PERSONannot18]

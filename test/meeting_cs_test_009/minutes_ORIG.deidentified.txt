@@ -1,0 +1,21 @@
+Meeting 3. 8. 2020:
+Attendance:
+    [PERSON1], [PERSON13], [PERSON7]
+Financial report (due August 14th)
+    being taken care of [PERSON4]
+Technical report B
+    (check whether our sections are alright)
+[OTHER2]:
+    (in progress) Weak Teacher training - in [PROJECT2] NMT
+    (next) Student distillation - in [PROJECT2] NMT
+Multi-source:
+    Experiments for WMT ([PERSON13], [PERSON12])
+        translate source + its paraphrase => produce target sentence
+    [PERSON1] still needs to contact [ORGANIZATION2]
+N-best list:
+    progress with [PERSON5]:
+        DPC signed
+        waiting IT
+    investigate constraining possibilities in [PROJECT2] NMT
+    [URL1]
+    [PERSON7]: Should I do something? I’d like to stay involved with TNT and I’d be able to continue development even from Saarland.
