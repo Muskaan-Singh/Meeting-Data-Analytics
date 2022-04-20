@@ -1,0 +1,3225 @@
+<laugh>
+
+[PERSON9] OK, so let´s start.
+
+Um, um, I sumbitted, um, last week, um, previous week, I submitted the paper (I working) to [LOCATION3] to [PROJECT5], [PROJECT5].
+
+So we have the second, second, um -
+
+[PERSON19] Hm.
+
+[PERSON9] Article in the, in the journal.
+
+So we have, I think now we have everything what we have promised, um, for, for this grant.
+
+<unintelligible> the book.
+
+<laugh>
+
+<unintelligible> PBML.
+
+So, um, yeah.
+
+[PERSON2] I can´t hear you [PERSON9].
+
+[PERSON9] Sorry?
+
+[PERSON2] I can barely hear you.
+
+[PERSON9] OK.
+
+So I will speak, speak up.
+
+[PERSON19] <other_language>
+
+[PERSON6] <other_language>
+
+[PERSON19] <other_language>
+
+[PERSON6] <other_language>
+
+[PERSON9] <other_language>
+
+Is it better now?
+
+[PERSON2] I should the only one hear you, it´s [PERSON6].
+
+When you or he just -
+
+It´s not good and I can hear <unintelligible>.
+
+<other_noise>
+
+Hm.
+
+[PERSON6] <unintelligible>.
+
+[PERSON19] Hm.
+
+[PERSON6] <other_language>
+
+<other_noise>
+
+Sound settings, so.
+
+Input.
+
+Ha.
+
+Surely, surely the default micro-, microphone is the camera mic-
+
+Now, I think that now you should hear us better.
+
+[PERSON19] <other_language>
+
+[PERSON9] So it is better?
+
+[PERSON2] Yes, it is.
+
+[PERSON9] Yeah, great.
+
+[PERSON2] But I can hear <unintelligible> myself.
+
+Like one second later after I say something, I, I hear it once again.
+
+[PERSON6] Hm, hm.
+
+Hm.
+
+[PERSON2] Ha, but it did not happen now.
+
+So maybe it just get fixed by itself.
+
+Alright.
+
+It´s good now.
+
+<laugh>
+
+<other_noise>
+
+[PERSON19] OK.
+
+[PERSON9] What was that?
+
+<laugh>
+
+So, um, yeah.
+
+Um, yeah, should I say I, I haven´t read our book for the last week and this morning I couldn´t, I couldn´t read it so I, I have no, um, I don´t know how it is, in what shape it is now.
+
+Or maybe everyone of you can say what, what, what was done and what is still missing and what we read and...
+
+[PERSON19]?
+
+[PERSON19] Yeah.
+
+I can do that.
+
+<laugh>
+
+Hm...
+
+[PERSON6] <unintelligible> the book and -
+
+[PERSON6] The book.
+
+The book.
+
+The book is here.
+
+[PERSON19] <unintelligible> with [PERSON2] maybe.
+
+[PERSON6] OK, the book is here and [PERSON2] is there.
+
+<laugh>
+
+[PERSON19] So...
+
+Yeah, maybe is the, is the cabel from the <unintelligible> long enough?
+
+<other_noise>
+
+<laugh>
+
+OK, so...
+
+[PERSON6] (Maybe I can) share the screen with [PERSON2].
+
+[PERSON19] Um...
+
+Um...
+
+So...
+
+Um...
+
+The, this, this thigs right here.
+
+It´s here?
+
+[PERSON6] It´s there.
+
+Yeah.
+
+<laugh>
+
+No.
+
+<laugh>
+
+OK, select window, you can select the -
+
+OK, I will select like [PROJECT6] book.
+
+Now, now...
+
+You should now see the book.
+
+Now you see the book.
+
+[PERSON2] Yeah.
+
+Yeah, I do.
+
+<laugh>
+
+[PERSON19] OK, um, so I´m still missing the introduction so it´s stil this, um, this, this (bullets) which I plan to rewrite into the text like one to put this text away.
+
+And I still didn´t touch morfology so I still need to rewrite it into sentences.
+
+But the rest of the book or as rest of my chapture now should be kind of (OKish) so, um, it´ s ready for comments I would say.
+
+Now for syntax, um, I split it into constituency syntax, dependancy syntax, some other things that I go (up on) syntax and I (phase) writed in the way that I tried to sumarize the knowledge and then add evidence from the papers.
+
+Um, I took coreference at the separate thing because I see the something beetween syntax and semantics and for semantics, um, for some difference is missing.
+
+Um, <unintelligible> missing before this somebody do something better (to be fine).
+
+[PERSON6] Um, one maybe different, um, no, maybe -
+
+Um...
+
+Just a minute.
+
+Um, I, maybe I just didn´t compile it properly.
+
+Where is the (mas), where is the (mas).
+
+[PERSON19] Hm, hm.
+
+[PERSON6] Let me just surround...
+
+Yes.
+
+OK, I think it´s still (fix in self in).
+
+[PERSON19] Yeah.
+
+[PERSON6] And above the minute and half.
+
+<laugh>
+
+[PERSON19] Yeah, some for semantics a group <unintelligible> semantic tagging and this kind of semantic (rolebiling) stuff I have noun gender at semantics.
+
+It´s writed to the debiassing which I don´t think it´s trully ready.
+
+Um, I don´t know if maybe it is a (negotiation) in <unintelligible> there´s semantics but I <unintelligible>.
+
+And word senses this is already there, um, <unintelligible> seems a bit polishing.
+
+Um, word knowledge, yeah, I did that, context, I haven´t seen what I´ve written there so I don´t know if it´s ready.
+
+Um, and I, yeah, something happend?
+
+[PERSON6] Yeah, so far the references text.
+
+[PERSON19] Yeah, it´s there.
+
+[PERSON9] It´s there.
+
+[PERSON19] Um, and there is, um, the comparison of individual architecture so it <unintelligible> now somehow and I think [PERSON9] had <unintelligible> that [PERSON21] has a survey re-, related to this.
+
+Like what, like we were -
+
+[PERSON21] Yeah, and, and -
+
+[PERSON19] So, so -
+
+So probably you can look at what´s here and then -
+
+[PERSON21] Hm.
+
+[PERSON19] And see what, what -
+
+[PERSON21] Hm, hm, hm.
+
+[PERSON19] What can be added or merge.
+
+And this was already done before and, yeah, this one is probably still <unintelligible>.
+
+And yeah, the multilinguality I basically just copy-pasted the paper we have with [PERSON2].
+
+So not, not the whole paper but kind of the introduction and related work and I tried to rearrange it, put it into the book but maybe it´s too long and too detailed because it would long on detail in the paper so, um, oh, and [PERSON2] added the centroids, um, you did there.
+
+[PERSON2] Yep.
+
+[PERSON19] Nice.
+
+And, yeah, and I wrote a conclusion, um, to that´s high level view so, so I, it should be mostly in a good shape.
+
+It´s a (40) intro and the morfology.
+
+[PERSON2] Yeah.
+
+[PERSON9] OK, so -
+
+So we can read it now and comment it.
+
+[PERSON19] Yeah, I think so.
+
+Yeah.
+
+[PERSON2] Um, I skimmed trough the multilinguality section and I still have the question I, I had in slack.
+
+Um, when it is our work, should we like pretend it´s some, um, it´s, it´s the self as someone else work?
+
+Or should we like explicitely play this is our contribution?
+
+Because you said [PERSON13] and al say something, shouldn´t we rather say we, we say something?
+
+[PERSON9] Yeah, um, I don´t know.
+
+First, first I had it like, um...
+
+The other way, then I changed it that, that we -
+
+[PERSON19] Hm, hm.
+
+[PERSON9] We made this and they made that.
+
+[PERSON19] Hm.
+
+[PERSON9] But I don´t know.
+
+I don´t have any <unintelligible> opionion with -
+
+[PERSON19] I think -
+
+[PERSON9] What is, what is better?
+
+[PERSON19] I think we still want to sign the paper so -
+
+[PERSON2] Yes, we do.
+
+[PERSON19] So the different where you say [PERSON13] and al did that or we, [PERSON13] and al did that.
+
+I don´t know.
+
+[PERSON9] Or, or we -
+
+[PERSON19] I don´t see a big difference actually.
+
+[PERSON6] I do.
+
+[PERSON2] Well, also, um, the definition of the "odborná kniha" -
+
+[PERSON19] Hm.
+
+[PERSON2] Um, should say that, that, that it should be our, our general awork so we can if you want to pretend that it´s like, um, that we present our original work in a context of, of other work then we should explicitely -
+
+[PERSON19] I don´t think -
+
+[PERSON2] Claim what, what ou-, what´s ours.
+
+[PERSON19] Yeah, I think we agree that our work is doing the survey, I know, well, you know.
+
+[PERSON9] Yeah, I, I think, yeah.
+
+It, it looks better if we refer to our work in, in the same way as, as the other.
+
+[PERSON19] Hm.
+
+[PERSON9] But, yeah.
+
+I don´t know what is -
+
+[PERSON19] Like my understanding is that like writing the book is our own work but I don´t know.
+
+Like people publish survey books and I don´t know if they fit the definition but I don´t see problem there.
+
+Like we read the papers and we interpreted what we found and we commented on it somehow that -
+
+Like in I, I feel that in some (herious) like I don´t know historical research is (open) the only thing you do you.
+
+Get some sources and just comment on them so -
+
+[PERSON9] Yeah.
+
+I -
+
+We, yeah, we can also <unintelligible> book into other, other book.
+
+[PERSON19] Hm.
+
+[PERSON9] <unintelligible> so made for, for this type of grant of they reffer to their own paper.
+
+[PERSON19] Hm.
+
+[PERSON9] Or -
+
+[PERSON6] Hm.
+
+Why would you, why would you refer to your own paper and someone else´s paper.
+
+It´s like, the usual reason is that you have to prepare the manuscript for a (doubleblind) review but that´s not the case here.
+
+[PERSON19] But -
+
+[PERSON9] Yes.
+
+[PERSON19] It´s not how the person the same authors as the authors of the book anyway so it is like on some <unintelligible> some <unintelligible> even <unintelligible>.
+
+[PERSON9] Yeah, the thing is that if you refer to your papers in the different way then the other papers, the, the whole book looks like more, um, more like, um, that you present your work in context of the other.
+
+For us if you refer to older papers on same way like more like survey.
+
+[PERSON6] Hm.
+
+I don´t know.
+
+On the other hand if you refer to your papers as someone else´s paper it looks like, um, what do you call it in English, like don´t appeal to authority which is not there like...
+
+[PERSON9] Yeah.
+
+[PERSON19] I don´t know.
+
+If trust my paper´s more than some of the other papers that I refer to.
+
+[PERSON6] Well but -
+
+<laugh>
+
+I still think that you should like present them like your papers but, um, as, it´s something that <unintelligible> community.
+
+Also like naturally that´s exactly what you are saying.
+
+You are biass words your own papers and I think that -
+
+[PERSON19] Hm.
+
+[PERSON6] The reader has the right to know that -
+
+[PERSON19] Hm.
+
+[PERSON6] You might be biass to -
+
+[PERSON9] Hm, yeah.
+
+That´s right.
+
+Because other way should-, we wouldn´t choose -
+
+[PERSON19] Hm.
+
+[PERSON9] Our papers.
+
+<laugh>
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON9] <unintelligible> papers as, yeah.
+
+[PERSON6] And by pretending that like or pretending, nice, refering to the paper as someone else´s paper you I (disbiass) from the reader.
+
+[PERSON19] Hm.
+
+[PERSON21] It´s anyway, <unintelligible> in the book.
+
+[PERSON6] Yeah, well, but the, the reader -
+
+[PERSON19] Yeah.
+
+So imagine it´s like ([PERSON15] and [PERSON10]) and no idea like, OK, some random Chinese names and so -
+
+[PERSON2] And the (discussion) in the multilinguality paper, um, we, we kind of claim that, that the evaluation of the multilingual representation is, is not really showing the part and espects of the multilingual representations and we, and we take a really critical view on the other papers and, and say, our paper is the good one.
+
+Which sounds really weird if li-, if we like pretain this is the objective des-, description from distance how, how it is.
+
+Because we´ll taking the strong (publicion) in this case.
+
+[PERSON19] We´ll probably taking the same position in other case in where, where we write in the book something or?
+
+Like I have other cases where I think that would be authors that doesn´t show anything and, or show something else and I say this in the book so, hm.
+
+I don´t seem big difference. [PERSON2] But the difference is that, that you say, um, this is what the paper says and, and this is what we think and -
+
+[PERSON19] Hm.
+
+[PERSON2] And, and here you say, this is what the other papers say and this is what [PERSON13] and al say and, and, and it gives a feeling of like, a feeling for the authority of the, of another paper.
+
+[PERSON19] Hm.
+
+[PERSON2] Which, which is not, not really the case.
+
+This is still us thinking that, that, that our <unintelligible> is better than, than the other one.
+
+[PERSON19] I can see actually this paper I´m citing it´s [PERSON13], [PERSON27], [PERSON16], so -
+
+[PERSON2] Hm.
+
+[PERSON19] Do we say, we and [PERSON16] think this or?
+
+How would you say this cause you cannot really say we when you think we and [PERSON16] but not all of us cause maybe [PERSON6] and [PERSON9] don´t think so because they´re not authors of the paper?
+
+So -
+
+<laugh>
+
+[PERSON6] So OK, like if you, if you really want to be a "[ORGANIZATION2]" -
+
+<laugh>
+
+Then you write some of us and [PERSON16] -
+
+<laugh>
+
+[PERSON19] Some of us and some other people.
+
+<laugh>
+
+[PERSON6] But I think you can just write we.
+
+[PERSON2] I think do -
+
+[PERSON6] Unlike if, if the reader is interested in -
+
+[PERSON19] Hm.
+
+[PERSON6] Precisely are that, there´s the citation.
+
+[PERSON19] Hm, hm.
+
+[PERSON9] Yes.
+
+These we should (agree).
+
+[PERSON19] Hm.
+
+OK.
+
+[PERSON9] We, we -
+
+[PERSON19] We would say, we and, and <unintelligible> the reference.
+
+[PERSON2] Yeah, sure.
+
+[PERSON19] That, this and there.
+
+[PERSON2] Yes, yes, yes.
+
+[PERSON6] The, the reference has to be there in any case.
+
+[PERSON19] Yeah, yeah.
+
+OK.
+
+[PERSON6] Well that if you consider the paper to be like mostly <unintelligible> I think (maybe).
+
+[PERSON19] Hm, hm.
+
+[PERSON6] Anywhere is a paper that we, you have just in, um, you´re like the -
+
+[PERSON19] Hm.
+
+[PERSON6] Sixth author out of ten -
+
+[PERSON19] Hm.
+
+[PERSON6] Then you can say, um, whohever and al.
+
+[PERSON19] Hm.
+
+OK.
+
+So, so we have agreed on saying we and then adding the reference.
+
+Yeah?
+
+[PERSON2] Yeah.
+
+[PERSON19] Yeah.
+
+And I´m thinking <unintelligible>.
+
+Yeah, I say the authors so it should maybe -
+
+Yeah.
+
+The authors <unintelligible>.
+
+Hm.
+
+It´s probably more but...
+
+[PERSON9] OK, so, um, so who would -
+
+[PERSON19] <unintelligible>.
+
+Yeah, um, so, um, so I just but, but briefly over it because I think anyway the plan is that well I, I try to fix the missing parts and you can start reading it and commenting it and it probably doesn´t make sense to go over it now.
+
+[PERSON9] No, no, it -
+
+Yeah, I think, yeah.
+
+So, is anyone who, who read it all?
+
+All, the whole book or?
+
+[PERSON2] No.
+
+[PERSON6] No.
+
+[PERSON9] OK.
+
+OK, so -
+
+Um...
+
+So could I -
+
+Let´s -
+
+Maybe -
+
+So who...
+
+O-, OK, let´s go from the beginning to the end of the book and, and see what is, what is there.
+
+Briefly see what is, what is missing there or what, what´s not.
+
+<other_noise>
+
+[PERSON19] <unintelligible>.
+
+<laugh>
+
+[PERSON9] <unintelligible> other.
+
+<laugh>
+
+OK.
+
+<unintelligible> is there, <unintelligible> is too there.
+
+[PERSON6] And I still think we should find the better motto.
+
+[PERSON19] Yeah.
+
+[PERSON2] Yep.
+
+We should -
+
+[PERSON6] Or we should write the book first.
+
+[PERSON9] Yeah, it´s -
+
+Yeah.
+
+[PERSON19] And maybe read it as well.
+
+[PERSON9] Yeah, so maybe read it.
+
+Yeah, maybe someone should, should maybe comment here what is <unintelligible>, what is not there.
+
+OK, the phase (two).
+
+[PERSON2], you, you (have), haven´t change the first, um, first chapture of the book?
+
+[PERSON2] No.
+
+[PERSON9] So maybe, yeah.
+
+So maybe we still need to <unintelligible> there.
+
+[PERSON2] The chapture full off ugly arrows is still there.
+
+<laugh>
+
+[PERSON9] OK.
+
+The notable models.
+
+Um...
+
+[PERSON2] Um, yeah.
+
+[PERSON6] copied something there and I would probably delete it.
+
+<laugh>
+
+[PERSON9] OK.
+
+So there are, so this is the language model, 24, <unintelligible> delete.
+
+Word2vec was also copied by [PERSON6]-
+
+[PERSON6] No, that´s, that´s [PERSON2]´s (favourite).
+
+[PERSON9] Yeah.
+
+[PERSON2] Yeah.
+
+[PERSON9] So I don´t know what to do with these two, um -
+
+[PERSON6] Um, probably delete them.
+
+<laugh>
+
+[PERSON9] Yeah, it -[PROJECT2]
+
+Because -
+
+Yeah.
+
+I would start with Word2vec.
+
+Then what is there, attentions.
+
+Transformer, <unintelligible> [PROJECT2]...
+
+Because the language models start with -
+
+With [PROJECT2], yeah.
+
+[PERSON19] Hm...
+
+[PERSON6] I mean, I mean language model, neural language models started 15 years before [PROJECT2].
+
+[PERSON9] Yes, but -
+
+Yeah, I mean, um, notable neural models.
+
+[PERSON19] Hm.
+
+[PERSON6] Hm.
+
+[PERSON9] So I don´t know how, if this, this could, could be included somehow or delete it.
+
+[PERSON6] I´m not sure either.
+
+[PERSON2] Well, I discussed how, um, how neural language model works in, in the previous chapter.
+
+What I, what I talk about the architectures.
+
+[PERSON19] Hm.
+
+[PERSON2] And this chapture only, only presents like the notable models, the models that we are talking about later in the book.
+
+[PERSON6] OK, so the section about the neural language models should maybe be merged to the previous chapture or deleted if it´s (superfilus).
+
+[PERSON2] Yep.
+
+[PERSON6] (overwrite).
+
+[PERSON9] So [PROJECT1], yeah.
+
+How much we use GPT in the, in the, in the <unintelligible>.
+
+[PERSON19] I´m refered to it, um, I don´t say much about it, so maybe find anything really special about GPT wri-, written.
+
+I refer much to [PROJECT2] and [PROJECT1].
+
+[PERSON9] Yeah, I, I also refer to it.
+
+So we can, we can delete <unintelligible>, yeah.
+
+If you find that is OK.
+
+[PERSON19] Yeah, yeah, yeah.
+
+[PERSON9] OK, so -
+
+[PERSON6] In the chapture I commented on [PERSON2]´s comments, um...
+
+He didn´t comment on my comments on its comments.
+
+<laugh>
+
+[PERSON2] Yeah.
+
+<laugh>
+
+[PERSON9] So this is already complete, [PERSON6]?
+
+[PERSON6] Or the -
+
+[PERSON9] Or it´s something what´s missing?
+
+[PERSON6] As, as, as I wrote somewhere I´m not sure maybe in slack.
+
+[PERSON9] Yeah, you, you -
+
+The [PERSON19]´s slack.
+
+[PERSON6] The first part, um, is com-, I think it can be viewed as complete and in the -
+
+There are some to do things there but I think there are like optional.
+
+If we like there, there is more potential interesting things that we could write about if we read them carefully and so on but, um, they don´t really have to be there but then probing is not finished, unsupervised methods -
+
+[PERSON9] Yeah, will be there.
+
+[PERSON6] And to probings need to be merge...
+
+On this is new here what I´ve written.
+
+Then there on this thing <unintelligible>.
+
+[PERSON9] So, yeah.
+
+So the unsupervised method, this is some-, like something what is <unintelligible>.
+
+[PERSON6] Yes.
+
+[PERSON9] What is in PCA and ICA and -
+
+[PERSON6] Yeah.
+
+And first thing <unintelligible> enough, um, the (facial) tutorial basically...
+
+Oh, well, only mention these methods in the visualisation section.
+
+So (forently) trying to do something, um, quantitative with these methods is not very common.
+
+[PERSON19] Yeah.
+
+OK.
+
+<unintelligible>.
+
+[PERSON2] You can write it to the chapture?
+
+[PERSON6] What?
+
+[PERSON9] What?
+
+[PERSON2] That you can write it in, in, in the chapture?
+
+That the ACL tutorial, um, mention these methods only for, um, only for visualisation and, and it´s probably not comment you to use them quantitatively.
+
+[PERSON19] We do use them quantitatively (visualisation).
+
+[PERSON6] Oh, I do.
+
+[PERSON19] Hm.
+
+You want to <unintelligible> say I reffer somewhere to somebody who use PCA to identify the, um, gender biass component.
+
+[PERSON6] Yeah, also -
+
+Yeah, actually I also remember some paper.
+
+[PERSON19] Hm.
+
+[PERSON6] For example The principals of meaning.
+
+<laugh>
+
+Which also uses PCA quantitatively.
+
+[PERSON19] Yeah.
+
+Yeah.
+
+<unintelligible>, um, the, the [PERSON2] paper for multilinguality this uses clustering which even evaluate for the multi indentification.
+
+So there is a visualisation but it´s also use for, um, like quantitative evaluation.
+
+[PERSON6] Hm.
+
+[PERSON9] And then the introduction of <unintelligible> is of <unintelligible> unsupervised.
+
+[PERSON19] Hm.
+
+[PERSON6] <unintelligible>.
+
+[PERSON9] So it´s too divided the methods for probing and unsupervised.
+
+[PERSON6] Yes.
+
+[PERSON9] So...
+
+Then probing is defined or?
+
+[PERSON6] Well, these are just notes from my theses proposal.
+
+These are some other notes as well.
+
+[PERSON9] So I haven´t, I haven´t read that but, but, yeah.
+
+It´s defined but I don´t, yeah, we should say what we mean by probing and, um, put the history of this theme that probing in the, yeah -
+
+The past it was these model, is that use for many, many methods, different methods and...
+
+[PERSON2] (Also) the ICA tutorial was talking about, about behaviour texting.
+
+Are we mentioning this too?
+
+[PERSON6] Um...
+
+Not yeat.
+
+[PERSON19] Why not?
+
+[PERSON2] And, and should, should we or shouldn´t we mention it?
+
+[PERSON6] That´s a good question.
+
+[PERSON9] Like (?? real) testing is?
+
+[PERSON2] Um, I don´t know.
+
+For, for instant for gender biass it´s, it´s, it´s, um, the doctor came into the room and mask said that and, and, and you want to test what´s the probability of he and she being the (word) it.
+
+This an example of, of behaviouris testing.
+
+Or <unintelligible> Goldberg, um, um, um, probe [PROJECT1] for some syntax ability using, using this like, like designing the set of comp-, of syntactically complicated sentences and, and was looking what´s the probability of the, of the correct, cor-, syntactic correctly words.
+
+Being predict by [PROJECT1].
+
+So this is behaviouristic testing.
+
+[PERSON6] Yeah, the point is that you read the model as a (blank ones) only <unintelligible>, usually you can (struct) some interesting thing <unintelligible> that you something about a bit of the model.
+
+But yeah.
+
+I don´t really refer to any such papers in my chapture.
+
+Maybe do I -
+
+[PERSON19] Yeah.
+
+So I don´t know the, um, who, who is the gender biass section?
+
+[PERSON6] I do.
+
+[PERSON9] [PERSON6].
+
+[PERSON19] Yeah.
+
+Hm.
+
+[PERSON6] Well -
+
+[PERSON2] We don´t refer to that but we can still say in this, in this, in this chapture that, that there is another way of testing the models and, and we are not interested in these methods.
+
+[PERSON6] OK.
+
+So, um, you have the <unintelligible> some (predics).
+
+[PERSON19] Yeah.
+
+ I don´t know, (that is) not yet.
+
+Who do you want?
+
+[PERSON6] I want the -
+
+<laugh>
+
+Um...
+
+Um...
+
+To do added somewhere after the unsupervised methods because -
+
+[PERSON19] Which file?
+
+[PERSON6] In which file?
+
+Interpretation.
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON6] Before this section.
+
+[PERSON19] Hidden states only.
+
+Yeah.
+
+[PERSON6] Yeah, I want to do that says behaviour-
+
+What´s the ending of the word?
+
+[PERSON2] IST.
+
+And the (??vaticular).
+
+[PERSON6] This, right.
+
+I have my notes from the tutorials somewhere here.
+
+Behavioral.
+
+[PERSON2] Behavioral.
+
+OK.
+
+[PERSON6] And if -
+
+[PERSON9] Which I don´t know from the, from the, the, um, the -
+
+[PERSON6] Yeah, these are also the tutorial, they´re rather (brief).
+
+I posted a link to this document in the slack.
+
+[PERSON9] Yeah.
+
+Can I, can I, can I watch the tutorial or?
+
+[PERSON6] Yeah, I posted the link to the tutorial in slack.
+
+[PERSON9] Aha, OK.
+
+I will, I will -
+
+[PERSON6] Well, I have (send) directly into (livelive) or what is also, you can watch it there.
+
+Hm...
+
+And there is also a part about interaction and I´m not sure if we want that as a section?
+
+[PERSON19] What does it mean?
+
+[PERSON6] Where is the window with [PERSON2]?
+
+[PERSON19] Hm.
+
+Hm.
+
+Hm, hm.
+
+Hm.
+
+[PERSON6] Do we want to discuss interaction?
+
+[PERSON19] What does it mean?
+
+[PERSON6] I´m not sure.
+
+<laugh>
+
+Already things to be since the tutorial -
+
+<laugh>
+
+I forgotten most of what I haven´t written down here.
+
+What was in the interaction part?
+
+We can look at the slides on the tutorial.
+
+[PERSON2] I don´t know.
+
+[PERSON6] Where is the slack here?
+
+[PERSON9] Here.
+
+[PERSON6] Here is the slack link.
+
+And here are the slides, all 190 of them.
+
+(PERSON17) Hi, I´m [PERSON7].
+
+<laugh>
+
+[PERSON9] [PERSON7].
+
+<laugh>
+
+<unintelligible> our book.
+
+[PERSON6] Hm, hm, hm, hm.
+
+Probing, classifiers.
+
+There is [PERSON19]´s analysis.
+
+And behavioral analysis.
+
+And there are examples here and...
+
+Oh, behavioral analysis.
+
+[PERSON9] (How long) is this tutorial?
+
+3 hours?
+
+[PERSON6] Yeah, almost 3 hours.
+
+And I think like the, the women who, women who talks about the behavioral analysis takes like, um, an hour and half from them and she says, what she says can be summed up in like 15 minutes but..
+
+<other_noise>
+
+Yeah, the <unintelligible> says what was terrible at this meeting.
+
+There are (usual) analysis.
+
+OK, clustering, clustering, clustering and where is the -
+
+OK.
+
+An interactive visualisation.
+
+OK, I think for some reason more like the interactive thing was, was making thing -
+
+[PERSON2] You mean, you mean the Java script thing that he, that the guy was showing.
+
+[PERSON6] Yeah, but for some reason it was mention separately in this, somewhere...
+
+Yeah, I´m in the beginning again.
+
+Hm.
+
+Let´s find it there.
+
+There should be some summary slide at the beginning I think.
+
+[PERSON2] Oh, I don´t think that, that´s relevant for the book at all.
+
+Um, I mean he was talking about how to <unintelligible> -
+
+[PERSON6] OK, <unintelligible>.
+
+[PERSON2] To, to come up with hypotheses that can be later quantitatively tested.
+
+[PERSON6] Yeah.
+
+So we don´t have to mentioned interaction.
+
+[PERSON2] Yeah.
+
+[PERSON19] <unintelligible> like the <unintelligible> of word embeddings.
+
+This the <unintelligible> what is it?
+
+[PERSON6] Yeah, this is the interactive visualisation.
+
+[PERSON19] Yeah.
+
+I don´t know how this (more) like what was the embeddings <unintelligible>.
+
+[PERSON6] Hm, then they mentioned other methods and I don´t remember what other methods did they talk about.
+
+Conclusion, conclusion.
+
+Interactive visualisation.
+
+It doesn´t seem that they mention any other method.
+
+Yeah, but here you can see that like, um, hm, hm, and this is like, yes, like that.
+
+OK.
+
+And can I actually share this with [PERSON2]?
+
+[PERSON19] You can move it to the entire screen and share.
+
+[PERSON9] Yeah.
+
+[PERSON6] No, this is, just the window is share.
+
+Presenting, start presenting again.
+
+Let´s, um, ah, I can actually share the second screen and now I can move, well, I can move this, this thing here.
+
+Yes.
+
+Do you see the slide?
+
+[PERSON2] Yes, I do.
+
+[PERSON6] Well, so here is like basically say then they are too brought (approaches) structure of, structure of probing and (Chelling) says and <unintelligible> says are the, the behavioral thing.
+
+[PERSON2] Yep.
+
+[PERSON6] And then the visualisation is like a technic (dot), can speed (dot) exploration but they don´t really consider it, um, the a...
+
+[PERSON9] Like interpreting.
+
+[PERSON6] Yeah.
+
+[PERSON2] Yeah.
+
+[PERSON6] So, so we...
+
+I think we have a different approach with the accent on unsupervised methods that, that we consider real methods and not just, um, some -
+
+[PERSON2] Yeah.
+
+[PERSON6] Expiration thing.
+
+[PERSON9] The-, their, their probing, um, methods were all like thing the -
+
+[PERSON2] Supervised.
+
+[PERSON9] Supervised classifire.
+
+[PERSON6] I think so.
+
+[PERSON9] Or something.
+
+[PERSON6] Yeah.
+
+[PERSON2] Yep.
+
+[PERSON6] Yeah, like most of the -
+
+I think most of the, um, [PERSON7]´s part of the (corel) is concerned with, um, the classifires and like the discussion around should the classifires be simple or should they be powerfull and memorization.
+
+[PERSON19] Hm, is there an outcome?
+
+[PERSON6] Well, not really.
+
+[PERSON19] In lot of the papers that I see too they seem to kind of the (steam) that if, if just the linear classifire or linear probe then it´s kind of OK.
+
+And, and -
+
+[PERSON6] Yeah, but then I can show you in the <unintelligible> or I -
+
+I do -
+
+Well.
+
+Yeah.
+
+Here.
+
+<unintelligible> and al.
+
+<laugh>
+
+Argue that we should always choose the most complex probe since it will maximize the mutual information.
+
+And yeah.
+
+And not really -
+
+No.
+
+Yeah, then [PERSON12] and [PERSON14] mesure the probe complexity and probe quality and compare them.
+
+Hm, both of these.
+
+Hm, most of these, um, both of these papers are from 2020 and I haven´t read, read them yet.
+
+I´m not, I´m not sure that I follow this argument here.
+
+[PERSON2] Yeah, actually didn´t get the thing what, what the mutual information that [PERSON7] was talking about.
+
+[PERSON6] Yeah, me neither.
+
+Or maybe we, maybe we should read <unintelligible> and al.
+
+<laugh>
+
+[PERSON2] Yeah.
+
+[PERSON6] So, but, yeah -
+
+So I think the, the conclusion was that like people are discussing it and there are different approaches.
+
+[PERSON19] Hm.
+
+[PERSON6] Well, a few years, um, ago people were as he said, um, sort of, um, um, the word is -
+
+<other_language>
+
+Assuming -
+
+[PERSON19] Hm.
+
+[PERSON6] That the, the linear classifire will not memorize and that´s a good thing.
+
+[PERSON19] Hm.
+
+Well, there is a discussion but probably no.
+
+[PERSON6] No con-, no conclusion yet.
+
+<laugh>
+
+I would say.
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON6] Yeah.
+
+I mentioned <unintelligible>.
+
+[PERSON19] Hm.
+
+[PERSON9] Yeah, this is [PERSON19] <unintelligible>.
+
+[PERSON6] Um...
+
+Um...
+
+The <unintelligible>.
+
+I also didn´t like understand this part of the thought.
+
+[PERSON9] OK.
+
+[PERSON6] Hm.
+
+Well, yeah, I think that this maybe some <unintelligible>.
+
+So...
+
+Yeah, the (jerson) alternative way to do things.
+
+But -
+
+Hm.
+
+That´s all that [PERSON7] said.
+
+So here we should mention the behavioral analysis (we can), we should probably explicitely mention that our classification is some what uncommon when the accent un-, unsupervised methods.
+
+[PERSON9] Yeah.
+
+Because half of the, half we are chapture and almost whole of my chapture is unsupervised and the [PERSON19]´s <unintelligible> is -
+
+[PERSON19] Also this, um, this is also unsupervised method, the neural.
+
+[PERSON6] Hm...
+
+Not really.
+
+Like -
+
+[PERSON19] You <unintelligible> train -
+
+[PERSON6] Well -
+
+[PERSON9] Train but -
+
+[PERSON6] You didn´t train anything but you´re constructing, um, you´re like -
+
+Yeah, like you constructed a supervise data set.
+
+Like for example in case of the biass detection you´re constructing a data set yourself and that´s the supervision, right.
+
+You´re -
+
+You have to -
+
+[PERSON19] When it -
+
+[PERSON6] Like there have to be a person who decides if, if -
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON9] Yes.
+
+[PERSON6] Like who decides the examples...
+
+But yeah, maybe it´s something but doesn´t really (thinking) to this -
+
+[PERSON9] Yeah, I think it´s something <unintelligible> different if I <unintelligible> to this thing.
+
+[PERSON6] Yeah.
+
+[PERSON9] Maybe cause it is not -
+
+[PERSON6] Yeah, I would say that we should -
+
+[PERSON9] <unintelligible>
+
+[PERSON6] Maybe we should follow [PERSON7] in, in classifying like the probing and our unsupervised methods as structure analysis.
+
+[PERSON19] Hm.
+
+[PERSON6] That´s one thing.
+
+[PERSON9] Hm.
+
+[PERSON6] And then the behavioral analysis is -
+
+[PERSON9] Yeah.
+
+[PERSON6] Something different.
+
+[PERSON9] It´s something different.
+
+[PERSON19] Hm.
+
+[PERSON2] Hm.
+
+[PERSON19] Maybe can you want to learn some things like what´s there, what´s not there so (want ??).
+
+[PERSON9] Yeah, we can the <unintelligible>.
+
+You don´t train anything.
+
+[PERSON19] Hm.
+
+[PERSON9] Or you use structure task.
+
+OK.
+
+[PERSON19] I know some people train, train a model to do machine translation and they say, yeah, it´s morfology translation to the most of the behavioral, tested on the task for which it was trained kind of.
+
+[PERSON6] Well, not necessarily.
+
+Like I sort of but you´re testing specific thing -
+
+[PERSON19] Yeah.
+
+[PERSON6] Like in case of language modeling -
+
+[PERSON19] Hm.
+
+[PERSON6] Well, you´re not testing language modeling if you´re only testing the structure -
+
+[PERSON19] Not, not in general but, but you´re using just kind of observing the behavioral on -
+
+[PERSON6] Yeah.
+
+[PERSON19] The virtual task or sort of you can find data set maybe -
+
+[PERSON6] Yeah.
+
+[PERSON19] Task same <unintelligible>.
+
+[PERSON6] Yeah.
+
+[PERSON19] Yeah.
+
+[PERSON9] OK, <unintelligible>.
+
+[PERSON19] <laugh>
+
+Yeah, I probably have some, um, some things like that and think that I interpret but I didn´t know the, yeah, maybe I should comment.
+
+[PERSON9] OK, so...
+
+We´ll do, we´ll do write them.
+
+So [PERSON6], you can?
+
+[PERSON6] Yeah.
+
+OK.
+
+[PERSON9] You can write the probing and -
+
+[PERSON19] Probing -
+
+[PERSON9] Someone who should -
+
+Yeah.
+
+Add the other methods to unsupervised methods because defined that only that <unintelligible>.
+
+[PERSON6] And clustering with missing (?? slash).
+
+[PERSON9] OK.
+
+<laugh>
+
+Or <unintelligible> clustering.
+
+[PERSON9] Yeah.
+
+And so you should mention the, um, behavioral thing.
+
+Yeah.
+
+Yeah.
+
+What we should do with this hidden states (corespondence) thing (could) work.
+
+Hm.
+
+I -
+
+Yeah.
+
+Because -
+
+It is <unintelligible> across of all the, all the chaptures done.
+
+[PERSON19] Hm, hm.
+
+[PERSON9] Or -
+
+[PERSON6], you, you use only, only -
+
+[PERSON6] No.
+
+I, I don´t have any hidden states so...
+
+[PERSON9] Yeah, you don´t have any hidden states.
+
+So -
+
+[PERSON19] Yeah, (I was) <unintelligible> vistualisation.
+
+[PERSON6] Yeah.
+
+OK.
+
+[PERSON6] Although I didn´t really <unintelligible>, <unintelligible> yet.
+
+[PERSON19] Hm.
+
+[PERSON6] Which was -
+
+[PERSON19] Hm, hm.
+
+<other_noise>
+
+<unintelligible> for my chapture and for [PERSON9] chapture.
+
+[PERSON9] For my chapture, yeah.
+
+[PERSON19] Hm.
+
+Yeah, <unintelligible> there and other things.
+
+This, this is also problematic part like when you have subwords and you need, your <unintelligible> isn´t forwards so and you just averages together or -
+
+[PERSON6] Yeah.
+
+So maybe we should like, hm...
+
+Like do a section here.
+
+[PERSON19] Hm.
+
+[PERSON6] And maybe some subsection.
+
+[PERSON19] Hm.
+
+[PERSON6] But there is another subsection about word sense subword.
+
+[PERSON19] I think I have two.
+
+<other_noise>
+
+[PERSON9] Yeah, I will, I would write it here.
+
+<unintelligible>.
+
+[PERSON19] <unintelligible>.
+
+[PERSON9] Aha, OK.
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON6] <unintelligible>.
+
+[PERSON19] Hm, hm, hm, hm, hm.
+
+[PERSON6] You´re right.
+
+<other_noise>
+
+[PERSON9] Yes.
+
+Because I have information like this in, in like two more them <unintelligible> -
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON9] And which of as well because at <unintelligible> is <unintelligible>.
+
+[PERSON19] Yeah, so I <unintelligible> and what this is and -
+
+<laugh>
+
+I now have (rewrite) <unintelligible>.
+
+[PERSON9] Yeah.
+
+Yeah, I, I´m repeating like in one sentence.
+
+[PERSON19] Hm, hm, hm.
+
+Yeah, it is -
+
+[PERSON9] Cause it´s really important thing that -
+
+[PERSON19] Yeah.
+
+<unintelligible> repeat.
+
+[PERSON9] So this is still copied from, from your -
+
+[PERSON19] I haven´t updated.
+
+I don´t know if somebody touched it.
+
+[PERSON2] Probably not.
+
+[PERSON9] Yeah.
+
+[PERSON19] Yes.
+
+It looks like my text.
+
+<other_noise>
+
+[PERSON9] So maybe I, I, yeah.
+
+I don´t know.
+
+Maybe I would let is as it is now and when, when we read it we can, we can comment and then, then we <unintelligible>.
+
+[PERSON19] Hm.
+
+[PERSON9] OK and...
+
+[PERSON6] OK and hm...
+
+What are we going to do with the comments on comments?
+
+Are you going comment to this -
+
+<laugh>
+
+[PERSON2] Hm...
+
+Although -
+
+[PERSON6] Or should we maybe arrange a separate call and discuss it?
+
+[PERSON2] Um...
+
+The best thing would be if you, if you write there what, what I was suggesting.
+
+If -
+
+The worst case for me if, is, if I write it but yeah, I think th-, this is something that, that, that should be mentioned that, um, um -
+
+[PERSON6] Hm.
+
+I mean these comments where, yeah.
+
+[PERSON2] Yep.
+
+That, that people, um, who, um, we are citing are not people doing NLP.
+
+That these concepts come from, um, general machine learning community and even in the general machine learning community this is, this is li-, like, like the mainstream.
+
+Means from interest.
+
+And that people in the machin-, um, in, in NLP community started to be interested in interpretability only, only recently.
+
+Th-, this is basically what I was suggesting to add in, into this column.
+
+[PERSON6] Yeah, and then I have question for other comment.
+
+Um, for example here I don´t know what the comment means.
+
+And there was another one but it´s not here somewhere.
+
+<unintelligible> there.
+
+Oh.
+
+OK.
+
+Well -
+
+[PERSON9] <unintelligible> are -
+
+Aha, in the <unintelligible>, yeah, in the other comment.
+
+[PERSON6] Yeah, usually.
+
+Or sometimes in the middle.
+
+[PERSON2] Um...
+
+<other_language>
+
+Who are the people?
+
+The, this is explained in s-, in the next sentence.
+
+Or in the rest of the comment that, that these are not NLP people but these are machine learning people.
+
+[PERSON6] Yeah, I still don´t really know what you mean so you would have to write it yourself.
+
+[PERSON2] Well, I´m asking question who are the people and the answer is these are machine learning people.
+
+[PERSON6] Who are what people?
+
+<laugh>
+
+There is no <unintelligible> -
+
+[PERSON2] That you´re citing in the previous, in, in the previous chapter.
+
+It´s [PERSON24], [PERSON26], [PERSON18].
+
+[PERSON6] OK.
+
+OK, yeah.
+
+Hm, hm, hm, hm...
+
+OK, now I´m starting to get your point.
+
+[PERSON2] They have nothing in common with NLP, they have nothing to common in lingu-, what linguistics.
+
+[PERSON6] Well, it´s nothing important.
+
+[PERSON2] Hm, I think so.
+
+Because this book is about NLP and, and linguistic structures and we are using methodology, um, that comes from different fields.
+
+[PERSON6] Hm, you are about linguistics.
+
+Um, structures.
+
+I mean -
+
+I´m in, in this, this chapture is about interpretation of neural networks and specifically this first part is about the general term, concept of interpretation and there, there´s like -
+
+[PERSON19] Some probably -
+
+[PERSON6] There´s, um, I, at least I don´t know about any discussion that would, um, um, that would, um, approach this specifically from the NLP (ten points) so linguistic -
+
+[PERSON2] <unintelligible> [PERSON7] does.
+
+Or the [PROJECT4] <unintelligible> was, was from the, from the NLP perspective.
+
+[PERSON6] Yeah, sure about he didn´t really, um, talk about interpretation.
+
+He didn´t talk about the concept, right.
+
+He just -
+
+[PERSON2] Yep.
+
+[PERSON6] Listed several methods and that´s, the point of this chapture it that, yeah, unless you like list methods, um, there´s no, there´s no general consensus on what interpretation means.
+
+There are only list of <unintelligible>.
+
+Yeah, so...
+
+[PERSON2] Yes, and this is not discussed in, in the NLP community but in the machine learning community and, and this is what I think we should mention.
+
+[PERSON6] I don´t see how that´s any relevant.
+
+[PERSON2] OK.
+
+But -
+
+[PERSON19] I agree that probably explicitly say that here we´re talking (most) interpretation of the <unintelligible> in general, not NLP.
+
+Then if there is something specifical for NLP, we should say <unintelligible> in NLP <unintelligible> usual.
+
+[PERSON6] OK.
+
+[PERSON19] Like I don´t know like for example the chapture that [PERSON9] has, so do you think into the attentions.
+
+I don´t know if people do this <unintelligible> NLP.
+
+[PERSON6] Sure they do.
+
+[PERSON19] Yeah.
+
+[PERSON6] In, um...
+
+Visual things.
+
+[PERSON19] Hm, hm.
+
+OK.
+
+[PERSON6] Like -
+
+[PERSON19] Yeah, that´s right, yeah.
+
+[PERSON6] They did it way before -
+
+[PERSON19] Hm, hm, hm.
+
+[PERSON6] NLP people did.
+
+[PERSON19] Hm, yeah.
+
+[PERSON6] Um...
+
+[PERSON9] <unintelligible>.
+
+[PERSON6] Why is this thing <unintelligible>.
+
+[PERSON9] <unintelligible>.
+
+[PERSON6] Yeah, yeah, yeah.
+
+OK.
+
+I, I agree with [PERSON19] that -
+
+[PERSON19] Hm.
+
+[PERSON6] That, um, that this the, the indroduction here should, should stay that it´s talking about the thinking general.
+
+[PERSON19] <unintelligible>.
+
+[PERSON6] Yes, please.
+
+But I don´t think that it´s important to mention who the people are but if you think that it´s important then, um, <unintelligible> means mention it.
+
+[PERSON2] OK.
+
+[PERSON9] OK, so should we <unintelligible> to the next -
+
+[PERSON6] Um, I think, stories.
+
+[PERSON9] Stories.
+
+[PERSON6] I´m not sure there is -
+
+I´m not sure if there are stories like -
+
+[PERSON9] Yeah.
+
+[PERSON6] No, we -
+
+We, um, I don´t know what is concept of stories but -
+
+[PERSON9] <unintelligible> concept of -
+
+[PERSON6] I don´t know about the author <unintelligible> -
+
+[PERSON9] Yeah.
+
+[PERSON6] But my chapture is end of story.
+
+[PERSON9] Yeah.
+
+I did realize so -
+
+[PERSON6] Maybe we should -
+
+[PERSON9] We should say that is -
+
+[PERSON6] Change the name.
+
+<laugh>
+
+So what is that -
+
+[PERSON19] Yeah.
+
+For me it´s rather some kind of questions from neural word or -
+
+[PERSON6] Yeah.
+
+[PERSON9] I don´t know whether we should have the two sections on the book so maybe we can -
+
+[PERSON19] I think the two sections are good like -
+
+[PERSON2] Yeah.
+
+[PERSON19] This is really introduction kind of and the second part are the <unintelligible> of findings.
+
+I can see quite the through the vision there.
+
+[PERSON9] Yeah, yeah.
+
+[PERSON2] Yeah.
+
+[PERSON6] I want them like the -
+
+I don´t think the, the first section should be named background.
+
+We should come up with some more specific name.
+
+[PERSON2] Yeah.
+
+[PERSON6] And then the second (it´s) part of the -
+
+[PERSON19] Yeah, this is part.
+
+[PERSON9] Part.
+
+[PERSON6] Yeah, the second part shouldn´t be named stories and why is there this third part?
+
+[PERSON19] Because you, you picked somewhere I, I <unintelligible> part of.
+
+Maybe it should <unintelligible>.
+
+[PERSON6] <unintelligible>.
+
+[PERSON2] <unintelligible> because it was in a template.
+
+<laugh>
+
+[PERSON19] Sorry?
+
+[PERSON2] The third part is there because it was in a template.
+
+[PERSON6] Was it?
+
+[PERSON19] There was -
+
+Yeah, I think it was called conclusion.
+
+[PERSON6] Yeah.
+
+[PERSON19] Originally.
+
+[PERSON2] Yeah.
+
+[PERSON19] Maybe conclusion, conclusion and summary.
+
+[PERSON9] <unintelligible>.
+
+[PERSON19] <unintelligible> each other and like technically it´s a separate part.
+
+[PERSON9] Yeah.
+
+It should be the, yeah -
+
+[PERSON19] Maybe, maybe it shouldn´t be a separate part.
+
+[PERSON6] Yeah.
+
+[PERSON9] It is not part of the second part.
+
+[PERSON6] I don´t think there should be this page.
+
+[PERSON9] Yeah.
+
+[PERSON6] It´s actually, it shouldn´t say <unintelligible>.
+
+<laugh>
+
+[PERSON19] Or, or this <unintelligible> little book.
+
+[PERSON6] Yeah, but -
+
+[PERSON9] Yeah, the, the, um, OK.
+
+The only chapture of the third part, the third part is the summary.
+
+[PERSON19] Yeah.
+
+And then there are <unintelligible> -
+
+[PERSON9] So maybe it´s, it could be called summary.
+
+[PERSON19] Yeah, because -
+
+[PERSON9] But then <unintelligible> summary and summary.
+
+[PERSON19] When it´s just called summary, it´s not very clear like suddenly this is all <unintelligible> summary of the whole book cause it looks like another chapture in the second part or maybe the, the last chapture.
+
+[PERSON9] Yeah.
+
+[PERSON19] So, so I think it should be somehow separated more clearly.
+
+[PERSON9] Yeah, but we cannot call it summary and (have) it´s OK.
+
+[PERSON6] Hm, hm.
+
+[PERSON19] I don´t know.
+
+[PERSON6] I don´t know either.
+
+[PERSON9] But right now two parts are fine.
+
+[PERSON19] Maybe we don´t even have to have two parts, I don´t know.
+
+[PERSON9] Yeah.
+
+Yeah.
+
+[PERSON19] I think it´s optional.
+
+[PERSON9] Yeah.
+
+I, I agree to the first, first chapture <unintelligible> but -
+
+[PERSON6] Although, it, it would also make sense to part a part after the second chapture, before the third.
+
+[PERSON19] Hm.
+
+[PERSON6] Not after the third.
+
+[PERSON19] Hm.
+
+[PERSON6] And -
+
+[PERSON19] Maybe I´m OK whith (genuins) parts all together.
+
+[PERSON9] Yeah.
+
+<laugh>
+
+Then we -
+
+[PERSON19] Will you merge them [PERSON6] or?
+
+[PERSON9] <unintelligible>.
+
+[PERSON6] No, I -
+
+[PERSON9] <unintelligible> pages.
+
+<laugh>
+
+[PERSON6] Yeah, it´s two pages each.
+
+<laugh>
+
+[PERSON19] I think we have enough.
+
+<laugh>
+
+Enough pages anyway.
+
+Like the limit is -
+
+50 is the minimum I guess or?
+
+[PERSON9] I don´t know.
+
+But now we have almost 150.
+
+[PERSON19] Yeah, I think it´s enough.
+
+[PERSON9] Yeah.
+
+Yeah, so two -
+
+[PERSON6] Also like looking at the contents attentions and effective mechanism for word element and relations need to be (sheltered).
+
+<laugh>
+
+[PERSON9] Yeah, this, this should be -
+
+[PERSON19] Yeah.
+
+This, this is should be like the story right.
+
+<laugh>
+
+[PERSON9] Yeah, it´s like the -
+
+[PERSON6] Yeah, but it´s not really -
+
+Yeah, the -
+
+The title isn´t story about the content.
+
+It´s not so I should <unintelligible> the title.
+
+[PERSON19] Yeah.
+
+[PERSON9] Yeah.
+
+[PERSON6] But, yeah, I don´t know.
+
+Representing words.
+
+<laugh>
+
+[PERSON19] I think the name of the book is nice.
+
+[PERSON9] Yeah, the <unintelligible> the book is, yeah.
+
+This is -
+
+[PERSON6] OK, maybe we should <unintelligible>.
+
+Word and <unintelligible>.
+
+The first chapture, um, the first real chapture can be hidden in the, the embeddings.
+
+<laugh>
+
+[PERSON9] And hidden in the attentions.
+
+<laugh>
+
+And then -
+
+[PERSON6] And then in the context.
+
+[PERSON9] Then in the context.
+
+[PERSON19] I´m playing with hiding in my pages title.
+
+[PERSON6] Yeah.
+
+[PERSON19] I think my chapture <unintelligible>.
+
+[PERSON9] OK.
+
+And do you think deep learning for the first, um, I would, maybe I would <unintelligible>.
+
+[PERSON19] <unintelligible> attention <unintelligible>.
+
+[PERSON6] Hm.
+
+[PERSON9] <unintelligible> of the NLP.
+
+[PERSON19] I thought so NLP.
+
+[PERSON9] It, it is not on NLP.
+
+Yeah.
+
+[PERSON19] Hm.
+
+I think it´s fine.
+
+Deep learning.
+
+This <unintelligible>.
+
+<other_noise>
+
+<unintelligible> should <unintelligible>.
+
+<laugh>
+
+[PERSON9] OK, so I <unintelligible>.
+
+[PERSON19] Hm.
+
+[PERSON9] Well, this is like the, um, the <unintelligible> for chaptures and these, these <unintelligible>.
+
+<unintelligible>.
+
+Maybe it will be better if summary were somewhere there <unintelligible>.
+
+[PERSON19] Um, it can be just here, yeah.
+
+[PERSON9] But in the introduction we don´t have it.
+
+[PERSON6] <unintelligible>.
+
+[PERSON19] <unintelligible>.
+
+And it´s the same as -
+
+[PERSON9] Yeah, it´s the same as <unintelligible>.
+
+[PERSON6] I think the summary is usually not numbered.
+
+[PERSON19] Yeah.
+
+[PERSON9] Yeah, maybe, yeah.
+
+I don´t -
+
+[PERSON6] It´s not really part of the text.
+
+[PERSON19] Yeah.
+
+[PERSON9] Yeah.
+
+That´t right.
+
+I, I don´t <unintelligible> the text.
+
+This is <unintelligible>.
+
+[PERSON6] <unintelligible> look at the [PERSON8]´s translations -
+
+<laugh>
+
+Library and the basic (screens).
+
+Yeah, they´re like.
+
+OK, they haven´t appendix and the geographic glossary.
+
+Yeah, unnumbered.
+
+Because, yeah, replace is also unnumbered.
+
+Because the text really starts here.
+
+[PERSON9] Yeah.
+
+[PERSON6] Also we want the <unintelligible> number the things at the beginning in <unintelligible> Roman numbers <unintelligible>.
+
+<laugh>
+
+And also we have the Roman number there.
+
+[PERSON19] Hm. [PERSON6] So <unintelligible> sort of.
+
+OK.
+
+This book has not have a summary.
+
+[PERSON19] Hm.
+
+Probably <unintelligible>.
+
+[PERSON6] It has a glossary.
+
+[PERSON9] But it, it has, um, something like summary or not?
+
+[PERSON19] Hm...
+
+[PERSON9] I thought -
+
+<laugh>
+
+Also something.
+
+There´s <unintelligible>.
+
+I think [PROJECT2] -
+
+[PERSON6] No, this -
+
+[PERSON9] No.
+
+These are <unintelligible>.
+
+[PERSON6] No.
+
+Hm.
+
+[PERSON9] OK, um, so let´s, so um...
+
+What next?
+
+Um...
+
+[PERSON6]...
+
+<other_noise>
+
+[PERSON6] It doesn´t have summary <unintelligible> index.
+
+[PERSON9] So [PERSON6], you, you already said that this is almost finished.
+
+[PERSON6] Um...
+
+Yeah, but it´s almost finished -
+
+[PERSON9] Yeah, so we can read it.
+
+[PERSON6] And <unintelligible>.
+
+Yeah, parts of that you can read.
+
+And other parts not so much.
+
+[PERSON9] So were you, you read anything and (ready) comment -
+
+[PERSON6] Yeah.
+
+[PERSON9] What is missing.
+
+[PERSON6] Yeah.
+
+[PERSON9] OK.
+
+[PERSON19] Maybe you can <unintelligible>.
+
+<laugh>
+
+[PERSON9] Maybe should everyone <unintelligible> read the whole book -
+
+[PERSON19] Yeah, yeah.
+
+[PERSON9] And see what is, what is -
+
+Yeah.
+
+Comment mainly what is missing -
+
+[PERSON19] Yeah, yeah.
+
+[PERSON9] And what, what connections I mean in the chaptures and -
+
+[PERSON19] The ideal comments for me would be what to remove.
+
+<laugh>
+
+Maybe what is just rewrite.
+
+<laugh>
+
+[PERSON9] What exactly.
+
+[PERSON19] Yeah.
+
+[PERSON9] And show it and rewrite it.
+
+[PERSON19] Yeah.
+
+And as they said with as, as google there <unintelligible>, like, please, um, <unintelligible> your suggestions in the formal, formal request.
+
+<laugh>
+
+[PERSON9] OK, so my chapture.
+
+I, yeah, I start within the first parts, added some of the, some, actual these are, these are <unintelligible> for, from paper, so...
+
+[PERSON19] I´ve defined, um, macro for, from -
+
+[PERSON9] You define the macro?
+
+[PERSON19] Yeah.
+
+<laugh>
+
+[PERSON6] <unintelligible>
+
+[PERSON19] I don´t know.
+
+<unintelligible> deffinitely this.
+
+<laugh>
+
+<unintelligible>
+
+[PERSON9] Well, I will -
+
+[PERSON19] Decided be to have <unintelligible> or, um, the other common style of refering to <unintelligible> so -
+
+[PERSON9] Yeah.
+
+[PERSON19] <unintelligible> find something <unintelligible>.
+
+And maybe we shouldn´t forget to <unintelligible>.
+
+[PERSON9] Yeah, this is also store, store, um, <unintelligible>.
+
+[PERSON2] I added some comments in this, in this chapture and, and rewritten some sentences that seemed -
+
+[PERSON9] Yeah.
+
+I, I -
+
+Yeah.
+
+[PERSON2] Too Czech to me.
+
+[PERSON9] Yeah, yeah.
+
+Because yeah.
+
+I, I -
+
+So this is, yeah.
+
+Yeah, what is missing in my part is rewrite or add, add something to the last, last, um, last section what is <unintelligible>.
+
+But it can be somehow <unintelligible>.
+
+<unintelligible>.
+
+[PERSON19] Ah.
+
+[PERSON9] OK, so -
+
+[PERSON19] I will check the list of figures maybe we should add some <unintelligible>.
+
+<laugh>
+
+[PERSON9] Yeah, that, that´s always the problem because -
+
+Yeah, but -
+
+[PERSON19] You can use the -
+
+You can use the <unintelligible>.
+
+[PERSON9] Yeah, yeah.
+
+In the square bracket, yeah.
+
+[PERSON6] OK.
+
+[PERSON9] So we should -
+
+I will added -
+
+[PERSON19] Here´s something we can slack <unintelligible>.
+
+[PERSON9] So that´s tonight.
+
+[PERSON19] OK.
+
+[PERSON9] I figured that the, that the -
+
+[PERSON19] Well it´s not <unintelligible> [PERSON3] so -
+
+[PERSON21] I´m too (listed up).
+
+[PERSON6] <unintelligible>.
+
+[PERSON9] Yeah, this is -
+
+Yeah.
+
+<laugh>
+
+[PERSON21] So maybe that somenthing be in text.
+
+[PERSON9] Yeah, it -
+
+Yeah, but it´s -
+
+[PERSON6] Very technical.
+
+[PERSON19] I know.
+
+It´s defined but just add the <unintelligible>.
+
+[PERSON9] OK.
+
+So do you, um, have time to read it?
+
+Now I and [PERSON19] -
+
+[PERSON19] <unintelligible>.
+
+[PERSON9] Yeah.
+
+I think it´s very -
+
+[PERSON6] I´m fine.
+
+[PERSON9] You?
+
+OK.
+
+So -
+
+[PERSON6] Yeah.
+
+[PERSON9] When do we have the next meeting?
+
+[PERSON19] Do we have something planned?
+
+[PERSON9] No.
+
+Truly said, I, I think I, I don´t know where I will be <unintelligible>.
+
+But I won´t be online the next week.
+
+[PERSON19] The whole week?
+
+[PERSON9] The whole week.
+
+But maybe I will, so...
+
+Will we <unintelligible>.
+
+But we can, so in two weeks or?
+
+[PERSON6] Yeah.
+
+[PERSON19] Yeah.
+
+[PERSON9] You don´t have any [PERSON19]?
+
+[PERSON19] No, no.
+
+No, no, no.
+
+May-, um, I don´t know.
+
+Hm.
+
+No.
+
+No, I´ll not.
+
+[PERSON6] <unintelligible>.
+
+[PERSON19] Hm.
+
+[PERSON9] It´s -
+
+Yeah.
+
+[PERSON6] Well, there is the [PROJECT6] meeting written on July 21th.
+
+[PERSON9] Yeah, but [PERSON19], [PERSON19] this is having all the Tuesdays.
+
+[PERSON19] Yeah, yeah, yeah.
+
+Yeah.
+
+I just put there.
+
+Regurarly so that nobody -
+
+[PERSON9] Yeah.
+
+[PERSON19] So that we haven´t space to -
+
+[PERSON9] I deleted, I deleted all the meetings, um, starting the next year, because -
+
+<laugh>
+
+<unintelligible>.
+
+<laugh>
+
+Yeah.
+
+[PERSON19] Um, so we could maybe <unintelligible> but we don´t want to, right?
+
+<unintelligible>.
+
+[PERSON9] Um, yeah, we can make, yeah.
+
+I think we almost have all the what -
+
+[PERSON19] Hm.
+
+[PERSON9] What we have promised.
+
+So -
+
+[PERSON19] Yeah.
+
+[PERSON9] Only thing is this book so...
+
+[PERSON19] Yeah.
+
+[PERSON9] We can, we can <unintelligible> only the, um, only (annulation).
+
+[PERSON19] Hm.
+
+[PERSON9] I, I think if I write, um -
+
+[PERSON19] Do you write -
+
+[PERSON9] To the final report if I writed we already have written it and I, I can, um, attend, um, to the report -
+
+[PERSON19] Hm.
+
+[PERSON9] And that we only wait for, wait for, um, printing it -
+
+[PERSON19] Hm.
+
+[PERSON9] That, um, they will postpone the (arroiton) and -
+
+[PERSON19] Hm.
+
+We can say that we couldn´t write it home because we have to sit at home and -
+
+<laugh>
+
+[PERSON9] Yeah, that´s -
+
+<laugh>
+
+Yeah, that´s the problem.
+
+But I don´t know how to -
+
+<laugh>
+
+[PERSON6] Yeah, at home.
+
+<other_noise>
+
+[PERSON9] OK, so I -
+
+So, [PERSON19], you are not here this week and the next week you are here?
+
+[PERSON19] Yeah, I´m comming back on Sunday on morning.
+
+[PERSON9] Yeah, so you can come in next, next week then.
+
+[PERSON19] Yeah.
+
+So I hope that you will comment my chapture in the meantime.
+
+[PERSON9] Yeah.
+
+[PERSON19] Comment it and, and <unintelligible>.
+
+[PERSON9] Yeah, I said that not, not to write to when everything is, everything is written.
+
+[PERSON19] Hm.
+
+[PERSON9] So I, if you, if we (thinkg) and, or we <unintelligible> figures well and read it the whole book and comment everything.
+
+[PERSON6] Hm.
+
+[PERSON9] Um...
+
+This week.
+
+<other_noise>
+
+And yeah.
+
+And...
+
+And in parallel we can, we can reach all the, all the sections somehow and respond to the recomments as [PERSON6].
+
+And we will see if it´s...
+
+<other_noise>
+
+I suppose the next meeting -
+
+So next meeting would be in, um, Tuesday -
+
+[PERSON19] So the 21th I can delete?
+
+[PERSON9] 21th, yeah.
+
+Um...
+
+I will probably not -
+
+I don´t know.
+
+So you all are here?
+
+The next -
+
+[PERSON6] So.
+
+[PERSON19] So I can <unintelligible> -
+
+[PERSON9] Maybe -
+
+[PERSON19] <unintelligible>.
+
+[PERSON9] Yeah.
+
+Maybe, maybe the weekend I´m here.
+
+[PERSON19] Hm.
+
+[PERSON9] And I will -
+
+Yeah.
+
+<unintelligible>.
+
+[PERSON6] Or we can meet anyway and -
+
+[PERSON9] Or you can meet anyway and, and discussed the -
+
+[PERSON19] Hm.
+
+[PERSON9] Discussed the problems in, in, in the book so -
+
+[PERSON19] Hm.
+
+[PERSON9] Yeah, it should be better if you´ll meet and I will -
+
+Yeah.
+
+I will participate if I´m online <unintelligible>.
+
+[PERSON19] OK.
+
+<other_noise>
+
+[PERSON9] What next?
+
+<other_noise>
+
+Do you have anything else?
+
+About the book?
+
+[PERSON2] At the 21th of July would be at 11, right?
+
+[PERSON6] Yes.
+
+At least that´s what the calenar says.
+
+[PERSON9] Yeah.
+
+[PERSON19] Hm.
+
+[PERSON9] Yes, that´s what the calendar -
+
+[PERSON19] Hm.
+
+[PERSON9] We can, we can, yeah.
+
+We can move it after lunch if you want.
+
+[PERSON2] Yeah.
+
+<unintelligible>.
+
+[PERSON6] Hm.
+
+[PERSON9] [PERSON2], you said something?
+
+[PERSON2] Hm.
+
+I said that 11 is fine.
+
+[PERSON9] OK, so we can, yeah.
+
+So we´ll -
+
+[PERSON19] Hm, the meeting after would be OK.
+
+[PERSON9] 28th.
+
+Yeah.
+
+28th.
+
+Yeah, if this is possible for you.
+
+[PERSON19] Yeah.
+
+Yeah.
+
+<unintelligible> still possible that you have to shift something because of the [PROJECT3] -
+
+[PERSON9] Yeah, of course.
+
+Yeah.
+
+[PERSON19] Meeting or the [PROJECT3] deadlines.
+
+[PERSON9] Yeah.
+
+Yeah.
+
+But it´s -
+
+[PERSON6] It is -
+
+[PERSON9] It´s not problem <unintelligible>.
+
+[PERSON19] Thank it´s like [PROJECT3] meeting in <unintelligible> so -
+
+[PERSON9] Yeah, yeah, yeah.
+
+Yeah.
+
+[PERSON19] OK.
+
+[PERSON9] I´m not here the week after.
+
+The first week of, of the, so -
+
+But I´m suppose if, if it´s that the -
+
+[PERSON19] The book will be finished already.
+
+[PERSON9] I would like to have it finished.
+
+I don´t -
+
+Yeah.
+
+We have to, yeah, find the reviewers.
+
+[PERSON19] I can -
+
+[PERSON9] I can ask doctor [PERSON22] from [LOCATION2].
+
+[PERSON19] Hm.
+
+[PERSON9] It will be OK.
+
+If I, I, I think that his review will be OK.
+
+I don´t know if anyone else has -
+
+Do you, do you know about anyone who could review it?
+
+[PERSON19] <unintelligible>?
+
+[PERSON9] Um...
+
+Well, [PERSON25] said they should be non <unintelligible> Czech, ideally not in Czech but -
+
+[PERSON19] <unintelligible>.
+
+[PERSON9] I can see -
+
+I can ask someone from [LOCATION3] <unintelligible> your what someone else.
+
+So I should send professor <unintelligible>.
+
+Maybe it´s enough to have one more.
+
+[PERSON6] <unintelligible>.
+
+<laugh>
+
+What´s, what´s was that?
+
+[PERSON9] Like lecture, I don´t know.
+
+I don´t know the -
+
+<unintelligible>.
+
+[PERSON19] <unintelligible>.
+
+What are you?
+
+Are you post doc?
+
+[PERSON9] I don´t know what I am.
+
+<laugh>
+
+That now, I know, I´m, I´m the, I´m -
+
+Assistant professor.
+
+Like <other_language>
+
+[PERSON19] Hm.
+
+How that you <unintelligible>?
+
+<laugh>
+
+[PERSON6] Like what, what are you?
+
+<laugh>
+
+[PERSON9] [PERSON23] told me that I´m assistant <unintelligible>.
+
+Yeah.
+
+[PERSON19] Hm.
+
+[PERSON6] Well, here it says -
+
+[PERSON9] <unintelligible> participant, participate and -
+
+[PERSON6] Researcher.
+
+[PERSON9] Like assistant.
+
+[PERSON19] <unintelligible>.
+
+I´m a <unintelligible>.
+
+<unintelligible>.
+
+[PERSON6] And yeah, you are assistant professor.
+
+[PERSON9] Yeah, I´m assistant professor.
+
+<other_noise>
+
+[PERSON6] Hm.
+
+Also I don´t know why it is for professor up here.
+
+[PERSON19] <unintelligible> professor.
+
+[PERSON6] [PERSON25].
+
+[PERSON9] On [PERSON25], [PERSON4], <unintelligible>, <unintelligible>.
+
+[PERSON6] <unintelligible>.
+
+These are professors but I don´t know.
+
+Let´s, let [PERSON2] see.
+
+<laugh>
+
+So it´s full professor here.
+
+[PERSON19] Ah, only [PERSON25] is (true) professor.
+
+<laugh>
+
+[PERSON6] What does that mean?
+
+That (he´s true) professor.
+
+[PERSON19] Hm.
+
+[PERSON2] Usually (true) professor mean neither the, neither associate professor now, assistant professor.
+
+And neither professor (analytics).
+
+[PERSON9] But all, all four are professors.
+
+[PERSON2] Yes, but they might have <unintelligible> status.
+
+Like being already retired but still professors.
+
+I, I´m not sure (further).
+
+[PERSON6] Not they are listed as academic stuff.
+
+[PERSON2] Yeah.
+
+Yes.
+
+[PERSON6] They actually work there at [LOCATION1], so -
+
+[PERSON2] Yeah.
+
+[PERSON6] Hm.
+
+Strange.
+
+[PERSON2] Yeah.
+
+[PERSON9] But I think, yeah.
+
+[PERSON11]<unintelligible>.
+
+And [PERSON1]also.
+
+I think we do have -
+
+[PERSON19] I don´t know.
+
+[PERSON6] Hm, hm.
+
+[PERSON19] Yeah, I wonder what [PERSON20] was it.
+
+Do you know?
+
+I can <unintelligible> or something.
+
+[PERSON6] Yeah, I taught the email was rather -
+
+[PERSON19] It seems like -
+
+<laugh>
+
+(Amsterdam) something or I don´t know or -
+
+[PERSON6] Yeah.
+
+But then also a very implicite and -
+
+<laugh>
+
+<unintelligible> the email was like come and have a drink in the middle of the work day.
+
+<laugh>
+
+[PERSON19] Yeah, yeah, yeah.
+
+<laugh>
+
+It was -
+
+[PERSON6] Strange.
+
+[PERSON19] It said <other_language>, so the -
+
+[PERSON6] Yeah.
+
+[PERSON19] Subject was sure great.
+
+Let´s have a short break from working and let´s have wine.
+
+[PERSON6] Drink.
+
+[PERSON9] So it was at -
+
+[PERSON19] 2 p. m.
+
+[PERSON9] Last week or?
+
+[PERSON6] No.
+
+Today.
+
+[PERSON9] Today.
+
+Aha.
+
+[PERSON19] Maybe she has some birthday or something.
+
+[PERSON6] Yeah.
+
+[PERSON19] Name´s day maybe.
+
+It´s here name´s day somewhere around?
+
+<laugh>
+
+Do you have name´s days?
+
+<laugh>
+
+[PERSON6] Hm.
+
+Probably I´ll find that.
+
+[PERSON19] Yeah.
+
+[PERSON20] -
+
+[PERSON2] Today it is [PERSON23].
+
+[PERSON19] Ah.
+
+[PERSON9] It is [PERSON23].
+
+[PERSON19] So maybe it was this OK.
+
+<laugh>
+
+Maybe this was the reason.
+
+<laugh>
+
+[PERSON6] We should have gathered and listen her <unintelligible> here and -
+
+[PERSON9] Yeah.
+
+<laugh>
+
+And have wine.
+
+[PERSON6] <unintelligible>.
+
+[PERSON9] Yeah.
+
+[PERSON19] We don´t have wine here or do we?
+
+[PERSON6] Not that I know of.
+
+<laugh>
+
+[PERSON19] You probably do have wine but we don´t know it.
+
+[PERSON9] Or you.
+
+<laugh>
+
+[PERSON19] <unintelligible>.
+
+<laugh>
+
+OK, I will have to go to <unintelligible>.
+
+[PERSON9] Aha.
+
+OK.
+
+So I think we -
+
+[PERSON19] <unintelligible> lunch -
+
+[PERSON9] We have, I, I think we have discussed everything.
+
+Or is <unintelligible> if you don´t know about someone who could review our book.
+
+[PERSON2] No.
+
+[PERSON9] We should have the name next before we, we can read the book so that we can start reviewing process.
+
+[PERSON19] I still don´t know how -
+
+[PERSON9] Maybe better is -
+
+[PERSON19] Who kind of people we, we´re looking for.
+
+I know tuns of people I just don´t know <unintelligible> we want.
+
+I know lot of people from the MT community, people are friends, um, I think <unintelligible>.
+
+Actually the [PERSON5]´s grant which is also <unintelligible> interpretability is <unintelligible> his team.
+
+[PERSON5] has some grant <unintelligible> something about interpretability.
+
+[PERSON9] Yeah.
+
+Yeah, in the, yeah.
+
+[PERSON19] I don´t know if there are some people who are <unintelligible> -
+
+[PERSON9] Do you know them?
+
+[PERSON19] I don´t know.
+
+[PERSON9] Yeah, we don´t know them but yeah.
+
+<unintelligible> like year, years ago but we should cooperate and -
+
+[PERSON19] <unintelligible>.
+
+<unintelligible> you´re saying then yeah.
+
+We should, we should learn what they doing or at least he should learn what we are doing but -
+
+<laugh>
+
+The thing <unintelligible>.
+
+[PERSON2] And there are some, there are people from [ORGANIZATION3].
+
+But yeah.
+
+[PERSON6] Hm.
+
+[PERSON2] And they do speech recognition or another speech stuff.
+
+[PERSON19] Yeah.
+
+So nothing about speech.
+
+[PERSON2] Yeah.
+
+[PERSON19] <unintelligible> nothing about speech.
+
+<laugh>
+
+<unintelligible>.
+
+<laugh>
+
+[PERSON9] I don´t know where we go to ask someone which really in, in this are interpretability or maybe we can ask someone else in NLP.
+
+Cause this book is also <unintelligible> working for someone -
+
+[PERSON19] Yeah.
+
+[PERSON9] Who is not -
+
+[PERSON19] Yeah, it´s kind of <unintelligible>.
+
+[PERSON9] Yeah.
+
+[PERSON19] But <unintelligible> know about it <unintelligible>, this is missing.
+
+[PERSON9] Yeah.
+
+People who know about it will see what is missing but we will, we don´t know about this who will see more like -
+
+[PERSON19] Yeah, it was yeah, I don´t understand.
+
+[PERSON9] Yeah, what´s <unintelligible> understand.
+
+[PERSON19] It depends what kind of reviewer we want.
+
+[PERSON9] If we want -
+
+[PERSON19] If we want the reviewers who tell us that is <unintelligible> writing.
+
+<laugh>
+
+<other_noise>
+
+[PERSON2] Well, well.
+
+Are you still there?
+
+[PERSON6] Yeah.
+
+[PERSON9] Yeah, we are still there.
+
+Here.
+
+[PERSON2] OK.
+
+<laugh>
+
+[PERSON6] There.
+
+<laugh>
+
+<other_noise>
+
+<laugh>
+
+[PERSON2] Halo, halo <unintelligible>.
+
+[PERSON9] So I can, I can ask someone from [LOCATION3] and I can ask someone <unintelligible> [PERSON22].
+
+[PERSON6] Hm.
+
+[PERSON9] So because someone from [LOCATION3] see like more inter-, like more <unintelligible> area of interpretability and [PERSON22] is only <unintelligible> NLP and other -
+
+[PERSON19] <unintelligible> some <unintelligible>.
+
+<unintelligible> reviewing this for [PROJECT4] and there is also <unintelligible>.
+
+<laugh>
+
+[PERSON9] Yeah, I, I <unintelligible> the review.
+
+[PERSON19] <unintelligible> parsing <unintelligible> like 90s.
+
+<laugh>
+
+They would <unintelligible> benefit from -
+
+<laugh>
+
+The reading the book.
+
+Like that.
+
+[PERSON9] Like <unintelligible> but, um, yeah, but [PROJECT4] like some <unintelligible> are the <unintelligible>.
+
+[PERSON19] Yeah, yeah, yeah, but <unintelligible>.
+
+It´s like <unintelligible>.
+
+<laugh>
+
+They´re saying that yeah, [ORGANIZATION1] has something for Czech <unintelligible>.
+
+<laugh>
+
+[PERSON9] <unintelligible>.
+
+OK.
+
+[PERSON6] Hm.
+
+[PERSON9] OK, so yeah.
+
+For, for now we can, we can finish?
+
+[PERSON19] Yeah.
+
+[PERSON9] Read, read the book and -
+
+[PERSON6] And write a book.
+
+[PERSON9] Write, write the book.
+
+<laugh>
+
+And yeah.
+
+[PERSON19] <unintelligible>.
+
+[PERSON9] I would like to see many, many comments there so that we know, that we -
+
+Yeah.
+
+OK.
+
+[PERSON2] Alright.
+
+Bye.

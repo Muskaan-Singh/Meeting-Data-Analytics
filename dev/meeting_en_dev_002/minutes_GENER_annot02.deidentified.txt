@@ -1,0 +1,28 @@
+
+Date: 2020/10/13
+Attendees: [PERSON1], [PERSON6], [PERSON8], [PERSON2], [PERSON4]
+Purpose of meeting: Including [ORGANIZATION2] transcripts and minutes.
+
+Summary of meeting:
+
+[PERSON6], [PERSON1], [PERSON8]
+- Discuss including of [ORGANIZATION2] transcripts and minutes.
+- Draws attention to differences from actual data and possibility to have this as a contrast of task.
+- Decision to include one separate track if [ORGANIZATION2] comes for free and if it is only matter of downloading some of the data and polishing it a little, no manual processing of that.
+- There should be done [ORGANIZATION2] minutes corpus preparation, the pairs of transcripts and minutes.
+- Agreed on one shared task assignment with 3 underlying data sets, where the first test set would be own corpus, second test set would be [ORGANIZATION2] meetings and transcripts and the third would be AMI and ICSI.
+
+[PERSON6], [PERSON1], [PERSON8]
+- Recommendation to talk with [PERSON9] in case of diarization.
+- [PERSON8] will download and prepare the corpus, reorganize that into the directory structure according to the dates and names of the sessions and easily complemented with the minutes.
+
+Conclusions
+- Include [ORGANIZATION2] transcripts and minutes and work with that as much automatically as possible.
+- [PERSON8] will work with the data.
+- [PERSON6] will will continue annotate data with annotators.
+
+
+
+
+
+Minutes submitted by:[ANNOTATOR1]

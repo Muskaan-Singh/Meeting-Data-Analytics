@@ -1,0 +1,3306 @@
+
+<transcript>
+
+
+
+(PERSON9) Hi, does it work?
+
+
+
+Am I muted?
+
+
+
+Can you hear me?
+
+
+
+Are you both muted?
+
+
+
+I see someone.
+
+
+
+M.
+
+
+
+Muted and I see [PERSON7].
+
+
+
+So who is this guest M? 
+
+
+
+<laugh>
+
+
+
+Remember you are all muted.
+
+
+
+(PERSON7) So as soon as Zoom waiting to start my system frozes for like 30 seconds.
+
+
+
+(PERSON9) Oh ok. 
+
+
+
+<laugh>
+
+
+
+And and do you know who is this M?
+
+
+
+(PERSON7) No no no, I don't.
+
+
+
+Maybe it's [PERSON13] I think.
+
+
+
+(PERSON9) I would not expect [PERSON13] at this session.
+
+
+
+Because.
+
+
+
+Yeah it is possible but we should not waste her time .
+
+
+
+So [PERSON7] before others join the plan B.
+
+
+
+Does it work, does it were you able to your system is frozen again.
+
+
+
+(PERSON7) No it it doesn't work for me so I tried to create some fake time stamps and try to emit this like kind of instruction message so my it didn't work for me.
+
+
+
+So-
+
+
+
+(PERSON9) So the easiest way is to replay.
+
+
+
+Do you know that [PERSON2] has these scripts to replay a lockfile.
+
+
+
+(PERSON7) Yeah yeah yeah.
+
+
+
+(PERSON9) Are you using that?
+
+
+
+(PERSON7) No I-
+
+
+
+(PERSON9) So this is what I would do.
+
+
+
+I would create the file with time stamps and use [PERSON2]'s replay scripts to to to feed it to AB client and to the presentation workers.
+
+
+
+(PERSON7) Aha.
+
+
+
+So what I'm afraid this time the first so so like we have much depl- language tabs like we have English, we have Czech-
+
+
+
+(PERSON9) Yeah yeah.
+
+
+
+So it should be fed to all of them.
+
+
+
+(PERSON7) In the same language or like?
+
+
+
+(PERSON9) Yes, English or in all.
+
+
+
+In all it should appear like get ready and click on the click instruction 3 2 1 click.
+
+
+
+And that should appear in all the languages.
+
+
+
+So that that way it is the highest chance that people will see these subtitles.
+
+
+
+(PERSON7) Aha, ok ok ok.
+
+
+
+(PERSON9) Yeah so it should it should it should not be that difficult.
+
+
+
+Yeah, so [PERSON4] hi.
+
+
+
+Thanks for joining.
+
+
+
+(PERSON7) Hi, hi.
+
+
+
+(PERSON9) We don't know who this M is.
+
+
+
+(PERSON4) Ehm I have no idea.
+
+
+
+(PERSON9) We'll see.
+
+
+
+And we're still waiting for [PERSON6] and [PERSON10].
+
+
+
+So this this Zoom account is shared with like it's across the whole [ORGANIZATION4] of from our building.
+
+
+
+(PERSON4) Ok.
+
+
+
+(PERSON9) And occasionally it happens that that like people join and that's why the PINs are used.
+
+
+
+There was a PIN right?
+
+
+
+Wasn't there?
+
+
+
+(PERSON7) Yeah.
+
+
+
+(PERSON9) Or wasn't there any?
+
+
+
+(PERSON4) I don't think so.
+
+
+
+(PERSON7) We just click the link I think.
+
+
+
+(PERSON4) Yeah, yeah.
+
+
+
+(PERSON9) Ok, so maybe the link included that that PIN.
+
+
+
+(PERSON4) Yeah I was I was ready to type PIN PIN but I wasn't actually prompted for.
+
+
+
+(PERSON9) Yeah.
+
+
+
+(PERSON7) [PERSON9] I have a question.
+
+
+
+So today at the same time we are also having the [ORGANIZATION6] promoting so what do you want to do with that?
+
+
+
+(PERSON9) Let's hope that they are recording it by themselves.
+
+
+
+I totally forgot.
+
+
+
+And I don't know whether they wanted the subtitling or not.
+
+
+
+(PERSON7) So I just e-mailed you and I think it's better to e-mail [PERSON9] that I will-
+
+
+
+(PERSON9) Yes, please e-mail [PERSON9] and yeah, and we'll see.
+
+
+
+[PERSON6] Hi.
+
+
+
+(PERSON9) Hi.
+
+
+
+(PERSON7) Hi, hi.
+
+
+
+(PERSON4) Hi.
+
+
+
+(PERSON9) So I don't know [PERSON6] if if-
+
+
+
+Yeah [PERSON10] is here.
+
+
+
+Fine, great.
+
+
+
+So we still have this strange person M, I don't know who that is.
+
+
+
+Let's not be bothered.
+
+
+
+[PERSON6] I think that's [PERSON1]
+
+
+
+The the first path of the Zoom US link we are using.
+
+
+
+(PERSON7) Yeah, it's it's.
+
+
+
+[PERSON6] The first we user.
+
+
+
+Well don't worry.
+
+
+
+(PERSON9) Yeah, but does it?
+
+
+
+The first path of of the Zoom path?
+
+
+
+[ORGANIZATION1]?
+
+
+
+No no no [ORGANIZATION1] is the the [ORGANIZATION1].
+
+
+
+[PERSON6] Ok, maybe it's the ehm-
+
+
+
+(PERSON9) Ok, so let's let's get started.
+
+
+
+So and we have [PERSON12] as well, great.
+
+
+
+So I'm I'm getting very anxious about the demo actually.
+
+
+
+Because we had these mini sessions.
+
+
+
+And I knew how that system was like.
+
+
+
+I knew it reliability and the quality of translation.
+
+
+
+And that was everything like.
+
+
+
+I was happy to fight for that the quality is something which is hard to gain and and all that.
+
+
+
+But we are now struggling with the set up.
+
+
+
+That's that's my main worry.
+
+
+
+So we need something very simple.
+
+
+
+So that we will not share a screen, because we cannot like broadcast.
+
+
+
+We need something that will work remotely for the project officer and also for other guests he will invite.
+
+
+
+So each of those has to independently start watching the same thing at the same time.
+
+
+
+And the simultaneous time is the is the problem.
+
+
+
+That-
+
+
+
+[PERSON6] Ok.
+
+
+
+I‚ I [PERSON10] told me the result of yesterday test.
+
+
+
+Okay
+
+
+
+He's working he worked on the plan A.
+
+
+
+I have also a plan C which is the one I'm focusing at the moment.
+
+
+
+My idea the following and let me know if sounds reasonable for you.
+
+
+
+The idea is you usually bypass the Mtray- M3U8 URL putting the frame in the [ORGANIZATION5] server which expose also the SSL certificate.
+
+
+
+So actually on the [ORGANIZATION5] server we are able to expose an HTTPS URL, ok.
+
+
+
+Then upload the video file we would like to demo on the [ORGANIZATION5] server.
+
+
+
+And then on the server run FFM peg command which actually streams the video file.
+
+
+
+(PERSON9) I don't know how to do that.
+
+
+
+I haven't-
+
+
+
+So I'm I'm serving like regular files and I don't know how to how to stream.
+
+
+
+I haven't-
+
+
+
+[PERSON6] Ok, I I will have some idea.
+
+
+
+Let me finish.
+
+
+
+Prepare the FFM peg command which streams the video file and both provides the inputs to an AB client client on the server.
+
+
+
+Which starts the transcription.
+
+
+
+Actually I haven't yet finished to prepare this kind of pipe but I'm already able to swim an MP4 video file.
+
+
+
+(PERSON9) Ok.
+
+
+
+[PERSON6] I I don't know if you have time to now I I can demo -
+
+
+
+(PERSON9) So can you paste the link where we can watch your streaming?
+
+
+
+[PERSON6] Actually I'm publishing on my local host so reachable.
+
+
+
+But it it actually it takes an inputs path.
+
+
+
+A local path.
+
+
+
+If they actually were FFM pegs rights expands and expose the directory.
+
+
+
+It works. 
+
+
+
+<laugh>
+
+
+
+But at the moment I'm not able to publish on a public server because of.
+
+
+
+I'm just trying to fixing the pipe.
+
+
+
+(PERSON9) Yeah.
+
+
+
+[PERSON6] But at this point we can let the video be playable both from a common web browser, VLC, because also VLC take input network streams.
+
+
+
+And also presentation platform because actually presentation platforms.
+
+
+
+The video box takes in input a public M3U8 URL.
+
+
+
+And I suppose that we are able so to stream and simultaneously provide inputs to AB client.
+
+
+
+(PERSON9) Yes so this this last bit is something which we well we have not really done that.
+
+
+
+But it should be just a T command hopefully.
+
+
+
+Normally what we do is that we set the sound input to follow the sound output.
+
+
+
+And run a record on this like loopback sound device.
+
+
+
+And this is how the AB client gets the gets the sound.
+
+
+
+But the T command should also work.
+
+
+
+So this is this is this looks very promising if you're able to do the streaming.
+
+
+
+On public server.
+
+
+
+<laugh>
+
+
+
+And then if you're able to do this then I think.
+
+
+
+Yeah, so so this this is the best solution.
+
+
+
+Because we would be not relying on Youtube, they could not ban us from from anything.
+
+
+
+<laugh>
+
+
+
+And then the machine which would be streaming this.
+
+
+
+We could even as a fallback solution if if like if we are not able to create the public frontend URL.
+
+
+
+Then we could set up an account for you so that there would be a net cut solution, like a horrible one.
+
+
+
+But you could start the streaming and-
+
+
+
+[PERSON6] Anyone with the access to the [ORGANIZATION5] exposed server could run this pipe because you just need the FFM peg installed, video file if you would like-
+
+
+
+(PERSON9) Actually I.
+
+
+
+Yeah I'm really curious about the set up that you do on your localhost.
+
+
+
+Because-
+
+
+
+[PERSON6] Do you have time now to discuss it?
+
+
+
+I can explain.
+
+
+
+(PERSON9) No I think [PERSON7] should should discuss it primarily.
+
+
+
+[PERSON6] Ok.
+
+
+
+(PERSON9) But there is also firewall issues.
+
+
+
+So [PERSON7] should try it yeah.
+
+
+
+We have to see what the what on what what is port 80 really, yes?
+
+
+
+Is it HTP accessed?
+
+
+
+[PERSON6] Yeah.
+
+
+
+(PERSON9) So then.
+
+
+
+I'm not sure if we are allowed to.
+
+
+
+This is something that would need cooperation from our admins.
+
+
+
+Very likely.
+
+
+
+[PERSON6] Yeah.
+
+
+
+(PERSON9) That they would-
+
+
+
+[PERSON6] Because we need to be able to well.
+
+
+
+Who will run the FFM peg streams?
+
+
+
+(PERSON9) Yeah, so-
+
+
+
+[PERSON6] Local to the web server.
+
+
+
+Because you need to stream both video, audio, AB clients.
+
+
+
+So actually it needs to be run the in the web server.
+
+
+
+But those are technical aspects I know it sounds critical.
+
+
+
+But I think the most critical part is to identify the video file and to start performing test of-
+
+
+
+(PERSON9) Yes.
+
+
+
+[PERSON6] And machine translation on cascade because you know.
+
+
+
+We will be able to justify in some way lags, not very fast streaming because of course we are all remote.
+
+
+
+But probably the project officer will focus on the quality of the provided translation.
+
+
+
+(PERSON9) That's right, yeah, and not on technical issues.
+
+
+
+This is like necessary condition but it doesn't help in the assessment.
+
+
+
+Yeah, I agree, yeah.
+
+
+
+[PERSON6] Ehm, so maybe while we, me, [PERSON10] and [PERSON7] we focus on the technical set up.
+
+
+
+Please I ask all the other I see there is also [PERSON4] and [PERSON12].
+
+
+
+Please try to identify the good video file suitable for this kind of demo.
+
+
+
+(PERSON12) Yeah, I put some suggestions for German TED talks in TED-
+
+
+
+[PERSON6] Ok, nice.
+
+
+
+(PERSON9) Yeah, so it's I haven't seen those possible ideas TED talks.
+
+
+
+Yeah, playlist of German TEDx talks.
+
+
+
+This is by you, right?
+
+
+
+(PERSON12) Yes.
+
+
+
+I tested those with our current best set up.
+
+
+
+Which we will deploy for the [ORGANIZATION2] mediator also for the demo.
+
+
+
+The German segmentation is not as good as the English one.
+
+
+
+But it was ok.
+
+
+
+(PERSON9) Yeah.
+
+
+
+(PERSON12) I tested I tested a couple of ones but the one, specifically the link but I link one specifically was I think possible to follow.
+
+
+
+(PERSON9) This one might be good so I can have a look.
+
+
+
+Yes, I agree with you that these Youtube subtitles are excellent.
+
+
+
+Including the translations not just the transcriptions.
+
+
+
+And I've I'm quite sure that they are generated offline.
+
+
+
+So they appear before the text is spoken.
+
+
+
+Actually, they are even they could be even manual.
+
+
+
+There is <?another_language?> [PERSON14]
+
+
+
+(PERSON12) Yes.
+
+
+
+This one has both, this one has both human gen-
+
+
+
+Human transcription and automatic transcription.
+
+
+
+You can you can switch on the video.
+
+
+
+(PERSON9) Yeah.
+
+
+
+This is a TEDx talk?
+
+
+
+It's actually remote.
+
+
+
+Hm interesting.
+
+
+
+Yeah ok.
+
+
+
+So the the channels that we have or the videos that we have recommended was this [ORGANIZATION3].
+
+
+
+And for that the translation model may work better.
+
+
+
+So we're not only we're not only transcribing but we also need to translate.
+
+
+
+And vocabulary would be probably better fit for the auditing domain.
+
+
+
+Because [PERSON4] has created the models for that domain.
+
+
+
+(PERSON12) So 2 thoughts about that video.
+
+
+
+I watched the video, the German one.
+
+
+
+(PERSON9) Yeah.
+
+
+
+(PERSON12) First, it the the project officer maybe considers it too easy.
+
+
+
+Because it's very stage recording the person speaks much more clearly than the TEDx speaker.
+
+
+
+And the other is, it may actually not be that easy because this person is speaking Austrian German.
+
+
+
+(PERSON9) That's right, okay.
+
+
+
+(PERSON12) I haven't run that through our through our system to see if that makes a big difference.
+
+
+
+But I'm not sure that the Austrian German could cause problems for the recognition.
+
+
+
+(PERSON4) And also the the current MT systems on are actually adapted to this domain.
+
+
+
+(PERSON9) Ok.
+
+
+
+Yeah, I thought that-
+
+
+
+(PERSON4) The general purpose
+
+
+
+(PERSON9) Yeah, ok.
+
+
+
+So you know bet then.
+
+
+
+Than me.
+
+
+
+So so I agree with what [PERSON6] suggested that [PERSON4] and [PERSON12] should focus on the selection of the input.
+
+
+
+And test it probably like separately just on using [PERSON12] direct tools.
+
+
+
+While [PERSON7] and [PERSON10] and [PERSON6] will focus on the on the technical aspect.
+
+
+
+Right?
+
+
+
+[PERSON6] Ok, just secondary topic.
+
+
+
+The schedule for the project officer.
+
+
+
+We identified 3 possible days which are Tuesday, Thursday and Friday.
+
+
+
+Maybe can propose just Thursday and Friday.
+
+
+
+<laugh>
+
+
+
+(PERSON9) Yeah.
+
+
+
+Sounds a fair.
+
+
+
+[PERSON6] What do you think?
+
+
+
+<laugh>
+
+
+
+(PERSON9) Yeah sounds a fair.
+
+
+
+Or or we like when we are voting we could downvote Tuesday.
+
+
+
+With the yes no if need be.
+
+
+
+[PERSON6] Ok.
+
+
+
+So I propose all of them or not.
+
+
+
+(PERSON9) I don't know.
+
+
+
+How confident are we that we manage the plans ABC running at these one of them.
+
+
+
+[PERSON6] In my opinion Thursday and Friday because once we-
+
+
+
+(PERSON9) Yeah, let's go for Thursday and Friday.
+
+
+
+[PERSON6] It fix the the set up.
+
+
+
+Then we fix the the quality.
+
+
+
+Then we have to fix the presentation.
+
+
+
+<laugh>
+
+
+
+Which was another another parts.
+
+
+
+(PERSON9) Yeah, yeah.
+
+
+
+[PERSON6] Ok.
+
+
+
+Well.
+
+
+
+(PERSON9) Yeah, so now for the set ups.
+
+
+
+So the plan B, that I have with [PERSON7] is that we will use this standard Youtube included Youtube iFrame within the presentation platform.
+
+
+
+And the Youtube iFrame will not have the auto play on.
+
+
+
+Instead it will only show the the video, the pre-recorded one that we want to subtitle.
+
+
+
+And the subtitles will show instructions.
+
+
+
+The instructions would be like look at the subtitles now, we will do a countdown for you and on the click when you see the word click you need to click the play button on the video.
+
+
+
+And that way we can start the show at the same time on our side where it the recognition will start.
+
+
+
+And every participant will be suppose to click the play button when the instruction says so.
+
+
+
+I know that this is like very fallback-y solution.
+
+
+
+But still it's it's doable.
+
+
+
+If [PERSON7] succeeds in injecting these instructions to the subtitles to all the languages.
+
+
+
+So that people would select all the languages and then they will see the subtitles telling them scroll back to the starting point, if the if the video has already started yet.
+
+
+
+Pause it and then wait for the click instruction so that you would be in sync.
+
+
+
+And if you get out of sync then you can try to re-synchronize yourself whenever you like.
+
+
+
+But we are not going to restart the main broadcasting.
+
+
+
+And we could simply say that this is due to the fact that we want to show real Youtube videos and we would have to clear copy rights to to re-broadcast them.
+
+
+
+And that's like extra burden.
+
+
+
+So this is this is-
+
+
+
+[PERSON6] I can also explain [PERSON7] how to to send let's say a free text to presentation platform through the-
+
+
+
+(PERSON9) Ok.
+
+
+
+So there is a back door.
+
+
+
+There is another thing aside from-
+
+
+
+[PERSON6] But it's not actually a back door, because it's the presentation platform has its own worker.
+
+
+
+And receives like for the worker so that we can actually call directly the worker.
+
+
+
+Instead of transcribe and later so on.
+
+
+
+So I feel it's pretty simple to paste directly text.
+
+
+
+(PERSON9) Ok, that's, yeah.
+
+
+
+And we need to to inject into all the languages.
+
+
+
+[PERSON6] Yep.
+
+
+
+Actually it's a matter of make the script.
+
+
+
+The complex part probably is to let it be synchronized, let's say.
+
+
+
+And and-
+
+
+
+(PERSON9) No, the idea is that there would be first the instructions.
+
+
+
+And then these injection would stop release the worker.
+
+
+
+And immediately the full pipeline will start and this has to be tested so that the delay is like known how long it takes.
+
+
+
+Or or there is no delay ideally.
+
+
+
+That would be even better.
+
+
+
+Maybe you can set it up because you know the presentation worker.
+
+
+
+You know how to set it up so there is no delay.
+
+
+
+So that more workers are connected there, but maybe that's-
+
+
+
+[PERSON6] Ok.
+
+
+
+(PERSON9) Start their playback simultaneously.
+
+
+
+Yeah.
+
+
+
+And the plan A, the re-broad casting on [PERSON10] side.
+
+
+
+[PERSON10], are you?
+
+
+
+(PERSON10) Yes, sorry I was mut- muted.
+
+
+
+Ok.
+
+
+
+I can add a pipeline for an extended audio from a video.
+
+
+
+And if there could be client it's working, I'm now putting it together with the other piece of the pipeline.
+
+
+
+So that the same call to FFM peg can also output the video streaming playlists.
+
+
+
+[PERSON6] Yes, he is talking about the plan C.
+
+
+
+(PERSON9) Yes, he is talking about plan C, exactly.
+
+
+
+So this is plan C.
+
+
+
+The plan A is to re-broadcast with Youtube broadcasting.
+
+
+
+(PERSON10) Ah, yes.
+
+
+
+We don't I'm very very worried about that because I did a bit of research about the copyright infringement dealing with on Youtube.
+
+
+
+And it it appears to be extremely vo- volatile, let's say.
+
+
+
+And ehm I cannot find a way to to be sure essentially.
+
+
+
+There is no there is nothing more than a gentleman agreement.
+
+
+
+We could obtain from the original uploader.
+
+
+
+But then that does not it does not protect us from any 3rd party claim.
+
+
+
+Or automated claim.
+
+
+
+So.
+
+
+
+[PERSON6] Exactly.
+
+
+
+(PERSON10) There is no there is no practical way to be sure about this.
+
+
+
+We could only try it and then get banned essentially.
+
+
+
+(PERSON9) Oh, ok, yeah.
+
+
+
+(PERSON10) So.
+
+
+
+Yeah.
+
+
+
+Plus I have no legal expertise so.
+
+
+
+(PERSON9) Well it's not it's mainly technical so if if there is no technical means which seems reliable then-
+
+
+
+(PERSON10) No there're not.
+
+
+
+There is none.
+
+
+
+(PERSON9) Yeah, then let's forget it.
+
+
+
+Let's forget plan, so.
+
+
+
+It's it's too risky.
+
+
+
+(PERSON10) Essentially but I am I am still waiting on my my personal Youtube account it's not able for streaming yet.
+
+
+
+So I cannot even test this.
+
+
+
+(PERSON9) Yeah, yeah.
+
+
+
+(PERSON10) Because there is a full day await it's not working yet, so.
+
+
+
+(PERSON9) Yeah yeah, ok.
+
+
+
+So let's let's simply forget plan plan A.
+
+
+
+It was risky from the beginning.
+
+
+
+It was, the reason to choose it was mainly because we knew how to present Youtube videos.
+
+
+
+In the in the [PROJECT1] window.
+
+
+
+So there is.
+
+
+
+Yeah.
+
+
+
+And there is no way to do it when we want to replay some videos which were already previously uploaded to to Youtube.
+
+
+
+So what we will do is we will we should demo the system transcribing and translating our speech as the meeting goes.
+
+
+
+And then this demo video.
+
+
+
+And for the our meeting-
+
+
+
+<laugh>
+
+
+
+Sorry?
+
+
+
+[PERSON6] Are you 100% sure to to stream also the the meeting?
+
+
+
+(PERSON9) So well, to show the subtitling of the meeting.
+
+
+
+That's what I meant.
+
+
+
+<laugh>
+
+
+
+[PERSON6] Are you sure?
+
+
+
+(PERSON9) Well, I think it's very good to explain how badly it it like handles non-native speech.
+
+
+
+And none of us, including the project officer, none of us is is a native speaker.
+
+
+
+Well [PERSON4] is and [PERSON12] is for German.
+
+
+
+But others, if we do this if we do the meeting in German, sorry the meeting in English.
+
+
+
+Then the most of us are non-native.
+
+
+
+And I think it's good to show how it handles that and how people can improve their pronunciation as they go.
+
+
+
+To get themselves better recognized.
+
+
+
+I think it it gives us flexibility to show what it what it does.
+
+
+
+(PERSON10) Yes, but-
+
+
+
+(PERSON9) But if you if you disagree, then we can use the tested recording.
+
+
+
+Only.
+
+
+
+I I would-
+
+
+
+[PERSON6] I I did-
+
+
+
+Well it sounds just risky in my opinion.
+
+
+
+First of all, it requires a completely different set up, respects to the one we are preparing for the file.
+
+
+
+(PERSON9) Not really.
+
+
+
+This is just this is just the that [PERSON7] needs to start the machine to follow the sound output whatever is being played.
+
+
+
+In in his machine through the speakers.
+
+
+
+Is also immediately recognized and sent to the like in the in the pipeline.
+
+
+
+[PERSON6] Ok, so that you are already able to catch the audio from the let's say-
+
+
+
+(PERSON9) We have done that we have done that in the past.
+
+
+
+Few times.
+
+
+
+[PERSON6] Ok.
+
+
+
+(PERSON10) Just just just to to be clear.
+
+
+
+These this thing [PERSON9] is talking about does not pass through the service architecture.
+
+
+
+(PERSON9) It does.
+
+
+
+(PERSON10) It does?
+
+
+
+(PERSON9) It passes through the service architecture, but it does not pass through Youtube or whatever.
+
+
+
+It's not related to the videos.
+
+
+
+(PERSON10) And I mean is it the same thing we used yesterday?
+
+
+
+(PERSON9) Yes.
+
+
+
+(PERSON10) Ok.
+
+
+
+(PERSON9) So yesterday [PERSON7] was following [PERSON7] was running the the pipeline.
+
+
+
+That was feeding the service architecture with the sound.
+
+
+
+And the sound was coming from [PERSON7]'s output.
+
+
+
+So when [PERSON7] was talking it was not part of the subtitles.
+
+
+
+And when we were talking it was part of the subtitles.
+
+
+
+Is that clear?
+
+
+
+[PERSON6] Ok, let's take it as we as possibility to to be tested.
+
+
+
+(PERSON9) Yeah yeah.
+
+
+
+[PERSON6] Ok, I will definitely propose project officer only Thursday and Friday.
+
+
+
+<laugh>
+
+
+
+(PERSON9) Ok.
+
+
+
+[PERSON6] That's everything pretty pretty it.
+
+
+
+(PERSON9) Yeah.
+
+
+
+[PERSON6] Ok.
+
+
+
+Well.
+
+
+
+(PERSON9) Yeah.
+
+
+
+So I would like to disconnect now.
+
+
+
+But so so plan A is crossed, like we don't want to go for it.
+
+
+
+Plan B is something that [PERSON6] will very quickly help [PERSON7] with set up.
+
+
+
+And it should work.
+
+
+
+It should be fairly easy to set up.
+
+
+
+Plan C is what [PERSON6] and [PERSON10] will focus on.
+
+
+
+And it's the best solution.
+
+
+
+That we would really prefer.
+
+
+
+And please contact [PERSON11].
+
+
+
+[PERSON11] smashed right away he has some experience with the servers that that we have.
+
+
+
+So that he would know what to ask the network administrators for.
+
+
+
+(PERSON7) Ok.
+
+
+
+(PERSON9) And [PERSON4] and [PERSON12] should select the video and test the the performance.
+
+
+
+And this needs some deadlines.
+
+
+
+So that we know when to invite [PERSON13] for the next test.
+
+
+
+She tendentially agree with Thursday, tomorrow tomorrow afternoon.
+
+
+
+And Friday is a national holiday in the Czech republic, I don't know if if it's the same for you.
+
+
+
+[PERSON6] No.
+
+
+
+(PERSON9) You don't have a national holiday on Friday, right?
+
+
+
+[PERSON6] No.
+
+
+
+Ok, yeah.
+
+
+
+So.
+
+
+
+[PERSON6] Did we even have national holiday, [PERSON10]?
+
+
+
+We we had one in the first of May.
+
+
+
+(PERSON10) Yeah, the first of May but no-
+
+
+
+(PERSON9) Yeah, we have also the 8 of, the 8 of May.
+
+
+
+(PERSON10) The 8 of May is nothing.
+
+
+
+(PERSON9) Yeah, yeah.
+
+
+
+And one thing that I also wanted to talk [PERSON7] is that we really need to test restarts.
+
+
+
+Everything can fail.
+
+
+
+So I told [PERSON7] to be nasty once the test runs smoothly.
+
+
+
+He should just take out the internet cable and see what happens.
+
+
+
+And you should do similar things.
+
+
+
+So you should you should try killing your workers and and slowing down the machines.
+
+
+
+And we need to know how to restart it quickly if this happens.
+
+
+
+So there is like do not test only for the success but test also for the recovery from a failure.
+
+
+
+[PERSON6] Ehm well.
+
+
+
+I think that probably the project officer also knows that both we online text flow and the presentation platform are developed for face to face conferences.
+
+
+
+(PERSON9) Yeah, yeah.
+
+
+
+[PERSON6] So that probably it will not be a problem to see some kind of-
+
+
+
+(PERSON9) Yeah, exactly.
+
+
+
+[PERSON6] But be prepared to recover fast is always good idea.
+
+
+
+<laugh>
+
+
+
+Since well you know, it's important demo.
+
+
+
+(PERSON9) Yeah, ok, so let me disconnect now and you keep talking and and oh this is this only end meeting.
+
+
+
+I don't want to end the meeting.
+
+
+
+[PERSON6] You can end it also only for-
+
+
+
+(PERSON9) For myself?
+
+
+
+[PERSON6] Yep.
+
+
+
+(PERSON9) I'll I'm I'm clicking the end meeting button now.
+
+
+
+But check it.
+
+
+
+Ok yeah I'll just leave the meeting.
+
+
+
+Yes.
+
+
+
+It allows me to leave it only.
+
+
+
+And it should be running for for the rest of you.
+
+
+
+[PERSON6] Bye.
+
+
+
+(PERSON9) Bye bye.
+
+
+
+(PERSON7) Bye.
+
+
+
+[PERSON6] Ok it worked.
+
+
+
+Well [PERSON4] and [PERSON12], we are going to work on the technical set up.
+
+
+
+I don't know if it's interesting for you, or otherwise, sorry.
+
+
+
+I can-
+
+
+
+(PERSON12) It would be interesting for me is if-
+
+
+
+[PERSON6] Ok.
+
+
+
+(PERSON12) Well if I have video that I think would be good but I can test it on our set up.
+
+
+
+We have a mediator too, we can I can test it on that presentation platform, but.
+
+
+
+If you have some way that I can just pipe audio into the [ORGANIZATION2] mediator.
+
+
+
+And and see the output of that system, that would be good.
+
+
+
+I mean of course it can used AB client but only for 1 language.
+
+
+
+[PERSON6] In the cruise control Gitrepo are stored the [ORGANIZATION5] scripts [ORGANIZATION5] scripts used to make multiple streamings.
+
+
+
+For example of of the 1 audio file into multiple translations.
+
+
+
+For example, we did it for example for the French watching session.
+
+
+
+Let me check it.
+
+
+
+Oh my gosh.
+
+
+
+[PERSON7] do you have the the scripts to run multiple translations simultaneously for [PERSON12]?
+
+
+
+(PERSON7) Yeah, I have one right now.
+
+
+
+So it uses German ASR and English English ASR.
+
+
+
+And it does the translation into I think 10 or 11 languages.
+
+
+
+So [PERSON12] do you want me to share the script?
+
+
+
+(PERSON12) Sure.
+
+
+
+(PERSON7) Ok.
+
+
+
+And do you want for German ASR or with English ASR.
+
+
+
+(PERSON12) A German.
+
+
+
+(PERSON7) German ASR, ok.
+
+
+
+[PERSON6] Do we have a chat here?
+
+
+
+Yes we have it.
+
+
+
+While [PERSON7] prepares the-
+
+
+
+(PERSON7) So I have sent [PERSON12] an e-mail with that transmit, but it gonna affect the transcript.
+
+
+
+[PERSON6] For all the others I copy the cruise control Github repo.
+
+
+
+In the set ups directory are stored all the [ORGANIZATION5]'s scripts used in the various testing we did during the project years.
+
+
+
+For example the French watching the session does exactly this kind of scription translation.
+
+
+
+(PERSON7) But I I think that a French one might not work because it uses some worker which do not exist more.
+
+
+
+[PERSON6] Yeah.
+
+
+
+(PERSON7) Which exist no more or which are have been obsoleted.
+
+
+
+And then which I sent to you guys it should be working at the moment.
+
+
+
+So you can try.
+
+
+
+[PERSON6] Ok.
+
+
+
+And you should just like do dash the name of the file and yeah.
+
+
+
+[PERSON6] Ok.
+
+
+
+Then I'm going to search for something for you [PERSON7] in order to pipe text to the presentation platform.
+
+
+
+Meanwhile maybe it could be interesting to.
+
+
+
+Is it possible for us to look in on the HTTPS web server, the [ORGANIZATION5] the [ORGANIZATION5]'s one?
+
+
+
+Might be interesting to test everything directly in the final machine.
+
+
+
+What do you think?
+
+
+
+(PERSON7) Yeah I think so, but I will be using basically 2 machines during the demo.
+
+
+
+1 machine to run the set up and the other machine I think to inter- to talk with VS.
+
+
+
+It will be both like for some laptops not the-
+
+
+
+[PERSON6] Ok.
+
+
+
+For the plan B it works fine of course.
+
+
+
+For the plan C and as as each access to the expose the server is required.
+
+
+
+Because did you get the plan C idea?
+
+
+
+(PERSON7) C, just a moment.
+
+
+
+[PERSON6] No I can re-explain it, don't worry.
+
+
+
+(PERSON7) Ok, ok.
+
+
+
+[PERSON6] The idea is to log in on the [ORGANIZATION5]'s web server.
+
+
+
+Upload on it the video file.
+
+
+
+Have the FFM peg tool installed.
+
+
+
+Upload also AB client with its libraries.
+
+
+
+I suppose it's it will be server.
+
+
+
+Then run FFM peg in order to create the M3U8 playlist which is a standard to for for web streaming videos.
+
+
+
+And also provide on on standard output the samples to be pasted in input to AB client.
+
+
+
+So actually we just 1 command.
+
+
+
+We will be able to both stream the video on a public URL and provide input to AB client.
+
+
+
+But in order to practice we should be able to write the video playlist file which is the M3U8 directly in the public directory.
+
+
+
+(PERSON10) So yea the the aplica- this FFM peg pipeline needs write assess to the publicly exposed directory.
+
+
+
+It is not strictly required that the machine is the same if somehow the the discs are available on the network on the inside.
+
+
+
+But you know.
+
+
+
+[PERSON6] Ok, we have to ask to [PERSON11] if I correctly understood in order to-
+
+
+
+(PERSON7) Yeah yeah yeah.
+
+
+
+[PERSON6] Ok.
+
+
+
+So I I need couple of minutes to recap our stream text to the presentation platform sorry you guys.
+
+
+
+Meanwhile [PERSON10] is testing this idea of plan C, thank you [PERSON10].
+
+
+
+Ok.
+
+
+
+Ok.
+
+
+
+Ok.
+
+
+
+Aah, ok, this, my internet connection is not that stable unfortunately.
+
+
+
+(PERSON7) So could you demonstrate how the plan C which you're doing on your localhost right now?
+
+
+
+[PERSON6] Sorry?
+
+
+
+(PERSON7) Could you demonstrate the plan C which you're currently having-
+
+
+
+[PERSON6] Ok, I can explain you one half the part which involves the ehm video streaming.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] And the second part is the one who's working on [PERSON10] in this moment.
+
+
+
+But I can share with you my screen maybe.
+
+
+
+Maybe.
+
+
+
+Stop video.
+
+
+
+Share screen, ok.
+
+
+
+Let me understand which one is the screen i have to share.
+
+
+
+Ok this one.
+
+
+
+This one.
+
+
+
+Which is-
+
+
+
+Ok, now you should see my shell.
+
+
+
+(PERSON7) Yeah, yeah.
+
+
+
+[PERSON6] Ok.
+
+
+
+It's just sharing this window so that if I show this part do you see my windows explorer or still the shell?
+
+
+
+(PERSON7) We can see your shell.
+
+
+
+[PERSON6] Just the shell.
+
+
+
+Ok ok ok.
+
+
+
+Ok.
+
+
+
+Ok now if I change window here you should see.
+
+
+
+Here the shell, and here the window.
+
+
+
+Is it correct?
+
+
+
+(PERSON12) We see only the shell.
+
+
+
+(PERSON7) Only the shell.
+
+
+
+[PERSON6] Still only the shell.
+
+
+
+(PERSON10) I I see the window now but there is a huge delay.
+
+
+
+[PERSON6] Ok.
+
+
+
+Yes yes unfortunately I told my hive do not have really performing the connection, sorry guys.
+
+
+
+And I'm also streaming the this.
+
+
+
+Maybe I can stop streaming my video for example.
+
+
+
+Stop video, ok.
+
+
+
+And hopefully this will work a little bit faster.
+
+
+
+Ok the idea is the following.
+
+
+
+In the windows folder, this one, the example acati docs streamer.
+
+
+
+This is a local apache server installed on my laptop.
+
+
+
+And the streamer is the exposed directory.
+
+
+
+So th- so that if I publish a file in this directory this is switchable via web browser.
+
+
+
+We have the FFM peg command.
+
+
+
+We are going to fix it in order to performance likely better in terms of performances <unintelligible>.
+
+
+
+Well, seek during the day.
+
+
+
+These takes an input the file Boris zero one zero one MP4 which is the video file I would like to stream.
+
+
+
+A lot of parameters.
+
+
+
+(PERSON7) Yeah yeah.
+
+
+
+[PERSON6] Annually it writes the output in the acati- acati docs stream directory.
+
+
+
+Ok.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] Ok when I run it, it starts preparing smaller TS files which are the segments of the playlist.
+
+
+
+Act-
+
+
+
+(PERSON7) It means it slowly increasing in size.
+
+
+
+[PERSON6] Yep.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] In fact if we go back to the ehm expose directory we will see that DTS files start appearing and being visited.
+
+
+
+(PERSON7) Aha ok so it's like kind of frame window which is being updated every second or every few seconds.
+
+
+
+[PERSON6] Yeah.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] Exactly.
+
+
+
+Our real is more fragment of video of 3 seconds.
+
+
+
+(PERSON7) Aha, ok ok ok.
+
+
+
+[PERSON6] If I connect to the exposure directory.
+
+
+
+Which is ah ok.
+
+
+
+This is, since I'm running apache on my laptop, i'm able to reach the expose directory through the web browser.
+
+
+
+And.
+
+
+
+(PERSON7) Yeah, ok.
+
+
+
+[PERSON6] Ok?
+
+
+
+I can refer to the index M3U8 file which is the the index of the playlist.
+
+
+
+(PERSON7) Ok ok, so can you play this video?
+
+
+
+[PERSON6] And this is the the video streaming.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] This kind of URL is accessible through the browser.
+
+
+
+(PERSON7) Aha, ok ok I get it.
+
+
+
+[PERSON6] I can put it also in VLC, for example in VLC you can open the network stream.
+
+
+
+(PERSON7) Ok ok ok.
+
+
+
+[PERSON6] Is exactly what it expects in input the presentation platform.
+
+
+
+Actually on my laptop I have a self signed SSL certificate.
+
+
+
+But [ORGANIZATION5] and having the self signed certificates requires that each one who would like to access to the to the signed content needs to accept this certificate.
+
+
+
+Instead on the [ORGANIZATION5] web server there's a regular certificate installed.
+
+
+
+So that it will be much more seeable for users to access to the HTS source.
+
+
+
+Because they do not require to accept or install do anything, it will work.
+
+
+
+Smoothly.
+
+
+
+(PERSON7) So if I'm correct this this video looks like till kind of broken.
+
+
+
+[PERSON6] No I stop it.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] I I just stopped it.
+
+
+
+Ok.
+
+
+
+It pretty works we nee- we just need to tune the the pipe.
+
+
+
+Ok.
+
+
+
+I'm going to search for the for the text input for presentation platform for you.
+
+
+
+Ok?
+
+
+
+(PERSON7) Ok ok.
+
+
+
+So and now like our task is to if we go for plan C our task will be to anyhow transmit this video to to guest, right?
+
+
+
+[PERSON6] Well it depends.
+
+
+
+It depends.
+
+
+
+If you have seen-
+
+
+
+(PERSON7) Like it should be publically available available to the host persons of the meeting.
+
+
+
+[PERSON6] Yep.
+
+
+
+We will have many option if you remember.
+
+
+
+We agreed that actually the.
+
+
+
+The project officer will see the demo through the screen so we'll be able to present both online text flow and the subtitles of the presentation-
+
+
+
+(PERSON7) For this platform.
+
+
+
+[PERSON6] The platform.
+
+
+
+In splitting the screen.
+
+
+
+(PERSON7) Yeah, yeah it's splitting the window, yeah.
+
+
+
+[PERSON6] Which is the the solution used during the Monday seminaries.
+
+
+
+So that you should be pretty confident to organize the screen.
+
+
+
+Let the presentation be available.
+
+
+
+It it looks also good because we will see both kind of the presentation nice.
+
+
+
+(PERSON7) And how how will he see the video?
+
+
+
+[PERSON6] Yeah many option to see the video.
+
+
+
+For example we can organize still in the share screen put also a VLC for example which plays audio video.
+
+
+
+Or we can put the video in the presentation platform which actually has the the box.
+
+
+
+(PERSON7) Yeah.
+
+
+
+The video pin.
+
+
+
+[PERSON6] Or we can ask to the participants to connect to the public URL.
+
+
+
+We will see which is the most performing solution.
+
+
+
+Actually in putting everything on the publics server.
+
+
+
+Will also grant us to avoid at least one part of the connection problem.
+
+
+
+Because you know if you play everything on your laptop.
+
+
+
+You will have the problem that you are on the conference call, streaming the audio, streaming the video. 
+
+
+
+And this will probably kill your connection.
+
+
+
+(PERSON7) Yeah yeah.
+
+
+
+[PERSON6] I think the the demo running actually remotely will will let us at least let the demo run.
+
+ 
+
+Even if internet connection will at some point fail.
+
+
+
+Or not be back that good.
+
+
+
+But in any case we can not fix users internet connection problems, we-
+
+
+
+(PERSON7) Yeah yeah yeah.
+
+
+
+[PERSON6] If I, because, for example, if I'm joining the the conference call.
+
+
+
+I'm downloading video and audio of all the participants.
+
+
+
+But if you I would like also to stream my web browser the video source for example.
+
+
+
+I'll in any case have a kind of delay.
+
+
+
+Well.
+
+
+
+Actually both presentation platform and online text flows are meant to work in locally and in face to face conferences.
+
+
+
+Are not meant for work for live streaming.
+
+
+
+<laugh>
+
+
+
+But well I think it will be interesting to check it.
+
+
+
+Ok.
+
+
+
+I go back to the text problem.
+
+
+
+Ok.
+
+
+
+We should have still 35 minutes then I think we have to leave for lunch at least.
+
+
+
+And in the afternoon I will not be available because I'm in another meeting.
+
+
+
+But the idea could be to check now together all the possible problems.
+
+
+
+And things that we need to do together.
+
+
+
+And maybe schedule another test session for tomorrow.
+
+
+
+Try having fix during the afternoon or the set up and technical aspects.
+
+
+
+In order to proceed maybe tomorrow with transcription and translation and checking.
+
+
+
+That everything works and start making something more interesting also for [PERSON12] and [PERSON4].
+
+
+
+<laugh>
+
+
+
+(PERSON7) Yeah yeah.
+
+
+
+[PERSON6] Sorry guys.
+
+
+
+<laugh>
+
+
+
+(PERSON7) As for as I understand plan B is the most easiest and I mean like.
+
+
+
+Plan C seemed like it's like overloading the system too much.
+
+
+
+If your if your like running the whole SLT system.
+
+
+
+And if you're also streaming it's like using up your internet connection as well.
+
+
+
+[PERSON6] In fact in my opinion putting everything on a different machine letting the demo run remotely.
+
+
+
+We will help us a lot.
+
+
+
+But please please please please [PERSON7] touch with [PERSON11]-
+
+
+
+(PERSON7) Ok ok.
+
+
+
+[PERSON6] Because he <unintelligible> not a plan plan C in any case we need to be able to access to the published to the public server.
+
+
+
+(PERSON7) Ok ok ok ok.
+
+
+
+Ok.
+
+
+
+[PERSON6] Ok.
+
+
+
+[PERSON10].
+
+
+
+Maybe do you have the the client C client.
+
+
+
+Commands this one.
+
+
+
+(PERSON10) The audio client?
+
+
+
+[PERSON6] Maybe well you not the tixati client the one who sends text I do not remember how it's called.
+
+
+
+We have one Linux client in the [ORGANIZATION2] platform.
+
+
+
+(PERSON7) So.
+
+
+
+[PERSON6] Switching to Italian just one second.
+
+
+
+<?another_language?>
+
+
+
+Ok sorry guys.
+
+
+
+I need to make search.
+
+
+
+(PERSON7) Ok so i'll talk to [PERSON12].
+
+
+
+[PERSON12] has it worked for you the script which I sent you?
+
+
+
+(PERSON12) I haven't tested it yet.
+
+
+
+I will see about that later.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] Ok.
+
+
+
+(PERSON7) Let's see if I can contact [PERSON5] to join the meeting then.
+
+
+
+[PERSON6] I'm on the wrong machine that's why I'm not so finding.
+
+
+
+I was looking for, ok.
+
+
+
+Here we have.
+
+
+
+This one, let's text it.
+
+
+
+(PERSON7) So I I have sent an e-mail to [PERSON5] if he responds then we can add him for few minutes in this meeting.
+
+
+
+And we will be to fix audax instantaneously.
+
+
+
+[PERSON6] Sorry?
+
+
+
+(PERSON7) So I I'm saying that I just shot an e-mail to [PERSON5] and if he can join us for the meeting then we will be able to fix audax quickly.
+
+
+
+[PERSON6] Yea. unfortunately I have still just I have just half an hour and then I have to leave unfortunately.
+
+
+
+And-
+
+
+
+(PERSON7) Yeah, definitely.
+
+
+
+[PERSON6] I will not be available.
+
+
+
+Maybe we can directly schedule also a meeting for tomorrow.
+
+
+
+Ok?
+
+
+
+I should be available at 11 as usually.
+
+
+
+Ah ok.
+
+
+
+I should be available starting from half past 10.
+
+
+
+(PERSON7) Ok ok.
+
+
+
+[PERSON6] Ehhm [PERSON4], [PERSON12] is it fine for you?
+
+
+
+(PERSON4) Yeah, that works for me.
+
+
+
+[PERSON6] Ok nice.
+
+
+
+(PERSON12) So- sorry what was that?
+
+
+
+[PERSON6] Tomorrow the next test session at half past 10.
+
+
+
+(PERSON12) Do you need me for that?
+
+
+
+[PERSON6] Well if you would like to join us.
+
+
+
+(PERSON12) Ehm I think as long as you have a set up that i can use to test the videos and ok, I'm actually-
+
+
+
+[PERSON6] Ok.
+
+
+
+If you need us well you will you will know where you will find us tomorrow, ok?
+
+
+
+(PERSON12) Thank you.
+
+
+
+[PERSON6] Ok, I will send the e-mail with this kind of meeting scheduled.
+
+
+
+Today.
+
+
+
+Zoom worked fine today, what do you think we can keep working on Zoom?
+
+
+
+(PERSON7) Yeah, it seems fine too.
+
+
+
+[PERSON6] So that at least I should be able to prepare the the call link for the call for for all the participants so that at least we spend this kind of task.
+
+
+
+Just pretty-
+
+
+
+(PERSON7) I think [PERSON3] [PERSON3] is responsible responsible for so, we actually need to book Zoom meeting slot.
+
+
+
+And I think [PERSON3] is responsible for that.
+
+
+
+[PERSON6] Ok.
+
+
+
+And she's happy or.
+
+
+
+<laugh>
+
+
+
+Responsibility.
+
+
+
+(PERSON7) She should be happy.
+
+
+
+[PERSON6] Ok.
+
+
+
+Then i just send the communication.
+
+
+
+Ok.
+
+
+
+(PERSON7) And you will for plan B it is so so you will show me how to insert test text into the [ORGANIZATION2] presenter [ORGANIZATION2] presentering.
+
+
+
+[PERSON6] Yes.
+
+
+
+i just sent the e-mail and I keep testing my idea and when the idea is more than idea and actually it works, I with you this command.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] Is it fine for you to have, [PERSON10].
+
+
+
+Is it fine for you to have the next test session tomorrow at half past 10?
+
+
+
+(PERSON10) Yes so.
+
+
+
+Yes.
+
+
+
+[PERSON6] Perfect.
+
+
+
+(PERSON10) No each other.
+
+
+
+<?another_language?>
+
+
+
+[PERSON6] Do we have CTM?
+
+
+
+<?another_language?>
+
+
+
+(PERSON7) And the source language for the meeting will be English, right?
+
+
+
+Or some other language? 
+
+
+
+[PERSON6] For the meeting yes.
+
+
+
+For the video file it would be German.
+
+
+
+Probably German at least.
+
+
+
+So [PERSON10].
+
+
+
+<?another_language?>
+
+
+
+(PERSON7) So all those list of videos in the section the finder demo input in the Google document.
+
+
+
+So I see that lot of links all those will be used during the demo session, right?
+
+
+
+[PERSON6] As output.
+
+
+
+(PERSON7) Yeah yeah yeah, ok.
+
+
+
+<?another_language?>
+
+
+
+(PERSON7) Ok, then I think if we have no more to discuss anything.
+
+
+
+I'd like to leave then.
+
+
+
+[PERSON6] Ok, I hope I will send you as soon as possible the command. 
+
+
+
+In order to pipe the the text the presentation platform.
+
+
+
+Actually is really straight forward but I drink something wrong in my vocation that haven't yet figured out what exactly.
+
+
+
+Where is the problem.
+
+
+
+I hope that in the first afternoon I will have an answer for you.
+
+
+
+(PERSON7) Ok.
+
+
+
+[PERSON6] Because it's really really something stupid that I'm not getting exactly what it is.
+
+
+
+Ok.
+
+
+
+(PERSON7) Ok ok ok.
+
+
+
+[PERSON6] Guys, see you tomorrow ok?
+
+
+
+(PERSON7) Ok.
+
+
+
+So see you, bye everyone.
+
+
+
+[PERSON6] Bye and thank you.
+
+
+
+(PERSON7) Thank you bye.
+
+
+
+[PERSON6] Ok.
+
+
+
+So [PERSON10].
+
+
+
+<?another_language?>
+
+
+
+<transcript>
+
+
+
+

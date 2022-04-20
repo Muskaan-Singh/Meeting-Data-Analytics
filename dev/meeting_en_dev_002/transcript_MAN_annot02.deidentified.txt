@@ -1,0 +1,2199 @@
+(PERSON8) So we are expecting [PERSON1] today?
+
+(PERSON6) Yes, he has just written an email asked for the address now are we and I have answered him.
+
+(PERSON8) Ehm, okay.
+
+(PERSON6) And we need to go just now.
+
+And so I'm probably he he is join in in half minute.
+
+(PERSON8) Ehm.
+
+(PERSON4) Did you reply [PERSON6]?
+
+(PERSON6) Reply to what?
+
+(PERSON4) To [PERSON1]'s mail.
+
+(PERSON6) Yes, I have just just answered him.
+
+(PERSON4) Okay.
+
+(PERSON6) Ehm.
+
+[PERSON4], I have heard that you are getting your visa soon, yes?
+
+(PERSON4) Eh, yes, so this this Friday I have an appointment for the visa.
+
+And -.
+
+(PERSON6) What does it mean?
+
+(PERSON4) So, I'm glad is -.
+
+Ehm, that there is an appointment on visa embassy, right.
+
+(PERSON6) Ehm.
+
+(PERSON4) Getting the visa.
+
+So I'm gathering all the documents right now.
+
+It's australian horrible.
+
+Because of covid the officers are like semi open and -.
+
+It's it's hard to me.
+
+(PERSON6) Yeah, yeah, understand it, ehm.
+
+(PERSON4) I think [PERSON1] is joined.
+
+(PERSON6) Yes, I see [PERSON1] here.
+
+Hi.
+
+(PERSON1) Yeah, I just have to leave the office so that I'm not disturbing.
+
+And when I'm out of office I have to wear the face masks.
+
+So, what I have the microphone that the face mask so it worked.
+
+<laugh>
+
+(PERSON6) Maybe, maybe [PERSON2] is alone in his office.
+
+You could join him, no?
+
+(PERSON1) Yeah, or whatever it's okay, it works.
+
+So mm-hmm.
+
+So what are the topics uh, today, because [PERSON2] -.
+
+(PERSON6) No, maybe please, please open the agenda.
+
+It's, should I send you a link, [PERSON1]?
+
+(PERSON1) I'll try.
+
+(PERSON6) I will send you.
+
+I will send you a link
+
+Here in in this <unintelligible>. 
+
+(PERSON1) Yeah, yeah.
+
+It works, great.
+
+Thank you.
+
+And yeah, except that it opened the small stupid web browser.
+
+Hm, yeah, okay, great.
+
+Yeah, so, you have [ORGANIZATION2], great, yeah.
+
+So have you had a chance to look at the [ORGANIZATION2] sessions yourself?
+
+(PERSON6) Yes, a little bit.
+
+(PERSON1) Because we tried one.
+
+We also need for other purposes to test the subtitling.
+
+And we found most of the talk talks extremely boring.
+
+(PERSON6) Ehm.
+
+(PERSON1) So it's all <unintelligible> situations where some debate, which is not like preread, prewritten documents, uh, is uh, is held.
+
+So each of the speakers will only like have those sizable blob of information, often, these blobs of information, refer to many details like reports, numbers in those reports as like a providing evidence for the claim, and then the claim comes.
+
+And that's probably it.
+
+So uh, I find it, uh, like I agree that it s a good data, because it is free available.
+
+But at the same time I find the data very different from what we have.
+
+In other settings.
+
+So um, it's it's okay to have that, as a contrast if data sets in the shared task.
+
+But it's like we, not so interesting data set.
+
+I think that more importantly, we should definitely have the uh, have AMI and ICSI data in there.
+
+(PERSON6) Well, the problem is AMI is also that it is very different from the point of view off summaries.
+
+Because (thought) real meetings in our understanding of meetings, but they have one paragraph abstracts of coherent texts.
+
+So, this is also different.
+
+So the meeting -.
+
+(PERSON1) So the AMI and ICSI right?
+
+(PERSON6) Yes.
+
+(PERSON1) Yeah, okay.
+
+So that's that's that's like halfway the problem.
+
+If at least the meeting runs as we expected it, to round, then we can do our own minuting.
+
+Uh, that would be different from the AMI minuting.
+
+In minutes would be different.
+
+But still, it would be more similar to what we are normally collecting.
+
+So it would be like a contrast, if summary a non-standard, an alternative summary of the um, for the AMI meeting.
+
+(PERSON6) So you, you prefer not using [ORGANIZATION2] talk.
+
+(PERSON1) I'm not sure, it's difficult.
+
+So I did -.
+
+So uh, what what I really would find difficult would be to use [ORGANIZATION2] and invest our money for creating summaries from [ORGANIZATION2].
+
+(PERSON6) Okay.
+
+(PERSON1) Because uh, that's that's something which I can not really imagine.
+
+I think the summaries would that be good.
+
+(PERSON6) This is yeah, yeah, yes, this was actually the question.
+
+We looked last time on Friday or when I don't know, on Thursday.
+
+We looked at [ORGANIZATION2], together, with [PERSON2] and [PERSON8].
+
+And [PERSON2] and [PERSON8] liked the transcripts that to this word that name.
+
+And then we, then I found the minutes to that and like the minutes.
+
+So the the minutes were really boring.
+
+So there were just names.
+
+And I don't know [PERSON2], [PERSON2] and [PERSON8] and [PERSON4] bla bla.
+
+And some other people reported point, saying kind kind of uh, kind of an interesting.
+
+They were a structured in way we kind of expected a little bit.
+
+Some kind of bullet points which reffered to some parts of the transcript.
+
+So I looked at of some videos.
+
+And I also had the same impression as you did know.
+
+As you said now, and and even more of their to their presentation.
+
+We are in different languages that for also kind of complication, this is then normal speech and normal dialogues, but they are translated so -.
+
+(PERSON1) They have, they are interpreted life.
+
+(PERSON6) Yes.
+
+(PERSON1) And it's not the the the language itself is not a problem.
+
+The transcripts are very good, I'm sure.
+
+But the summaries.
+
+The official ones are already boring and creating our own.
+
+Uh, uh.
+
+I I would found that very useless.
+
+(PERSON6) Useless.
+
+So the question is how much data we need for the share task.
+
+So this was also the [PERSON8] wanted to prepare for today.
+
+Because we have kind of a little bit more -.
+
+So it's something around 100 hours.
+
+Some of them ought.
+
+Some of them are twice.
+
+So it it it also depends <unintelligible> on more meetings.
+
+And 55 hours for check almost all of them double.
+
+(PERSON1) Yeah, these are, these are dub-, but these are upper bounds.
+
+So that we need to be very careful about the contents, we really -.
+
+(PERSON6) Yes, yes, I know that these are upper bounds, yes.
+
+(PERSON1) And this can we had to go to a half.
+
+But even if it is half.
+
+If we have like 50 hours in total, um, uh, that will be great.
+
+So I think that's for a sensible test set.
+
+So we have to admit to the participants that this data set is small for the full training.
+
+It is acceptable for some form of fine tuning, or uh, the like the development set.
+
+But I can easily imagine that all the whole data so that we will have a 50 percent will serve as the test set and 30 percent will serve as the development set and only 20 percent will be for the file unique kind of.
+
+So we actually should give the the week will retain half of the data of the test set, and will give away half of the data for whatever purpose of the participants would like to use it.
+
+And they will probably split it in some cross-validation, uh, and do some little bit of file tuning and evaluation on this heldout data set, and then we will evaluate on on this half.
+
+So for the division into train and and uh, test set, testing can be very non standard.
+
+It can be almost the majority of data used for the final testing, that can easily be the case.
+
+(PERSON6) Yes.
+
+(PERSON1) But I don't think that this is a problem.
+
+(PERSON6) This this is what we already told two weeks ago.
+
+(PERSON1) Yep.
+
+(PERSON6) And now [PERSON8] came and said that it's really seems to be very, very few, and he had, and he he made a summary of what is used for share tasks.
+
+So he can -
+
+(PERSON1) Summarization OK.
+
+So [PERSON6], [PERSON8] could you please present this because I don't know I know the standards in machine translation and speech translation kind of.
+
+In speech translation you uh, or uh, or uh, or speech recognition 2 hours are what you want.
+
+Or you are obviously evaluating every single word.
+
+So there is a lot of points that go through this evaluation.
+
+(PERSON8) So [PERSON1], I, yeah, so, I must say that I went to almost thing to share tasks.
+
+But none of them was on some speed summarization.
+
+So there were speech corpora and it valid or not.
+
+So for some for some it was 19000 hours.
+
+(PERSON1) 19000?
+
+(PERSON8) So it was it was -.
+
+19000 hours.
+
+It is really thing where the impacts on speed signals, and the date <unintelligible> signals in ICSI uses the.
+
+And some even we found that there were some share task that were only 80 hours of data.
+
+So it really depends on the task.
+
+So <unintelligible>  I found was 80 hours.
+
+(PERSON1) And the 1 8 like 1 8, right?
+
+(PERSON8) 8 0 8 0.
+
+(PERSON1) 8 0 80 hours.
+
+(PERSON8) 8 0 80 hours.
+
+(PERSON1) This is point summarization
+
+So how many sessions -.
+
+(PERSON8) No no none of them were for summarization.
+
+And as I say that there were no speed summarization share task for a long long time.
+
+It was back in 2006, and no information was there.
+
+About, that summarization task.
+
+(PERSON1) Okay.
+
+(PERSON8) So Yeah, for speed summarization.
+
+But I need a I need a general <unintelligible> share task.
+
+So it really depends on the task.
+
+(PERSON1) Yeah.
+
+(PERSON8) So there is no gold standard that.
+
+Okay.
+
+So you have to have the standards, there's a lot of data.
+
+(PERSON1) Yeah.
+
+That's good for us.
+
+(PERSON6) Ehm.
+
+(PERSON1) So I think that that we will simply use what we have.
+
+And and it, it depends how much of the data survives the contents.
+
+But if if only half survives, which will give us 50 hours of English and uh 30 hours for Czech then dividing this half and half,
+
+so that we would have 25 hours of evaluation for English.
+
+And 15 hours of evaluation for Czech.
+
+I find that great.
+
+Like it's a 50 uh, 50 hours.
+
+It's 15 meetings of the like if your score would be just one word scroll like a good or bad.
+
+Then you have the quality, final quality scale, precise to the to tens of percents.
+
+So like a imagine, and that the were only giving like 1 or 0.
+
+And you have 15 meetings.
+
+That means that on your full scale, you divide the 100 percent into 15 uh, steps.
+
+That's obviously insufficient, but we are not going to score was this like binary scoring.
+
+So we will get enough, uh, variance on the on the scale.
+
+So 15 meetings are already like representive enough for me, I would say.
+
+Obviously, that that there are very problematic the representative if this were problematic, because it's only one or two teams who who are contributing.
+
+And get aloneness.
+
+Is like a big limitation.
+
+But uh, if you take this into a count.
+
+Then 15 as the number of uh, evaluated items.
+
+And each of the items is evaluated on very fine grained scale.
+
+I think that's, that's interpretable.
+
+(PERSON8) Ehm, okay.
+
+(PERSON6) So we deciding to use [ORGANIZATION2].
+
+Guys, do you hear me?
+
+(PERSON1) Well, if [ORGANIZATION2] comes for free.
+
+If it is only matter of downloading some of the data and polishing it a little, no manual processing of that.
+
+Yes, let's include that.
+
+Let's include one separate track for [ORGANIZATION2].
+
+Because that is the domain that people who do speech, or or like a good at.
+
+And there is a lot of data around, uh, that people can gather.
+
+So we only need to uh, well, this is kind of them.
+
+So uh, do we have to say.
+
+They would have to use [ORGANIZATION2] data from fix year and say that we see, you must not be used in the training, for example, something like that.
+
+(PERSON6) And uh, so I can I can say what we can do if we agreed to use it.
+
+We can take the corpus from 2006 to 2011.
+
+And kind of <unintelligible> transcripts and add minutes that can be found.
+
+So it's not a big work and should -.
+
+One should not read the transcript that just to find it in the database, and two were true and the text.
+
+So it is so and it.
+
+It does not need some work because, and for each meeting, we should find the minutes.
+
+But you should not read the transcript.
+
+Yeah, copy paste.
+
+So for one meeting I l don't know it will take something about 5 to 10 minutes.
+
+(PERSON1) Ehm.
+
+(PERSON6) Of manual work.
+
+(PERSON1) Cannot, you have to do this in alignment between the session and the minutes manually?
+
+Or is there any way to automated?
+
+(PERSON6) Because minutes are on their website.
+
+They just search, we should search the minutes using the name of the transcript.
+
+(PERSON1) Yeah.
+
+This surely can be automated.
+
+So that, it will not be 15 minutes, but uh, you will manually prep- like a automaticlly prepare web page on our [ORGANIZATION1] lab.
+
+And that web page will be a list of links to these minutes.
+
+And the annotator will now only like twice click like here is the transcript.
+
+Here is the minutes that we've automatically found and you, and you open that open that and click yes to validate it.
+
+An open meadow
+
+(PERSON6) Minutes minutes are on just on web.
+
+(PERSON1) Everything is on the web.
+
+I do not understand the [ORGANIZATION2].
+
+Maybe if you share the screen and show me about the minutes live.
+
+I can tell you if this is if this automation seems possible.
+
+(PERSON6) Just a moment I'll share find something.
+
+(PERSON8) So the only thing is [PERSON1] <unintelligible> that minutes we have, or [ORGANIZATION2], I <unintelligible>.
+
+And as [PERSON6] said it is mostly about the people names.
+
+Like think different people they grip to these.
+
+So if I were a participate.
+
+I can only simply <unintelligible> a bachelor would would to give a doctor 's yet.
+
+Yeah.
+
+Yeah, there is no more <unintelligible>.
+
+(PERSON1) That's why I don't want to invest much work into this.
+
+Uh, but it's, it is a nice contrast if data set again.
+
+So it it illustrates the fact that for some minutes, just listing who mange, who like contributed discussion is sufficient.
+
+And uh, then -.
+
+(PERSON8) Again -.
+
+And and and again, it is what way to prevent that our because we have spontaneous speech.
+
+(PERSON1) And this is completely read.
+
+(PERSON8) Yeah, alright.
+
+(PERSON6) Oh, shortly to show you the screen.
+
+You, so rare.
+
+You, what we have, uh.
+
+Aha, you can't see the whole screen.
+
+Can you see the <unintelligible> as well?
+
+(PERSON1) Yes, I can see your screen sharing.
+
+(PERSON6) Yeah, okay.
+
+So we have -.
+
+Sorry.
+
+[ORGANIZATION2].
+
+You take some meeting that [PERSON2] (exerupted).
+
+I don't know.
+
+This one.
+
+(PERSON1) So they do not know what -.
+
+I'm seeing the web, uh, the web browser.
+
+(PERSON6) Aha, so not sharing -.
+
+How to do that.
+
+Just a moment.
+
+(PERSON1) This show like the whole screen.
+
+(PERSON6) Now you see it.
+
+(PERSON1) Yes, I see.
+
+(PERSON6) So set a transcript and the name of the chapter.
+
+(PERSON1) Hmm.
+
+Approval of minutes of previous sitting, okay.
+
+(PERSON6) You know that it worse uh probably 6th, October of 2011.
+
+(PERSON1) Mm-hmm,
+
+(PERSON6) Your research for 2011.
+
+October from 11 11.
+
+Yes I'm looking in minutes.
+
+Sorry.
+
+So somehow to find them here.
+
+(PERSON1) Ehmm.
+
+(PERSON6) And and then here to click on it.
+
+And find something like that.
+
+Here find this chapter, and is that name that you found in the transcript.
+
+And the results in minutes look like that.
+
+(PERSON1) What can you show me as a negotiation, proceeding in accordance.
+
+Hm.
+
+So it is a summary of the session.
+
+(PERSON6) Yes.
+
+And this is one of our transcript.
+
+So we have a transcript include and I don't know.
+
+1000 words.
+
+And for this session, and these are minutes for the session.
+
+(PERSON1) So is it a summary of one person talking?
+
+(PERSON6) No, no, no, it's for the whole kind of meeting.
+
+(PERSON1) Yeah.
+
+And because the the sessions that are so so far.
+
+He was always like people talking for 3 minutes, maybe there were also by them.
+
+(PERSON6) No, no, no.
+
+(PERSON1) So they they are like they have one minute so contributions right in the discussion.
+
+(PERSON6) Yes.
+
+This is discussion say maybe have an all long 20 minutes left.
+
+(PERSON1) Okay, and a summary is just this.
+
+(PERSON6) And this is the summary of that.
+
+(PERSON1) This is deffinitely very different from what we have.
+
+Um, uh, and uh, if you get all the name identities right then probably you -.
+
+(PERSON6) Nothing remains.
+
+(PERSON1) Coworkly.
+
+And nothing remains yes.
+
+So.
+
+I think it does make sense to have this as a contrast of task.
+
+But it is a very different and we should say so -.
+
+(PERSON6) Yeah, it is very different.
+
+It is very different.
+
+The question is if -.
+
+The question is if to do that, that increase the data, of course, not -.
+
+(PERSON1) Yes.
+
+(PERSON6) Together as our data.
+
+But when we want today, because we want to decide if we do that or not.
+
+(PERSON1) Yeah.
+
+So if we were voting I support it.
+
+I support it as a secondary track.
+
+(PERSON6) So that and on their financial point of view.
+
+It means that I asked one of my annotators to do this alignment.
+
+(PERSON1) Yeah, it's -.
+
+There must be way to to make it simpler than all the pre filling of this search form that search form.
+
+That's that takes too much time.
+
+What maybe -.
+
+Yeah.
+
+(PERSON6) I think that more time will take ehm making it the formally in in in a good form that we can.
+
+[PERSON2] should prepare how it should look like this sample of this send reporting to the -.
+
+(PERSON1) If you look at (UAL).
+
+It has some ID.
+
+ITM.
+
+(PERSON6) Yeah, should be search.
+
+(PERSON1) So can we, can we just use these IDs?
+
+This sessions have.
+
+(PERSON6) And this is is is a small IDs.
+
+ID 0 0 4.
+
+This is.
+
+No.
+
+These IDs of the [ORGANIZATION2] corpus not of parliament.
+
+So, these IDs cannot be used to search for minutes.
+
+Because this is -.
+
+(PERSON1) And what you mentioned to the title of the session?
+
+Where do I see that title -.
+
+(PERSON6) Here is a title, and -.
+
+(PERSON1) But that's not.
+
+Well.
+
+That's just the approval of 3 years, that's not -.
+
+(PERSON6) A <unintelligible> approval of sentence?
+
+That's really kind of -.
+
+(PERSON1) The minutes <unintelligible> indeed is it the -.
+
+So is it the correct one?
+
+(PERSON6) No, no I I didn't find the correct year.
+
+So.
+
+You show you another one.
+
+It just will take more time for me to search and speak at this <unintelligible>.
+
+I will try to search and I find I will show you.
+
+To stop showing a in a -.
+
+(PERSON1) Yeah.
+
+(PERSON8) So so one thing I want to mention.
+
+I also found the in the [ORGANIZATION2] corpus.
+
+That if you want include that, I'm absolutely okay with that.
+
+But the thing is.
+
+But in some minutes some minutes were like some kind of hyperlinks that leaving to some other things.
+
+So we need to late like, maybe <unintelligible> assured that guidelines who avoid those kind of ehm, those kind of minutes, and those kind of -.
+
+(PERSON1) And the the hyperlinks other to like number things <unintelligible> regulations?
+
+Or are there also other links?
+
+(PERSON8) Yes, yes.
+
+No, there were mostly from the [ORGANIZATION2] side, but do it like hyperlinks to other things.
+
+And those were looks like minute.
+
+So I would to take and show you an exactly hyper, but I would find it and <unintelligible>.
+
+(PERSON1) Ehm.
+
+(PERSON8) So I called couple of like this kind of -.
+
+And so why the framing the guidelines <unintelligible> import this minutes that you should the avoid those kind of minutes.
+
+(PERSON1) So the the way I see it now is that we should have a like one shared task assignment or well, maybe you have the A and B or.
+
+And 3 underlying data sets as the 3 test sets without much training data provided to the participants.
+
+The first test set would be our corpus.
+
+Second test set would be this [ORGANIZATION2] just downloaded aligned meetings and transcripts.
+
+And the third, uh, would be AMI and ICSI.
+
+Again, the standard test sets of of this, right?
+
+So you would have -.
+
+(PERSON8) So AMI and ICSI would be your test sets?
+
+Are you -.
+
+(PERSON1) Yes, yes, yeah, yeah, I'm saying that yeah.
+
+So I think we should have 3 tracks.
+
+We should have our track, [ORGANIZATION2] track and ICSI and AMI track.
+
+Because that way we are comparable with the literature.
+
+That's the AMI, ICSI.
+
+We are doing what we are interested in.
+
+That's our train set.
+
+Our test set, sorry.
+
+And then uh, we are also uh, like extending the coverage for the [ORGANIZATION2] sessions.
+
+Because that is the data set that for example speech people are familiar with.
+
+(PERSON8) So you mean, uh, these only causing the test, in the frame it is it is just our data and the EU project alright?
+
+(PERSON1) Oh, well, what we can provide that we should provide.
+
+So for AMI, ICSI we can easily also provide the existing training data as the training data.
+
+For us, we will have a very small portion as the training data.
+
+And for [ORGANIZATION2] I don't think that the annotator who would be doing this alignment, could cover substantial number of these meetings.
+
+I think it would be to to small subset of what is our directly.
+
+So if we have someone, if we ask <unintelligible> [PERSON7] to download and automatically align, the transcripts and the minutes.
+
+Then yes, the we should probe, provide also the parliamentary sessions uh, the training data.
+
+But otherwise we can say that there is no training data that they have to like download that from the web themselves.
+
+And uh, we also have to deffinitely uh, four beats them of the years.
+
+So all the sessions that we put into the test set should be from one particular year.
+
+So that we can say, and this year is excluded, right?
+
+Does it make sense?
+
+Do you agree [PERSON6]?
+
+(PERSON8) Yeah.
+
+(PERSON6) Yeah.
+
+(PERSON1) So, uh, we should look at the the transcripts automatically.
+
+It would be better to download it all and align it fully automatically and provided as the training data.
+
+That would be nice with, and also be useful for us, because there is some summarization going on.
+
+It is different.
+
+But there is some summarization going on.
+
+(PERSON8) So one thing [PERSON1] I want to ask.
+
+Can we download that data and will make um, like <unintelligible> then as the test set training to the participants, 
+
+or we just say that here are the links you need to download and then test?
+
+Because uh, I'm not s- .
+
+(PERSON1) It's much better to repackage it.
+
+(PERSON8) Okay.
+
+(PERSON1) Because it's a than it standardize this the way to propose and see it.
+
+So it's much better repackage it.
+
+(PERSON8) So we don't run into any copy <unintelligible>.
+
+(PERSON1) Well, the idea is that no one refuse there is no money they could get from you.
+
+If you are poor, no one the <laugh> file anything against you.
+
+So that's the -.
+
+(PERSON8) Okay.
+
+<laugh>
+
+(PERSON1) You you really have to make money to like attractive for that .
+
+(PERSON8) Yeah, right.
+
+(PERSON6) Oh, may I show you one example?
+
+(PERSON1) Mm-hmm, Yeah.
+
+Please do that.
+
+I'm sharing the screen again.
+
+(PERSON6) So I just, I have found how to find to to I just forgot that last time.
+
+Yeah, we have some chapter ID some document from the [ORGANIZATION2] corpus with the name of the chapter.
+
+And this of the chapter is searchable for the minutes.
+
+Uh, I have just found it by the name.
+
+And this is these are the minutes for for this chapter.
+
+On this very -.
+
+(PERSON1) I do not understand is hooked up the the the the name of progress on on mine action is unambiguous.
+
+(PERSON6) Oh.
+
+And even more -.
+
+So two of them will found.
+
+So I was looked in the <unintelligible> by that, by the title I just put line here.
+
+And the program found, actually two outputs, but both on the same days.
+
+So one of them was some voting.
+
+And this is not the document I show you.
+
+And this is the run.
+
+(PERSON1) So the actually we are search for the title was in exact.
+
+The title the [ORGANIZATION2] corpus, we should also use bracket.
+
+(PERSON6) Yes, yes,
+
+(PERSON1) But uh, he has.
+
+So this is this is okay.
+
+There was only one session in that period found in those five years, that is surprising, but yeah.
+
+But what about the minutes?
+
+Uh, because the previous example, that have shown the title was like voting on the previous session minutes.
+
+And this happens every every week.
+
+(PERSON6) Well, as I looked full, as I look full the corpus there was the chapters are quite long.
+
+So.
+
+I think people didn't think about repeating and not repeating.
+
+So they probably may repeat.
+
+But normally they do not because they're quite long.
+
+(PERSON1) I don't understand it.
+
+(PERSON6) Yeah, well, when you just look, and you don't look for search for something and just look for some day.
+
+You find.
+
+(PERSON1) Okay.
+
+So you flipped it to the day.
+
+Have you limited it to a day or not?
+
+(PERSON6) Not, no, just to the years, to 4 years.
+
+(PERSON1) And do we know from your parl date of the session?
+
+(PERSON6) Probably I don't know.
+
+Now I don't <unintelligible> I don't know.
+
+(PERSON1) Maybe you were searching for something.
+
+So does it work, if you are not searching for any words?
+
+(PERSON6) Normally, yes, last time it works.
+
+(PERSON1) Mm-hmm,
+
+(PERSON8) The first picture but than.
+
+(PERSON6) Well, so for example here.
+
+Uh-huh.
+
+So they have September June, aha.
+
+You choose minutes.
+
+And these are the title.
+
+So there are these country.
+
+Um, each opened this of this seeking, order of business.
+
+(PERSON1) Mm-hmm.
+
+(PERSON6) I can try open enough this on their own business.
+
+I have -.
+
+There are a lot of.
+
+(PERSON1) Yeah, and they are from different days.
+
+So by the day, you can be able to match it.
+
+(PERSON6) Mm-hmm.
+
+And it seems to me quite -.
+
+(PERSON1) The most open.
+
+But is there to date?
+
+Yes, Monday Strasbourg.
+
+So you can search for the date, based on the date, and and the title.
+
+(PERSON6) Yes, yes.
+
+(PERSON1) This surely can be done automatically.
+
+(PERSON6) Probably, I can't.
+
+(PERSON1) So we should find someone who who will do it automatically because it doesn't make much sense to to do to manually.
+
+(PERSON6) Well.
+
+It depends how much we should get from, how much meetings.
+
+How many how many of them.
+
+(PERSON1) So I don't see [PERSON7] on the call.
+
+Is he take part regularly?
+
+(PERSON6) You mean [PERSON7].
+
+(PERSON1) [PERSON7], sorry, yeah.
+
+(PERSON6) [PERSON7] wrote me today and he was planning to to call me tomorrow.
+
+To discuss something, and he is working on a fix now on consense.
+
+(PERSON1) Um-hum, okay.
+
+Yeah, so he could be the person who could do the downloading in, because he would be probably <unintelligible>.
+
+Or talk to [PERSON3].
+
+[PERSON3] is on vacation this week.
+
+But try sending him an e-mail.
+
+I think he he simply use some Wget scripting.
+
+I remember that he got booked of several times, and he used a (led) machine.
+
+So this is exactly an exercise for the CS student in in early years of their masters.
+
+So to to create a downloader of from and something which reconstruct the structure based on matching of strings.
+
+So this is this is really easy to do.
+
+So no one, no one feels confident in that, right?
+
+(PERSON6) No, okay.
+
+Maybe.
+
+So, I think we should first decide if we do that, and if in case, we do that, how much of the meetings we should get out of that.
+
+Beca-.
+
+(PERSON1) We should -.
+
+If we do it we should do all and provide it as the training data, because it if doing so if doing this all, it allows us to clearly separate what is the training avoid the evaluation data set.
+
+(PERSON6) Oh, you mean all [ORGANIZATION2]?
+
+All, okay.
+
+Because they are also very different in size and a participants.
+
+So [PERSON2] clustered as I know and hear and meet structured them.
+
+According <unintelligible> and according to that.
+
+And they have there meeting includes more participants.
+
+So it includes one participants.
+
+It's not the meeting.
+
+And and if it is very short it is it's kind of different task.
+
+And if it's very long, it's also kind of different task.
+
+And some of them are comparable to all corpora.
+
+So, [PERSON8] propose to divide it into 3 parts like short meetings and long meetings.
+
+So should we really take all of them like data and participants made choose divide them themselves.
+
+It's also possible.
+
+(PERSON1) So, I would release it as, so actually uh.
+
+[PERSON2], [PERSON2] are you on the call?
+
+(PERSON2) Yes, I'm here.
+
+(PERSON1) So uh, [PERSON2], the way you obtained this open acces or the the open academic corpus.
+
+You downloaded something big, right?
+
+And you only process it and filter it in some way.
+
+Or did you also do some downloading of individual pages yourself?
+
+(PERSON2) No, it was already there <unintelligible>.
+
+(PERSON1) Yeah.
+
+(PERSON2) And they are just big, I just -.
+
+(PERSON1) What we what we need to do would be to redo what has been done by those -.
+
+Okay.
+
+Yes, OK requiring,
+
+Okay, that's good.
+
+So.
+
+[PERSON2], are you back?
+
+(PERSON2) Yes.
+
+So we, what we should should if we are include [ORGANIZATION2] in the share task.
+
+Then we really should prepare it for the participants to make it easy.
+
+And the data set is, it will involve some work indeed, but it should be really done by a CS person by annotators to match the transcripts and the summaries and the minutes.
+
+And uh, it is exactly the word that has been done by the open academic corpora.
+
+by the producer of you, uh, and then you do that, and then compile that in the OHDS the various corporate, but you're right.
+
+So the question is wheter you [PERSON2], which would be able to do this first step.
+
+Something which we have not done for the OHDS but the which was needed here, or if we need to search for someone else to the first step.
+
+(PERSON2) What mean of the first step?
+
+What what what do you mean?
+
+(PERSON1) Finding and downloading the pairs of transcript and the minutes for all the sessions that are there.
+
+(PERSON2) But we already saw a minutes they are not variable.
+
+They are not good, they are not variable for us.
+
+The minutes are there in the web.
+
+(PERSON1) Mm-hmm.
+
+(PERSON2) But we already agreed that they are not usable right.
+
+You just participants these that on that.
+
+And the discussion discussion about this, they are not variable.
+
+They are not real summaries.
+
+(PERSON1) Uh, they are some form of minutes.
+
+So this is the.
+
+So I thought that you were one of the people like proponents.
+
+One of the people who prefers to have other data sets in the share task.
+
+Sure I am, absolutely I am.
+
+(PERSON1) Yeah, uh,
+
+(PERSON2) But there is not diversity of data.
+
+(PERSON1) yes, yes, yes yes.
+
+(PERSON2) And I really like the transcripts of [ORGANIZATION2] corpus.
+
+(PERSON1) um-hum, yeah.
+
+(PERSON2) Very nice.
+
+So if the kind of select the best transcripts in terms of lenght and other some other area.
+
+Would just needs the minutes, right?
+
+(PERSON1) Yeah, but I have -.
+
+(PERSON2) But minutes that are on the web but are not useful, so.
+
+(PERSON1) But I don't find it any better -.
+
+(PERSON2) My proposal is to have some people create this.
+
+Summary this work or some of them or the best transcript that we find.
+
+And then we agregate the subset to the existing data and reach the diversity and we have more data and more diverse data.
+
+This is my idea.
+
+(PERSON1) Yeah.
+
+So my big worry is that the existing minutes, which we agree are not very good are still the best ones possible for the sessions.
+
+I think that the content is simply boring that no one will come up with better minutes.
+
+That is my worry.
+
+(PERSON2) Maybe maybe.
+
+So uh, so, and because of this here, yeah, because of this worry I don't want to invest annotation money into this.
+
+So I'm I'm happy to invest like programmers money to get the big collection.
+
+But I don't think that we should spend annotation money on on this.
+
+(PERSON6) And and and this.
+
+And our another topic is that we have looked at more -.
+
+And I'm speaking for [PERSON2] now.
+
+And we have looked at more minutes [PERSON2] have enough long before.
+
+And we <unintelligible> that may actually not so bad as that.
+
+Or as those ones we saw on.
+
+Than the direction and then not so extremely bad.
+
+They kind of summarize, and then and then and discussion, and they are as summarize, and maybe as well in another way, but not in in a bad way.
+
+So -.
+
+(PERSON1) Yeah.
+
+(PERSON6) Problem we decided to take the whole [ORGANIZATION2] corpus and to pack with existing minutes, invest money in alignment and kind of programming an end in that direction and published it as a separate.
+
+(PERSON1) Yes, perfect.
+
+This is exactly -.
+
+(PERSON6) So this is what we decided up to now for last 40 minutes.
+
+(PERSON1) And you did this with [PERSON2] right?
+
+(PERSON6) No, with you.
+
+(PERSON1) With me, yes, Yeah, exactly.
+
+Now. <laugh>
+
+I know it because you said you were speaking for [PERSON2].
+
+(PERSON6) No I'm just transfer into [PERSON2] -.
+
+(PERSON1) Yeah, yeah, yeah, you were speak for the benefit for [PERSON2], not like -.
+
+(PERSON6) Yes, no, yes, for the benefit for [PERSON2]. 
+
+(PERSON1) So.
+
+I think that as [PERSON2] has this several releases of the open academic summarization corpora.
+
+We should have another, summarization corpus.
+
+Let will be the [ORGANIZATION2] sessions summaries corpus, and that will be the transcript and the uh, and the minutes to that.
+
+And it is somewhat different from our domain.
+
+But it is on very large set of topics that I think that is the the this corpus alone would be very usable resource.
+
+(PERSON2) Very usable?
+
+(PERSON1) Yeah.
+
+(PERSON2) For what?
+
+For what?
+
+(PERSON1) For summarization.
+
+(PERSON2) For summarization, wow.
+
+(PERSON1) There are some -.
+
+That is different summarization.
+
+It is it is similarly different as the like the title, and the uh, and the abstract.
+
+This is also like a very specific kind of summarization, <unintelligible> does not summarize the the paper.
+
+And the paper content is it is summarized by the up three, but also in a very special way.
+
+So I think it's very different types of summarization.
+
+And this is deffinitely one of those.
+
+(PERSON2) Maybe, I don't know.
+
+(PERSON1) Yeah.
+
+[PERSON6], are you in in [LOCATION1]?
+
+<laugh>
+
+(PERSON6) Yeah, no, not yet. <laugh>
+
+(PERSON1) Because you are freezing.
+
+Yeah, you.You should put some wood to the to the heating so other.(A) I didn't, I didn't have time to make the heating, yeah, yeah, okay, uh.
+
+(PERSON1) Okay.
+
+So uh, so to summarize.
+
+[PERSON8], do you agree that will have 3 different tracks?
+
+Like data tracks?
+
+(PERSON8) Yeah.
+
+(PERSON1) In the share task, and we will have a different assignments.
+
+One of the assignment would be is do the summarization, but maybe have already figured out what other assignments would be there like tasks, which would be a as as simplifications of this.
+
+And all task should run probably across all the data sets.
+
+Unless we find the reason that something is not possible, something does make sense.
+
+And that we should do one more corpus preparation.
+
+That would be the [ORGANIZATION2] minutes corpus.
+
+And that will be the pairs of transcripts and minutes.
+
+And all of this we will take a small portion as the test set for our shared task.
+
+Right?
+
+(PERSON8) Yes, yes.
+
+I'm absolutely fine with this, because uh, more data means you get <unintelligible> the importance.
+
+(PERSON1) Yeah.
+
+Yes, yes, yes, yes,
+
+And we should invite people to like cross train.
+
+Uh, cross train for in all these um across all these tasks.
+
+So any pre-training on the CNN, daily mail for the purposes of AMI and pre-training on [ORGANIZATION2] for the purposes of our corpus and everything is welcome.
+
+(PERSON8) So we we explicitly say then that augmentation of audition because of the participants.
+
+(PERSON1) So the way and WMT would WMT is that we had uh, uh like constraints single language submissions.
+
+That in our case would be submissions limited to the training data that we provide for the given a like a track, uh.
+
+Then there was multilingual submissions, but still constrained.
+
+And that meant you can use any training data from other domains, for the particular track.
+
+And then we had unconfident submissions and these unconfident submissions they could use any other data you found.
+
+And anything simply.
+
+So uh, we are, we have now added 2 more domains to the task.
+
+And that ads the condition like train cross the main.
+
+So it's cross domain, but constrained.
+
+And that's a valid category of submissions.
+
+Right?
+
+Does that make sense?
+
+(PERSON8) Yes.
+
+(PERSON1) Yeah, I'm happy to sign again yet, or? <laugh>
+
+(PERSON6) May I ask what should I do with the data now in that respect?
+
+(PERSON1) So we need to find the person who is familiar with Wget, and who can download and prepare the corpus.
+
+That's the critical thing.
+
+Otherwise [ORGANIZATION2] is excluded.
+
+So we need to find the person.
+
+So uh, who is <unintelligible> enough in that.
+
+It could be [PERSON2].
+
+(PERSON8) I can try.
+
+I can try.
+
+(PERSON1) [PERSON8], OK, great.
+
+So please talk to [PERSON3] as well, because, he has like as I said he is on vacation this week.
+
+But that is still at home probably.
+
+So ask him a for a session where he could walk you through the way he download the the uh, uh, the speech part of that.
+
+So he was downloading the speech part.
+
+It is quite different, obviously, because you are interested in the transcripts and the summaries.
+
+So maybe you can do on your own.
+
+But in case you, you needed any suggestions on how to like get through these what form so where, then he will probably know.
+
+I also know, I have never done this many times in the past.
+
+It will take a -.
+
+But um, uh, it would take a does.
+
+(PERSON8) It is just scripting that <unintelligible>.
+
+It is just scripting that <unintelligible>.
+
+(PERSON1) Yes, exactly, as as as as as a scripting, that web and downloading it in a way that automaticaly alignes it for you, so that you can use the uh, if you if you escape spaces and others, the dangers characters in the in the titles.
+
+You can actually use the name of the, you could use the dates uh, like the year, slash, month slash day slash title of the session.
+
+Uh, and maybe with a point, one point, two of their multiple copies, and you can use this as the as the director structure, and you can put the the files there.
+
+And you will immediately get the alignment.
+
+Soon as you find the same thing.
+
+Uh, on the same day, with the same name, you got a pair.
+
+(PERSON6) Uh.
+
+Well, but, at the moment, we still don't have the uniformal format of our data neither.
+
+Actually maybe we should first create kind of template, how the file output should look like?
+
+Would do that.
+
+(PERSON1) No.
+
+Well, well, what, template for what?
+
+Template for the layout the directories or the files?
+
+(PERSON6) The output.
+
+So actually the hard data look like.
+
+because [PERSON2] proposed that basic sample.
+
+And then when we looked at that, we realized that we do not have any structure and there for example.
+
+(PERSON1) Ehm.
+
+(PERSON6) And, so, it should probably look kind of similar our basic symbols and [ORGANIZATION2] data set.
+
+(PERSON1) Yeah.
+
+(PERSON6) Transcript begin somewhere transcript ends and summary begin summary ends so.
+
+(PERSON1) As the <unintelligible> file, so that there are some of your mind that that.
+
+(PERSON6) Yes.
+
+of course, of course.
+
+But what should be inside?
+
+So.
+
+(PERSON1) And and inside in the transcript like, uh, uh.
+
+I would not spent to much time on this.
+
+As you just do.
+
+It is in some reasonable way and for the minutes.
+
+Uh, we will just convert the bullets to the non standard thing that we have as standard.
+
+So it will be probably dash space and dash dash space and dash dash dash space.
+
+(PERSON6) Yes, but should be for example at the end of this should be appointed the end of the challenge.
+
+Should, is it not important should I just forget it.
+
+(PERSON1) <unintelligible> what?
+
+Sorry.
+
+(PERSON6) A point -.
+
+(PERSON1) A fullstop.
+
+(PERSON6) A full stop and a future.
+
+(PERSON1) No, no, no, no, uh, forget about this.
+
+This is already like, uh, the style -.
+
+This is something that we uh, the session already uh, the the people in that area we find.
+
+(PERSON6) OK.
+
+So.
+
+I can forget about it.
+
+(PERSON1) Yes, I, think you should simply.
+
+Yes.
+
+The our formalization ends with the fact that we are aligned oriented with dashes in the minutes.
+
+(PERSON6) Yeah, OK.
+
+I m just little -.
+
+(PERSON8) [PERSON1] -.
+
+(PERSON6) Give as output the data will mess you, but okay.
+
+(PERSON1) But the one thing uh.
+
+[PERSON6], have you seen the TEITOK presentation by [PERSON5] or or what is his name.
+
+The colleague.
+
+The remote colleague of [ORGANIZATION1] who is developing TEITOK.
+
+Um, no?
+
+That was on in Hnanice.
+
+(PERSON6) I haven't been in Hnanice.
+
+(PERSON1) Yeah, the remote one.
+
+(PERSON6) Even on the remote one.
+
+(PERSON1) Uh.
+
+So can you?
+
+Uh, as it is the open the weekly, [ORGANIZATION1] weakly.
+
+(PERSON6) Yeah, I'll find it.
+
+<unintelligible> or something.
+
+(PERSON1) [ORGANIZATION1] weekly.
+
+(PERSON8) So [PERSON1] I just want to I want to report then.
+
+So one for the current downloading of [ORGANIZATION2] data.
+
+We will be mostly faciliting on having the ASR and the corresponding minute, right?
+
+In one format.
+
+(PERSON1) The transcript.
+
+(PERSON8) Yeah, the transcript and the minute in one format.
+
+(PERSON1) Yes, yes, yes.
+
+(PERSON8) Okay.
+
+(PERSON1) Exactly, and as many folders as you can have, and obviously the -.
+
+Yeah.
+
+I'm searching.
+
+And  TEITOK, pdf, yes, [PERSON5].
+
+So here I'll share the link of just pasted through the <unintelligible> session, where is that chat?
+
+Here is the chat.
+
+To [PERSON6], I want to, oh, I can chat only to the host.
+
+So I'm only sending it to to you [PERSON6].
+
+(PERSON6) It's okay, aha.
+
+(PERSON1) Or some reason, I don't know why.
+
+(PERSON6) Some reason. <laugh>
+
+I cannot get -.
+
+And the host so I get it.
+
+Thank you.
+
+The talk I'm referring to is actually uh, this one.
+
+TEITOK uh, and the link is the link, copy link, location.
+
+So this is colleague.
+
+This [PERSON5], who works, uh, remotely for [ORGANIZATION1].
+
+And he is developing a web brow-, like browser for big corpora.
+
+He has been on the Czech parliament browser, and he definitely has a great experience with XML for preserving the original data.
+
+And he would -.
+
+But it's it's like if you ask him he will probably come up with an overkill solution.
+
+He is too experience to that.
+
+We need something simpler.
+
+So he has already gone through decade of corpus annotation.
+
+And he now knows how to preserve everything essentially uh, but we don't need that at the point at the moment.
+
+So, but feel free to contact him.
+
+[PERSON9] has like a supervisor, or or the closest colleague.
+
+So talk to [PERSON9] as well on on this.
+
+If if if you feel afraid of of losing to much detail.
+
+But I think it's it's very simple.
+
+We should stick to the XML format that we already have.
+
+And we can, and we have also consense our own data, um, the speaker diarization.
+
+That is one link there where we should learn from [PERSON5].
+
+And we should also learn from [ORGANIZATION2] data.
+
+Our corpora do not have a good speaker diarization details, do they?
+
+What what's in the transcript?
+
+Do we have people's names, A, B, C in the transcripts?
+
+Or maybe we have?
+
+(PERSON6) Yes.
+
+We always have in manual transcripts we always have the name of the speakers in brackets, but they are different.
+
+(PERSON1) Okay.
+
+(PERSON6) Sometimes they are like [OTHER] like [PERSON1].
+
+Sometimes they -.
+
+(PERSON1) Yeah.
+
+Okay.
+
+(PERSON6) Sometimes T as <unintelligible>.
+
+And if there just, if the person didn't know he just A, B.
+
+(PERSON1) Okay.
+
+That's that's perfect.
+
+So this information should be only converted to angle brackets instead of square brackets.
+
+And the same angle brackets style should be used for this, for the [ORGANIZATION2] sessions.
+
+Yes, quite a lot of information actually.
+
+So who -.
+
+Somebody would forwarded because this is what I actually know and I'm afraid of doing not not not clear and so well, just, I'm afraid to make mess in that actually.
+
+(PERSON1) Yeah, yeah, yeah.
+
+(PERSON6) The format is not a zero question, as I understand now.
+
+(PERSON1) Say it again.
+
+(PERSON6) Format is not a zero and it is a question that should be kind of explicit.
+
+(PERSON1) Yes, it is, it is something that should be done.
+
+I have a very clear idea of what should be done.
+
+Uh, and I find that very simple.
+
+But I agree, it is not like fully automatic like -.
+
+(PERSON6) Well, it's really in your head.I don't have I don't have any idea.
+
+(PERSON1) Yeah, yeah, yeah. <laugh>
+
+(PERSON6) And I think also that [PERSON2] understanding of it and yours understanding of it are also different, because one for example to begin the transcript and end the transcript.
+
+And [PERSON2] didn't propose that.
+
+So um we probably should uh make some document.
+
+(PERSON1) No, no, no we should <unintelligible> someone sensible should prepare the data.
+
+And that's it. <laugh>
+
+(PERSON6) Okay.
+
+(PERSON1) Yeah.
+
+(PERSON6) But full -.
+
+(PERSON1) The question is how much work will the consense before [PERSON7].
+
+How much time will [PERSON7] have and when will [PERSON7] have time for any such of the job. 
+
+Because I think that [PERSON7] could be the person.
+
+(PERSON6) Because I think that [PERSON7] has a lot of work with uh -.
+
+(PERSON1) Yeah, yeah, yeah, yeah, yeah.
+
+(PERSON6) Because begin he has uploaded fast, but only in English for the moment.
+
+And it seems to be larger problem for him to work with Czech data.
+
+We wanted even to work Czech data.
+
+But it is a pity to avoid that, because it's better data than English.
+
+So he will join us tomorrow and we can ask him.
+
+(PERSON1) Ehmm-hm.
+
+Yeah.
+
+So is that seems reasonable than maybe [PERSON7] another option is that [PERSON8] downloads the data.
+
+And then me and [PERSON8] will start the processing the conversion, and then [PERSON8] would finish that.
+
+That's like the fallback solution.
+
+(PERSON6) Mm-hmm.
+
+(PERSON8) Uh, so you mean [ORGANIZATION2] corpus yeah?
+
+(PERSON1) I mean [ORGANIZATION2] corpus, yes.
+
+So in any case, if you could start downloading everything?
+
+And putting it somewhere.
+
+And the directory structure that I proposed.
+
+So year slash month slash day slash the name of the session.
+
+And then you would have something like dot.
+
+Uh, that transcript dot.
+
+Whatever the transcript is it.
+
+Is it in HTML, or is it in other format?
+
+[PERSON6], can you share again the screen or the transcript are?
+
+(PERSON8) So what -.
+
+(PERSON1) Sorry, the transcript are [ORGANIZATION2], right?
+
+(PERSON6) Yeah, yes.
+
+(PERSON8) So at this work I would first try to do use to find an automatic script.
+
+To get the, to get the transcript and also to get the minutes.
+
+Maybe even, maybe have talk to the extra file.
+
+So first I want to create file further and once we have that I read about the years.
+
+(PERSON1) Yes, so tested on very small number of sessions.
+
+And test it with just txt output but then we probably move to something which preserves more of the <unintelligible> details.
+
+Yeah.
+
+(PERSON8) <unintelligible>
+
+(PERSON1) So the key thing is that you will get the pair of HTML, or actually, this is not HTML.
+
+This is this is already txt but it's an extra mile from the [ORGANIZATION2].
+
+So you can the has this this the.
+
+Unfortunately, this doesn't lend itself to easy renaming.
+
+But it has the speakers.
+
+I <unintelligible> is um.
+
+So the the best way would be to start from [ORGANIZATION2].
+
+And reorganise [ORGANIZATION2].
+
+Reusing the files that [PERSON6] is browsing now.
+
+Reorganize them to the structure that I've proposed.
+
+So year month day slash the name of the session.
+
+And, so you would only like copy the files there.
+
+And then you would do that you would populate this there to structure with HTML of the minutes that you can download.
+
+Right.
+
+(PERSON8) So one thing I would like, yeah, yeah.
+
+So one thing I would like to ask it <unintelligible> also, this thing was, it was like manually downloaded, right?
+
+From the [ORGANIZATION2] paper.
+
+That that was just shame.
+
+(PERSON6) Not manual.
+
+No, we already have it.
+
+[PERSON2] downloaded to the server.
+
+But he made different folders contain indifference size of meetings.
+
+We can ask [PERSON2] again to put the whole corpus to the server.
+
+If we decided to make the whole corpus, not to structure it.
+
+So if you want to take everything.
+
+And then we hear you just have one big folder.
+
+We have it on the server.
+
+(PERSON1) Yeah.
+
+So you should only reorganize that into the directory structure according to the dates and names of the sessions.
+
+So that you can easily complemented with the minutes.
+
+(PERSON6) We have it, uh, [PERSON8]?
+
+(PERSON8) Ehm.
+
+(PERSON1) [PERSON8]-, yeah.
+
+You already see -.
+
+(PERSON6) It's here.
+
+We have it here.
+
+[ORGANIZATION2] folder and [PROJECT1] minuting folder.
+
+So, and.
+
+(PERSON1) So this is actually -.
+
+And what is this numbers.
+
+This is the size?
+
+(PERSON6) This is the size.
+
+This cluster by by [PERSON2].
+
+(PERSON1) And the source file?
+
+(PERSON2) The source is E N.
+
+E N is double source.
+
+English.
+
+(PERSON1) And that is uh, the full think.
+
+(PERSON2) Yes, the full thing <unintelligible>.
+
+(PERSON1) Yeah.
+
+I'm just working whether this [ORGANIZATION2] corpus should be in [PROJECT1] minuting or whether should be moved one, one directory deeper.
+
+And it was the third party corpora.
+
+You have to go.
+
+Yeah.
+
+So I need to have.
+
+So I need to do do a print out, and and the signature for [PERSON10].
+
+Uh.
+
+So uh, yeah.
+
+So these are all the different sessions.
+
+It is a flat structure.
+
+So this is for [PERSON8], this is already the bases.
+
+So [PERSON8] please processes this, organize it, according to the dates and the names of the sessions.
+
+And then complement it with the uh, with the minutes.
+
+And uh, then will to discuss what in what way do we need to like rename it or whatever.
+
+And and actually it would be already a ready for the release.
+
+(PERSON8) Yeah, so I think I think now we need to really organize.
+
+Now scripting is not prepared, right?
+
+(PERSON1) Say it again.
+
+(PERSON8) So, I think the measurable of data are downloaded, right?
+
+(PERSON1) The [ORGANIZATION2] is.
+
+But, so the transcripts.
+
+But nothing from the uh, from the minutes.
+
+(PERSON8) Minutes, yeah, okay.
+
+(PERSON1) So uh, is there anything else we need to discuss or -?
+
+(PERSON6) Probably, well, now we decided that [PERSON8] will work with the data.
+
+I will continue annotate my our our data with my annotators.
+
+And, then, after after we have prepared it from from google ask somebody to correct it or some -.
+
+But let's that later, not at the moment.
+
+So probably we decided, as I mentioned, the sure of, okay.
+
+I think we did what we did.
+
+(PERSON1) Yeah, okay, that's great.
+
+Ok.
+
+So thanks.
+
+I think, it's everything for today.
+
+And if you need me in another call then let me know in advance.
+
+And uh, okay, so thanks a lot and I'm I'm -.
+
+Thank you.
+
+(PERSON6) Thank you.
+
+(PERSON1) Bye, bye.
+
+(PERSON8) [PERSON6], are you there?
+
+(PERSON6) Yes.
+
+(PERSON8) Okay.
+
+So as forwarded and getting this share your screen of the [ORGANIZATION2] data once?
+
+(PERSON6) Once more okay.
+
+(PERSON8) Yeah, yeah.
+
+Okay.
+
+So.
+
+Yeah, can you go back to the name folder?
+
+(PERSON6) It takes a lot of time because they are very, many files then.
+
+(PERSON8) This folder contents all the [ORGANIZATION2] transcripts, right?
+
+(PERSON6) Yes.
+
+(PERSON8) And the the  next job is to have the corresponding minutes for each of those transcript.
+
+(PERSON6) Yes.
+
+(PERSON8) Okay, okay.
+
+So [PERSON2], hallo.
+
+(PERSON2) Yes.
+
+(PERSON8) So, [PERSON2] can you, can you share that how did you download this sticker data from the from the [ORGANIZATION2] web.
+
+Or is it, I'll be leaving somewhere.
+
+(PERSON2) Sure.
+
+It's when you the should download link there.
+
+I have a link man.
+
+There is a text file.
+
+(PERSON6) Yes, <unintelligible> the link agenda.
+
+I can show you.
+
+(PERSON2) It's there in the cluster.
+
+I have -.
+
+It's already in the cluster, yeah.
+
+It's also the cluster, the same folder.
+
+(PERSON6) Ehm.
+
+I don't have it.
+
+Anyway, just -.
+
+(PERSON8) Can you point me the link.
+
+Where is it?
+
+In the doctorate?
+
+(PERSON6) I have sent you also there and I have sent you the link.
+
+You could download everything.
+
+(PERSON8) So in the chat?
+
+(PERSON6) Yes.
+
+(PERSON8) Okay.
+
+So, it is from the from the from the MT <unintelligible>.
+
+(PERSON6) The first the first is our sources.
+
+But they are a kind of very slowly downloaded.
+
+Probably eh -.
+
+(PERSON2) There is limit in the downscale.
+
+Yeah, you can download -.
+
+(PERSON8) So this is <unintelligible> MT dot <unintelligible>.
+
+(PERSON6) What?
+
+(PERSON8) It is it is stacked MT dot <unintelligible>, right?
+
+It is that website.
+
+(PERSON2) Yes.
+
+It's that thing, yes, yes.
+
+(PERSON8) Okay, so it was for the machine translation.
+
+It was for the machine translation work.
+
+(PERSON6) Yes.
+
+(PERSON2) Yes, but this is a source.
+
+<unintelligible> patient version is align is process is rather process.
+
+(PERSON8) Ehm.
+
+But this is the one that we released as part of the parl corpora for machine translation, right?
+
+(PERSON2) Yes.
+
+So this is the source.
+
+The merchant machine translation the parl <unintelligible> is align.
+
+Is <unintelligible>.
+
+Or we should translation.
+
+This is the source so that can be used for other purposes as well like to process it.
+
+(PERSON8) Yeah, yeah.
+
+I got it, okay.
+
+Just me, the minutes for each of those ASR.
+
+(PERSON2) Okay.
+
+(PERSON8) Okay, but it was still 2011.
+
+I guess we have enough.
+
+(PERSON6) This is 2006 till 2011, I think.
+
+You can read the description of the corpus.
+
+Somewhere.
+
+There is it pdf of pdf.
+
+(PERSON8) Is, yeah, 96 <unintelligible>, but okay.
+
+(PERSON6) Ehm, maybe <unintelligible>, okay.
+
+Ehm.
+
+(PERSON8) Okay, one more <unintelligible>.
+
+So, let me do <unintelligible> checks today and tomorrow and <unintelligible>.
+
+(PERSON6) Hm, thank you.
+
+So.
+
+Are we satisfied?
+
+(PERSON8) Yeah.
+
+I think.
+
+I think do we <unintelligible> on major decisions.
+
+<unintelligible> with [PERSON1].
+
+I think for today, it's okay.
+
+(PERSON6) Ehm.
+
+Okay.
+
+And let's finish probably.
+
+I'm really cold.
+
+It's about five degrees here.
+
+<laugh>
+
+(PERSON8) Okay, okay.
+
+So you are in [LOCATION2]?
+
+(PERSON6) No, I'm in the forest, I'm in the forest.
+
+Kind of nature.
+
+(PERSON8) Oh, wow.
+
+(PERSON6) We have a <unintelligible> with, which can be heated, but it's not heated now.
+
+So, it's just really cold here.
+
+(PERSON8) Okay, okay, okay, okay.
+
+So yeah, we will see tomorrow.
+
+(PERSON6) Okay.
+
+And [PERSON7] will join us tomorrow.
+
+(PERSON8) Okay.
+
+This is okay.
+
+(PERSON6) See you.
+
+Thank you.
+
+Bye bye.
+
+(PERSON8) Bye.

@@ -1,0 +1,19 @@
+[PROJECT1] meeting 06.02.2020
+Attendees: [PERSON1], [PERSON11], [PERSON2], [PERSON4], B, C
+Purpose of meeting: Current status of adaptation data collection interface
+
+Summary
+• four file format conversion (policy about file naming)
+• need of commucation protocol - > help to integrate
+• talk adaptations automated as much as possible
+• [PERSON2] is trying to make webster kit connection working
+• [PERSON4] is working on multi-source speech consilation
+• fixed tool (capitalizating first letter for proper nouns)
+• have separate account with docker support
+• how to increase the recall for the stop and periods
+	Milestones
+	• structure of talks (03/2020)
+	• prepare data for IWSLT
+
+
+Minutes submitted by: [ANNOTATOR1]

@@ -1,0 +1,1095 @@
+(PERSON4) So [PERSON7], wan-
+
+(PERSON7) <unintelligible> or hear.
+
+(PERSON4) Okay, yeah, yeah.
+
+<laugh>
+
+(PERSON7) He was just curious.
+
+Tell me.
+
+(PERSON4) Yeah, so [PERSON8] has sent the Overleaf, well one Overleaf link, and also the link to the GitHub prepositary where we have the template is normal directory.
+
+And I'm now trying to fix the the program in Overleaf.
+
+You were also looking at the Overleaf, right?
+
+Yes, 
+
+(PERSON7) Yes.
+
+(PERSON4) I and I guess it also doesn't compile for you
+
+(PERSON7) Exactly.
+
+(PERSON4) So I'll try to figure out what's wrong here, because it's, it works kind of on my machine.
+
+So I'll first disable Cleveref that's one auction
+
+<parallel_talk>.
+
+I tried disabling Cleveref which should release lead to some new errors.
+
+But the question is whether you can also, whether you are happy to work like without the Overleaf interface with this, i guess it is it should be not a big problem for you.
+
+(PERSON7) No it's not, ehm, for us the main scoop of this meeting, should be to define a kind of structure of the deliverable documents 
+
+(PERSON4) Yeah, exactly.
+
+(PERSON7) At the first sight.
+
+I was um I.
+
+I I was wrong.
+
+But actually, I intended that the documents should be only on the presentation platform, because they are <unintelligible> publishing platform.
+
+But actually, then please confirm me.
+
+We have to put them also the [ORGANIZATION3] presentation platform, and the [ORGANIZATION1] presentation platform, in the documents.
+
+(PERSON4) I'm not sure about the [ORGANIZATION1] presentation platform.
+
+But I'm sure that we do want to include our platform there.
+
+(PERSON7) Okay.
+
+(PERSON4) And so I'm, I'm sure.
+
+So [PERSON8] wha- wh- what the heck, which file has [PERSON8] chosen as the as the source.
+
+<parallel_talk>
+
+As the source thing to test this.
+
+<parallel_talk>
+
+<other_yawn>
+
+I'm trying now to fix the, so that we can directly use the Overleaf, ehm.
+
+(PERSON7) Okay, nice.
+
+(PERSON4) That would be good if it if it actually worked, uh, so the the reload.
+
+<parallel_talk> I'm not sure if it will work or not.
+
+<unintelligible> not connected?
+
+Mmm.
+
+The only thing that I can do is, and it's the it's, the Overleaf is somehow strange.
+
+So we can for now, we can use it as as a plain text editor.
+
+(PERSON7) No problem.
+
+(PERSON4) So if you can scroll, to where I am, yep, so executive summary.
+
+Page break yeah.
+
+This, if you can click on my, in Overleaf, if you click on my icon.
+
+(PERSON7) Okay.
+
+(PERSON4) Next to me, AB review button then, yes, yes,
+
+(PERSON7) Okay.
+
+(PERSON4) Yes, so this is this is a sharespace, this is the sharespace that we can use to uh, to discuss the structure.
+
+(PERSON7) Perfect.
+
+(PERSON4) So so the the 
+
+<parallel_talk>
+
+so the deliverable sumarizes presentation platforms of live, transcript.
+
+(PERSON7) Yeah don't worry to do that.
+
+(PERSON4) It doesn't even type.
+
+Yeah, okay.
+
+So there is, I think that Overleaf has some serious troubles.
+
+Trancsript, translations, yeah.
+
+So let's use simple simple item, so there will be [ORGANIZATION5] subtitle like platform.
+
+<unintelligible> paragraph platform, and remember to re-use the text already written in this.
+
+<laugh>
+
+(PERSON7) We definitely use the ACL paragraphs.
+
+(PERSON4) Yeah, so that's a, that's a good question about the [ORGANIZATION1] presentation.
+
+Let's look at the deliverable.
+
+It's too bad, that I-
+
+One, two, three, four just joined.
+
+<laugh>
+
+<unintelligible>
+
+But it's probably doesn't work for him.
+
+<another-language>
+
+(PERSON7) Hi.
+
+(PERSON6) Sorry.
+
+It works from this one, two, three four, it's me from the phone.
+
+(PERSON4) Yeah, yeah, okay.
+
+(PERSON6) Connect from the laptop, but I already was in this you know application, so I wonder what the problem is, sorry for that.
+
+(PERSON4) Yeah.
+
+(PERSON7) No problem.
+
+(PERSON4) You made it.
+
+So we are now in the Overleaf, which [PERSON8] has sent the URL for.
+
+So if you check you email.
+
+(PERSON6) Yeah.
+
+(PERSON4) And there is this Overleaf link.
+
+And in in in says it doesn't compile.
+
+And actually it is called still D00 deliverable template.
+
+Let's not bother with that.
+
+Let's simply use it as, like, use it as our deliverable, and then we will, once we get it compiling we will make it again the template.
+
+So please open that link anyway.
+
+And we can, what we can do,share.
+
+No, we don't have the permissions.
+
+So, maybe maybe this.
+
+(PERSON6) I have for our four zero four error in web page.
+
+(PERSON4) Do you see the chat, do you see the chat window?
+
+Try the link in the chat window.
+
+(PERSON6) Where is the chat window?
+
+<laugh>
+
+Yeah, okay.
+
+<parallel_talk>
+
+(PERSON4) Yeah, okay, great, so then if you click on our icons, either mine or or [PERSON7]'s.
+
+You will also get your cursor next to the us, it's on the top AB review, and next to that there is, there is.
+
+(PERSON6) Yeah, I see.
+
+(PERSON4) Yeah, so click <unintelligible>.
+
+Now you see where we are.
+
+So we can discuss the structure of this deliverable, and you already know the ACL demo paper, so definitely please read that, and I think, so it is important to describe not only the the end users like what the user sees, but also to describe the internals in some way.
+
+So like what is behind the scenes.
+
+I know that [ORGANIZATION5] probably doesn't want to disclose some of these things.
+
+We probably do not mind that much if we disclose more on our implementation.
+
+So, yeah, please just, it's important to see what we have done 
+
+(PERSON6) Um-hum.
+
+(PERSON7) Well, I just asked the about the possibility to share internals, and it shouldn't be a problem we should.
+
+We can do it.
+
+Of course.
+
+(PERSON4) Okay.
+
+(PERSON7) Arrange the meaningfully information to be shared.
+
+But of course, in the scope of the project and descended it's important to explain why why it works.
+
+(PERSON4) Yeah, so, so that's an important thing, this deliverable is going to be I'm scrolling, well it doesn't say so, but we need to follow, the requirements in the description of work and the D platform updates, the six, is it publishing platform it's called demonstrator.
+
+And it's for public, so this publishing platform deliverable, this text will be public.
+
+Which will be publicly available on the [PROJECT1] website.
+
+(PERSON7) Okay,okay.
+
+(PERSON4) So that's, yeah.
+
+So these six one existing.
+
+<unintelligible>
+
+Web based publishing platform be developed, so if you are looking I'll copy that.
+
+So this is the description of what we are going to be checked against.
+
+From <unintelligible>.
+
+It is says there is this task, it doesn't work.
+
+Yeah.
+
+There is this task.
+
+And then there is this deliverable.
+
+So in the says that the [ORGANIZATION1] platform, needs to be included.
+
+(PERSON7) In fact.
+
+(PERSON4) In fact, yes.
+
+So please talk to, it should not be too difficult for [ORGANIZATION1] either, because they need one screenshot, which was already available in some preliminary version for the review, review meeting, if you remember, if you still have the slides.
+
+(PERSON7) Yes.
+
+(PERSON4) Then there was this screenshot, and that with some description should be sufficient.
+
+And so this [ORGANIZATION1].
+
+What is that live transcript tab.
+
+Screenshot and description.
+
+(PERSON7) Who is our intermediator with [ORGANIZATION1], I should talk with <unintelligible>.
+
+(PERSON4) That's always difficult.
+
+<laugh>
+
+So I always email I think [PERSON11] is, [PERSON11] and [PERSON5], that always need too long time to contact the the people who actually know.
+
+And [PERSON10] is the one who knows most.
+
+So that's-
+
+(PERSON7) Okay, I will email all of them.
+
+(PERSON4) Yeah, please email all of them and say, and please tell them that actually, we are quite late with the preparation.
+
+Because it has to be internally reviewed and normally we give ourselves two weeks, which is today.
+
+So, and we probably don't have anyone to, anyone who would've volunteered to review this.
+
+I'm checking in the continuous reporting.
+
+Publishing platform, it is jumping too much.
+
+Yeah, we don't have anyone to revi-, yeah, so I'll push you [PERSON7], I'm now looking at the [ORGANIZATION6] sheet, I'll again paste the link so that you can easily get it to the chat window.
+
+So this the continuous reporting [ORGANIZATION6] sheet.
+
+And, in the [ORGANIZATION6] sheet I'll put, the link to the source which is here.
+
+And then I'll put [PERSON7] as the main.
+
+[PERSON7].
+
+As the main person.
+
+And then we need the reviewer.
+
+So, who could we ask, it ideally someone from [ORGANIZATION2].
+
+Or someone from [ORGANIZATION4], so I'll email those.
+
+And I'll tell them, so the, when could you two have it, because you two are, you two are providing most of the content, and the more important content, the [ORGANIZATION1] won't tell any any details anyway.
+
+(PERSON7) Well, I have a <unintelligible> of course i have several internal documents describing, for example, the architecture, the function analyses.
+
+And so on, I was just to arrange something in order to summarize.
+
+<laugh>
+
+Informations, I will spend the today afternoon.
+
+(PERSON4) Mm-hmm.
+
+(PERSON7) Preparing, I will be really happy if overleaf documents start compiling but it's not problem.
+
+(PERSON4) Yes.
+
+Yes, Yep.
+
+Yep.
+
+(PERSON7) Problem, for us is important.
+
+But uh, I think that it's important to have a kind of the same structure for all three platforms.
+
+To say that, yes, we are working-
+
+(PERSON4) On all of those.
+
+(PERSON7) Simply check.
+
+And, but I will spend the afternoon putting the info inside, and also on Monday, well actually we are really <unintelligible> to them, deliverables, so don't worry.
+
+We will do it as fast as possible.
+
+We are also preparing trying to prepare at least, the ACL paper.
+
+(PERSON4) And the progress to the template.
+
+Not ACL, EAMT.
+
+(PERSON7) Yes, sorry the ELG document.
+
+(PERSON4) So there is yes, there were too many things to discuss at once.
+
+I think that, so well, what was the documents.
+
+I think there was EAMT demo paper.
+
+That was one thing 
+
+(PERSON7) Um-hum.
+
+The, it was the ELG the one suggested from [ORGANIZATION2].
+
+The workshop.
+
+(PERSON4) Yeah, the workshop at <unintelligible>.
+
+(PERSON7) Yes, we are working, trying to figure something goes for these kinds of publication, and we will ask your feedback next week for sure.
+
+(PERSON4) Um-hum, okay.
+
+I'm trying to locate the details of that.
+
+So.
+
+<parallel_talk>
+
+And there is, that's what [PERSON1] said, so EAMT, February 21.
+
+That's the ELG we should submit, so that's the thing.
+
+Yep, so that deadline is very very soon.
+
+The deadline is, we have just a week.
+
+I don't think it would be a problem.
+
+(PERSON7) Is optional at least, the deliverable instead not.
+
+<laugh>
+
+(PERSON4) Yeah, exactly.
+
+Yeah.
+
+So I think that the ideally, we should have our full content ready by Wednesday.
+
+(PERSON6), is that also feasible for you?
+
+(PERSON6) Yeah, I think so.
+
+(PERSON4) So that would get us like two days to, so we could reuse that for the for the paper for ELG and [PERSON6] you were not on the not on the call.
+
+So I'll add you.
+
+(PERSON6) Which call?
+
+(PERSON4) On that was discussed on the [PROJECT1] call, so I'm and remote call the standard consortium wide thing.
+
+So [PERSON6] here are the deadlines for the two well user style work shops where we want to reuse reuse the content of the six one.
+
+So I've just emailed you, I've assigned it to you its its a [ORGANIZATION6] assigment in a [ORGANIZATION6] doc 
+
+And it has links to, those menus, not links sometimes not links sometimes only descriptions.
+
+Ok, so we should ask [PERSON1] and [PERSON2], and, yeah, I'm emailing colleagues in [ORGANIZATION2], and [ORGANIZATION4] who of them could review the the deliverable.
+
+And I'll ask them, if they could do it towards the end of next week.
+
+With the hope that you will have that the content ready.
+
+And I think its its definitely feasible for [PERSON7].
+
+And its also will very likely feasible for [PERSON6], because you already have some of the documentation ready.
+
+And it doesn't have to be like for, documentation.
+
+(PERSON6) How long do you expect the whole document to be <unintelligible>.
+
+(PERSON4) I think two pages could be enough, because it's primarily a demonstrator and not the report.
+
+(PERSON6)Mm-hmm.
+
+(PERSON4) So, this is like a cover letter in way, so it should definitely.
+
+(PERSON7) We will also avoid <unintelligible> world functional analysis because, you know, it is really verbous.
+
+<laugh>
+
+And it doesn't provide that much.
+
+(PERSON4) Yeah.
+
+(PERSON7) We need functionalities to be provided, and next paragraph for example the architecture, how the information flow wo- works.
+
+And we collected to the mediator or it's not interesting.
+
+It's interested.
+
+Maybe 
+
+(PERSON4) I think it is interesting.
+
+I think it's interesting the way it's connected.
+
+It's also for us as piece of documentation.
+
+So imagine that we have to replace [PERSON3] with someone.
+
+So.
+
+<laugh>
+
+In that case such a document would be useful.
+
+(PERSON7) Okay.
+
+And maybe some notes regarding the user interface.
+
+We will lose interface, because <unintelligible> people see.
+
+And we already have it, and that's it.
+
+Maybe some picture.
+
+Well, something that exist and it's working.
+
+Pictures are fine, also to prove that it's, it's something that exist and it's not only written on documentation.
+
+Okay.
+
+(PERSON4) Yeah.
+
+So I'm writing the requests for yours, and the is six one.
+
+<parallel_talk>
+
+We need the internal review, the link will the-
+
+The content should be there towards the end of the next week.
+
+I will be mostly offline, that's a slight complication.
+
+Offline, and during the last week of February.
+
+Could anyone from you please <unintelligible>.
+
+<parallel_talk>
+
+Oh, it was <unintelligible> too early.
+
+<laugh>
+
+<parallel_talk>
+
+We would like to <unintelligible> the ELG paper from that and the ELG paper is due next Friday, Feb 21.
+
+Okay?
+
+So I think that, I will.
+
+I don't think that there is anything that we need to discuss at the moment, because we have the document.
+
+It doesn't compile.
+
+I should work on that to fix that compilation, but you can work on the plain text content already, and it compiles outside of Overleaf.
+
+So if you, if you for [PERSON6].
+
+(PERSON6) have you ever worked of Overleaf outside of Overleaf?
+
+(PERSON6) I mean like <unintelligible>, but not with Overleaf.
+
+(PERSON4) Yeah, so, but you are looking at the link, so you can click the Menu button which is on the left, at the top left corner.
+
+And there is in the in the menu.
+
+There is Dropbox and there is Git and you click Git, and it will give you Git clone command.
+
+You will use your normal Overleaf credentials, so please click it and double check that you can clone it.
+
+(PERSON6) I don't have, i just use the [ORGANIZATION6] credentials.
+
+So.
+
+(PERSON4) Okay, probably that will work as well.
+
+I have no idea.
+
+No that's strange, I don't know how that'll work.
+
+Maybe that's a problem, because I remember that [PERSON9] has a problem with cloning.
+
+He doesn't, he cannot really, really clone it.
+
+So, try cloning yourself and [PERSON7] the cloning does work for you or not?
+
+Or you have not tried.
+
+(PERSON7) I I, missed the word the clone button is. 
+
+Sorry
+
+(PERSON4) Yeah.
+
+So there it's, there is the menu, there is the menu, top left corner while you are in Overleaf.
+
+(PERSON7) Sorry.
+
+(PERSON4) Are you in Overleaf?
+
+(PERSON7) Um-hum.
+
+(PERSON4) There is the menu button.
+
+And then there is a sync with Dropbox, Git or whatever.
+
+So try Git.
+
+(PERSON7) Ok you can clone them.
+
+(PERSON4) And then, and it will give you the command Git clone.
+
+So please try if it really works for you or not.
+
+(PERSON6) You will need to create special password for Overleaf, but then it probably should work.
+
+(PERSON4) Ok, so if you create special 
+
+<parallel_talk>
+
+(PERSON7) Okay, username and password should.
+
+Sorry, I have to check with credentials.
+
+(PERSON6) I'll play with it, I'll create my credentials.
+
+(PERSON4) So the short message is that if you clone it.
+
+It works
+
+So I dunno why, if you clone it and there is even a make file.
+
+So you just type make, and it, it will compile.
+
+I don't know why it's fading here.
+
+(PERSON7) Ok, thanks.
+
+(PERSON4) Yeah.
+
+Yeah, so [PERSON7], do you have any questions concerning what should be in the deliverable.
+
+What is the necessary content.
+
+(PERSON7) Well, proceed just important to have em for for each part the same structure at least so that, the functional main functionals <unintelligible>.
+
+The architecture with the workflow. 
+
+(PERSON4) Um-hum.
+
+Yeah.
+
+(PERSON7) User interface with maybe some picture.
+
+I think that a couple of pages could be fulfilled easily, with those information.
+
+Maybe a graph describing the workflow or something.
+
+(PERSON4) Yeah, yeah
+
+(PERSON7) The rest is fine, definitely.
+
+(PERSON4) Yeah, okay.
+
+So please, <unintelligible> this structure down to that Overleaf document.
+
+And most importantly, send an email to [ORGANIZATION1] already today, asking them to ideally have it there by Wednesday and if they totally like refuse or whatever if they say "Well, we can do it in two months from now" then please look up your slides from the review, and like briefly sketch a paragraph for them.
+
+So just use the screenshot, which is in the review slides and a paragraph where you describe, what do you know how it behaves.
+
+(PERSON7) May i propose you to, directly use the second strategy.
+
+And ask [ORGANIZATION1] to review my, my understanding of the platform.
+
+Okay.
+
+<laugh>
+
+(PERSON4) So so you you are suggesting that you'll write it right away.
+
+And then, you will know, okay, yes
+
+(PERSON7) <unintelligible> fix and so on
+
+(PERSON4) Yes, yes, yes.
+
+So if you if you do that, that would be even better.
+
+<laugh>
+
+(PERSON7) Yep.
+
+No problem.
+
+(PERSON4) Ok, great.
+
+(PERSON7) In any case I will mail you today, don't worry
+
+(PERSON4) Yeah, them, them, they need toknow that's.
+
+And [PERSON6] please follow the structure that [PERSON7] well, have suggested in that Overleaf.
+
+So have separate section on that and provide again some screenshots, screenshots are  already in the ACL demo paper.
+
+So your platform is is describe to some extenting in the demo paper.
+
+So maybe you to simply need to copy paste it on that.
+
+(PERSON6) Yeah, yeah.
+
+Where I, there is probably a link in the email for for the original of the ACL paper, right?
+
+(PERSON4) I'll, I can share it as well.
+
+(PERSON6) I know you cloned the 
+
+(PERSON4) mm-hmm.
+
+(PERSON6) File so I can try making it.
+
+(PERSON4) Yeah, turn demo paper.
+
+(PERSON6) Error, failed.
+
+<laugh>
+
+(PERSON4) Okay.
+
+(PERSON6) Recipe for deliverable failed.
+
+(PERSON4) Um-hum, well that's bit tech but the PDF got created, didn't it?
+
+(PERSON6) Let me check, there is one, okay.
+
+(PERSON4) I think that it's because there is no references.
+
+So that's a problem, that it's.
+
+So the ACL demo paper is now linked also from that Overleaf document.
+
+(PERSON6) Yeah, it's the logo.
+
+<laugh>
+
+(PERSON4) I'll modify the make file as long as you don't have any references, I'll simply avoid Bibteching them.
+
+Yeah, and now it's, now it compiles seamlessly, and I'll do one more thing.
+
+So make filed, this is zero zero two as six one.
+
+Make Git at the six one preview makes.
+
+And if you want to commit, which is important and to to do properly, and then type of make space CI and have a look at the goal in in the make file, because the commit actually
+
+first involve some pull push dents with Overleaf Git.
+
+So if people are editing, it will become impossible for you to commit your work, because pull and push, they will always have some change.
+
+So you have to for actual pushing of your changes.
+
+If people are editing in the same time you have to wait.
+
+And and push it on later.
+
+So now it like compile seamlessly for me, 
+
+(PERSON6) Yeah, I see, sorry, I actually looking at the paper.
+
+<laugh>
+
+(PERSON4) Ok so [PERSON7], if that's all, let's, I'll disconnect, maybe you want to discuss something more with [PERSON6] or not, but I'll disconnect and I'll try quickly debugging that's editing.
+
+(PERSON7) I've just couple of questions regarding the make and compiler.
+
+But we can discuss about the to me the [PERSON6].
+
+[PERSON6], it works for you?
+
+(PERSON6) Yeah, yeah.
+
+(PERSON7) Nice, okay.
+
+(PERSON6) Sorry, so you mean 
+
+(PERSON7) Thank you [PERSON4].
+
+(PERSON4) Okay thank you, thanks.
+
+(PERSON7) Bye.
+
+(PERSON6) Bye bye.
+
+(PERSON4) Bye.
+
+(PERSON6) Hi [PERSON7], this is [PERSON6], i'm actually [PERSON4]'s colleague from you know back like 13 years, actually remember me and him taking some some lecture.
+
+Thats probably 2000 or something.
+
+<laugh>
+
+So now, I joined his team.
+
+Just the, you know, part part time collaboration to keep.
+
+(PERSON7) Nice to meet you.
+
+(PERSON6) Nice to meet you too.
+
+So what was your question about to were you in the like local copy or.
+
+(PERSON7) Yep, I I cloned the Git repo, I've just pulled all the last modifications.
+
+In order to, I missed the part regarding the, how to commit, how to compile it.
+
+I've just tried a make.
+
+<laugh>
+
+(PERSON6) Do you start doing something?
+
+(PERSON7) Yeah.
+
+But it task me about regarding the documents name.
+
+And I probably put it the wrong thing.
+
+How do, how should I compile it?
+
+(PERSON6) Do you have, <unintelligible> or something?
+
+(PERSON7) Actually I do not right, <unintelligible> directly on my workstation, but it should be installed hopefully.
+
+<laugh>
+
+So first thing okay, if I haven't things installed, I have to install them, okay nice.
+
+And after that?
+
+(PERSON6) I just typed make.
+
+And it probably has.
+
+Actually since it started teching, would it doing the internally.
+
+(PERSON7) Yeah.
+
+(PERSON6) Internally recording the Git command.
+
+I 'm just looking into what what it should be making Git commit from Git stash, Git pull.
+
+That's fine.
+
+That's kind of understood to get the latest changes first.
+
+And then he push it.
+
+(PERSON7) Well, on my side.
+
+It worries about the fact that last page .style, doesn't take <unintelligible>.
+
+But then it prompts me for a file name.
+
+(PERSON6) Last page, ok so.
+
+It's probably a package that's missing.
+
+So the the files the tech file, taking requires this use package require package.
+
+(PERSON7) Okay.
+
+(PERSON6) And it's like, you don't have it.
+
+You don't have in installed.
+
+So if I remember it some time back.
+
+So you might need some <unintelligible> package manager.
+
+Which it's quite time when I use it.
+
+So I don't know how that's actually done.
+
+(PERSON7) Oh, don't worry, I also do not remember my <unintelligible> manager, which one is, but just give me one second.
+
+(PERSON6) Or is it maybe just up to get something.
+
+No.
+
+Its TLMGR.
+
+They are like Tex Live manager.
+
+TLMGR.
+
+(PERSON7) No.
+
+(PERSON6) Or I'm just looking into, something on the Internet.
+
+Wikibooks.
+
+Packages.
+
+And it says the.
+
+So you'll probably have to figure it out somehow.
+
+It's either the standard packages that you have or this Tex Live manager.
+
+(PERSON7) <unintelligible> is just a PVS maker.
+
+(PERSON6) Yeah, it's the maker of the PDF.
+
+But how could you find it, find out.
+
+So you.
+
+If you type TLMGR, does it do anything for you?
+
+Do you have it installed?
+
+(PERSON7) TL- no.
+
+(PERSON6) Okay, so you have some other distribution.
+
+(PERSON7) Don't worry.
+
+I will check it by myself.
+
+<laugh>
+
+(PERSON6) And do you also say, you can say, you can say the B T.
+
+You get for the distant for you you.
+
+(PERSON7) I will work on-, exactly <unintelligible>.
+
+(PERSON6) And then they say insert package name.
+
+Just simply.
+
+But the package names are called the tex live dash.
+
+So which one did you miss?
+
+Was it which style file did you miss?
+
+(PERSON7) Last page.
+
+(PERSON6) So if you say the YAM install tex live dash last page or something.
+
+Or <unintelligible> last page.
+
+I would try these.
+
+(PERSON7) I I'm, I'm trying.
+
+(PERSON6) Okay, okay.
+
+(PERSON7) Well of course is start
+
+<laugh>
+
+Updating all the <unintelligible>.
+
+<laugh>
+
+Well, let's.
+
+It's updating <unintelligible>.
+
+(PERSON6) I'm just sending in the conference chat, I'm just sending the, the link to the Wikibooks what I've just saw.
+
+I dunno if it works or not.
+
+But.
+
+(PERSON7) It found it, nice.
+
+You may install.
+
+Well sudo.
+
+<other_noise>
+
+Okay it's finishing the install phase.
+
+Okay.
+
+I re-run make.
+
+It still worries about last page .style. 
+
+<laugh>
+
+Or enter new name, that's why.
+
+(PERSON6) No no, it would, no it won't work.
+
+It won't work, you need to kill it.
+
+Just either control C or control R.
+
+(PERSON7) Yep, yep.
+
+(PERSON6) Because, you know, it's kinda tells you, if you if you have a different package to load instead of it.
+
+But that's not <unintelligible> right.
+
+(PERSON7) Okay.
+
+(PERSON6) I am actually trying to find.
+
+Paragraph view text.
+
+<other_noise>
+
+Okay, there is section of presentation techniques in the paper they wrote for ACL.
+
+So I'll copy it over right to the document.
+
+(PERSON7) Okay, nice.
+
+<other_noise>
+
+I'm so stupid.
+
+I am, well still the wrong package, that why it doesn't, doesn't found it.
+
+Okay.
+
+(PERSON6) So now, yeah.
+
+(PERSON7) Okay, let's make okay.
+
+It complains on different styling but.
+
+I understood the pattern, I'm going to install it.
+
+Yeah.
+
+<other_noise>
+
+(PERSON6) It's quite, convinient I mean this Overleaf.
+
+It's really.
+
+(PERSON7) Yeah definitely.
+
+(PERSON6) It's like very well done.
+
+Doesn't let me in for the Overleaf.
+
+For the other paper.
+
+(PERSON7) Yes, I'm keeping stoling dependencies.
+
+I think the problem we are going to be kick of the from the, the room, because usually, it lasts just one hour.
+
+(PERSON6) No problem, so I what I'm doing right now, I'm putting in the piece from the ACL paper and I'm going to copy even the screenshots that were there, so that it kind of compiles.
+
+And then.
+
+Yeah.
+
+Yeah.
+
+(PERSON7) Okay, at some point.
+
+I will finish installing the dependencies.
+
+(PERSON6) Yeah.
+
+(PERSON7) In order to, well Overleaf will work as Git repost, that I can commit my modification and pull your modifications locally.
+
+Okay.
+
+I can do it.
+
+I will check the make file for the, the target names.
+
+In order to make the correct command.
+
+(PERSON6) It maybe even, it's actually it's it's working so maybe easier to working online, so maybe it's easier to without, without that.
+
+(PERSON7) Oh yes, it's finally worked for me too.
+
+Nice.
+
+Okay.
+
+Thank you so much.
+
+(PERSON6) No no no.
+
+So you see those version and the screenshots in a while, I'll just finish it and then I probably work on it like over night or something, but I guess.
+
+I will put in some more details.
+
+Technical ones, and when it's like, enough content <unintelligible>.
+
+<unintelligible> a note if you think I should modify something, I actually don't feel like I should be the final one to dictate what's in there.
+
+So if you feel like, you know.
+
+(PERSON7) I think that, that probably you will write something much better that what I can able to provide to this document, so don't worry.
+
+<laugh>
+
+(PERSON6) We will see.
+
+<unintelligible>
+
+<laugh>
+
+(PERSON7) Thank you so much for your work.
+
+(PERSON6) Yeah as well, thank you very much and hear from you later.
+
+Okay.
+
+Bye bye
+
+(PERSON7) Bye
